@@ -1,0 +1,159 @@
+<header class="site-header">
+  <div class="wrapper">
+    <div class="site-branding">
+      <h1 class="site-title">
+        <a href="{{ '/' | relative_url }}">{% t site.title %}</a>
+      </h1>
+      <p class="site-tagline">{% t site.description %}</p>
+    </div>
+
+    <!-- Language Switcher -->
+    <div class="language-switcher">
+      {% for language in site.languages %}
+        {% if language == site.default_lang %}
+          <a href="{{ site.baseurl }}/" class="lang-link {% if site.lang == language %}active{% endif %}">{{ language | upcase }}</a>
+        {% else %}
+          <a href="{{ site.baseurl }}/{{ language }}/" class="lang-link {% if site.lang == language %}active{% endif %}">{{ language | upcase }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <nav class="main-navigation">
+      <ul class="nav-menu">
+        <li class="menu-item">
+          <a href="{% tl / %}">{% t navigation.home %}</a>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">{% t navigation.research %}</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="{% tl /artigos %}">{% t navigation.publications %}</a>
+            </li>
+            <li class="submenu-item">
+              <a href="{% tl /meulivro %}">{% t navigation.book %}</a>
+            </li>
+            <li class="submenu-item">
+              <a href="{% tl /tese-de-doutorado %}">{% t navigation.phd %}</a>
+            </li>
+            <li class="submenu-item has-dropdown">
+              <a href="#" onclick="return false;">{% t navigation.specials %}</a>
+              <ul class="dropdown-menu level-2">
+                <li class="submenu-item">
+                  <a href="{% tl /tresseculosdemodas %}">{% t navigation.three_centuries %}</a>
+                </li>
+                <li class="submenu-item has-dropdown">
+                  <a href="#" onclick="return false;">{% t navigation.library %}</a>
+                  <ul class="dropdown-menu level-3">
+                    <li class="submenu-item">
+                      <a href="{% tl /livrosmoda %}">{% t navigation.fashion_art %}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{% tl /livrosgravura %}">{% t navigation.engravings %}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{% tl /revistasfrancesas %}">{% t navigation.french_magazines %}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{% tl /revistasbrasileiras %}">{% t navigation.brazilian_magazines %}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{% tl /livrosbrasileirosja %}">{% t navigation.brazilian_books %}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{% tl /livrosteatro %}">{% t navigation.theatrical_texts %}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{% tl /livroshistoria %}">{% t navigation.french_history %}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{% tl /livosgouncourt %}">{% t navigation.goncourt_books %}</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">{% t navigation.projects %}</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="{% tl /blog-clipping %}">{% t navigation.diary %}</a>
+            </li>
+            <li class="submenu-item has-dropdown">
+              <a href="#" onclick="return false;">{% t navigation.media %}</a>
+              <ul class="dropdown-menu level-2">
+                <li class="submenu-item">
+                  <a href="{% tl /podcasts %}">{% t navigation.podcasts %}</a>
+                </li>
+                <li class="submenu-item">
+                  <a href="{% tl /videos %}">{% t navigation.videos %}</a>
+                </li>
+              </ul>
+            </li>
+            <li class="submenu-item">
+              <a href="{% tl /territoriodamoda %}">{% t navigation.territory %}</a>
+            </li>
+            <li class="submenu-item">
+              <a href="{% tl /caixadecriadores %}">{% t navigation.creators_box %}</a>
+            </li>
+          </ul>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">{% t navigation.info %}</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="{% tl /curriculo %}">{% t navigation.curriculum %}</a>
+            </li>
+            <li class="submenu-item">
+              <a href="{% tl /contato %}">{% t navigation.contact %}</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      
+      <!-- Mobile menu toggle -->
+      <div class="mobile-menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<script>
+// Mobile menu functionality
+document.addEventListener('DOMContentLoaded', function() {
+  const mobileToggle = document.querySelector('.mobile-menu-toggle');
+  const navMenu = document.querySelector('.nav-menu');
+  const dropdownItems = document.querySelectorAll('.menu-item.has-dropdown');
+  
+  if (mobileToggle) {
+    mobileToggle.addEventListener('click', function() {
+      navMenu.classList.toggle('mobile-active');
+    });
+  }
+  
+  dropdownItems.forEach(item => {
+    const link = item.querySelector('a');
+    if (link && link.getAttribute('href') === '#') {
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        if (window.innerWidth <= 768) {
+          item.classList.toggle('mobile-dropdown-open');
+        }
+      });
+    }
+  });
+  
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.main-navigation')) {
+      navMenu.classList.remove('mobile-active');
+    }
+  });
+});
+</script>

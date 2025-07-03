@@ -1,0 +1,116 @@
+main:
+  - title: 
+      pt: "HOME"
+      en: "HOME"
+    url: "/"
+    
+  - title: 
+      pt: "PESQUISA"
+      en: "RESEARCH"
+    url: "#"
+    submenu:
+      - title: 
+          pt: "Publicações"
+          en: "Publications"
+        url: "/artigos/"
+      - title: 
+          pt: "Livro - Entre palavras, desenhos e modas"
+          en: "Book - Between words, drawings and fashion"
+        url: "/meulivro/"
+      - title: 
+          pt: "Doutorado"
+          en: "PhD"
+        url: "/tese-de-doutorado/"
+      - title: 
+          pt: "ESPECIAIS"
+          en: "SPECIAL"
+        url: "#"
+        submenu:
+          - title: 
+              pt: "O livro Tres Seculos de Modas"
+              en: "The book Three Centuries of Fashion"
+            url: "/tresseculosdemodas/"
+          - title: 
+              pt: "Biblioteca Joao Affonso"
+              en: "Joao Affonso Library"
+            url: "#"
+            submenu:
+              - title: 
+                  pt: "Moda e Arte"
+                  en: "Fashion and Art"
+                url: "/livrosmoda/"
+              - title: 
+                  pt: "Gravuras e Ilustrações"
+                  en: "Engravings and Illustrations"
+                url: "/livrosgravura/"
+              - title: 
+                  pt: "Revistas francesas"
+                  en: "French magazines"
+                url: "/revistasfrancesas/"
+              - title: 
+                  pt: "Revistas brasileiras"
+                  en: "Brazilian magazines"
+                url: "/revistasbrasileiras/"
+              - title: 
+                  pt: "Livros brasileiros"
+                  en: "Brazilian books"
+                url: "/livrosbrasileirosja/"
+              - title: 
+                  pt: "Textos teatrais"
+                  en: "Theatrical texts"
+                url: "/livrosteatro/"
+              - title: 
+                  pt: "História francesa"
+                  en: "French history"
+                url: "/livroshistoria/"
+              - title: 
+                  pt: "Livros dos irmãos Goncourt"
+                  en: "Goncourt brothers books"
+                url: "/livosgouncourt/"
+                
+  - title: 
+      pt: "PROJETOS"
+      en: "PROJECTS"
+    url: "#"
+    submenu:
+      - title: 
+          pt: "Diário de Bordo"
+          en: "Logbook"
+        url: "/blog-clipping/"
+      - title: 
+          pt: "MÍDIA"
+          en: "MEDIA"
+        url: "#"
+        submenu:
+          - title: 
+              pt: "Podcasts"
+              en: "Podcasts"
+            url: "/podcasts/"
+          - title: 
+              pt: "Vídeos"
+              en: "Videos"
+            url: "/videos/"
+      - title: 
+          pt: "Território da Moda"
+          en: "Fashion Territory"
+        url: "/territoriodamoda/"
+      - title: 
+          pt: "Caixa de Criadores"
+          en: "Creators Box"
+        url: "/caixadecriadores/"
+        
+  - title: 
+      pt: "+INFO"
+      en: "+INFO"
+    url: "#"
+    submenu:
+      - title: 
+          pt: "CURRÍCULO"
+          en: "RESUME"
+        url: "/curriculo/"
+      - title: 
+          pt: "Contato"
+          en: "Contact"
+        url: "/contato/"
+        
+

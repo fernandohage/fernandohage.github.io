@@ -1,0 +1,56 @@
+# Traduções em Português
+site:
+  title: "Fernando Hage"
+  description: "Designer e Professor"
+  tagline: "Fashion, Arts and Culture"
+
+navigation:
+  home: "HOME"
+  research: "PESQUISA"
+  projects: "PROJETOS"
+  info: "+INFO"
+  
+  # Research submenu
+  publications: "Publicações"
+  book: "Livro - Entre palavras, desenhos e modas"
+  phd: "Doutorado"
+  specials: "Especiais"
+  
+  # Specials submenu
+  three_centuries: "O livro Tres Seculos de Modas"
+  library: "Biblioteca Joao Affonso"
+  fashion_art: "Moda e Arte"
+  engravings: "Gravuras e Ilustrações"
+  french_magazines: "Revistas francesas"
+  brazilian_magazines: "Revistas brasileiras"
+  brazilian_books: "Livros brasileiros"
+  theatrical_texts: "Textos teatrais"
+  french_history: "História francesa"
+  goncourt_books: "Livros dos irmãos Goncourt"
+  
+  # Projects submenu
+  diary: "Diário de Bordo"
+  media: "Midia"
+  podcasts: "Podcasts"
+  videos: "Vídeos"
+  territory: "Território da Moda"
+  creators_box: "Caixa de Criadores"
+  
+  # Info submenu
+  curriculum: "Curriculo"
+  contact: "Contato"
+
+pages:
+  welcome_title: "Bem-vindo ao Site de Fernando Hage"
+  welcome_subtitle: "Designer e Professor | Fashion, Arts and Culture"
+  welcome_description: "Este é o site oficial do designer e professor Fernando Hage, contendo projetos, imagens, publicações, artigos, contato, projetos especiais e informações sobre o Caixa de Criadores, premiado em economia criativa por apoiar novos criadores de moda e design."
+  latest_posts: "Últimos Posts"
+  about: "Sobre"
+  location: "Localização"
+  tagline: "História da moda, cultura visual, consultoria criativa"
+
+common:
+  read_more: "Leia mais"
+  back: "Voltar"
+  next: "Próximo"
+  previous: "Anterior"
