@@ -14,15 +14,14 @@ disable_disk_cache: true
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-multiple-languages-plugin
-  - jekyll-paginate
+  - jekyll-polyglot
 
 # Multilingual configuration
 languages: ["pt", "en"]
 default_lang: "pt"
 exclude_from_localization: ["javascript", "images", "css", "assets"]
 default_locale_in_subfolder: true
-
+lang_from_path: true
 
 # Exclude from processing
 exclude:
@@ -34,7 +33,6 @@ exclude:
   - node_modules/
   - vendor/
   - fernandohage.weebly.com
-  - "*.py"
   - .venv
   - .vscode/
 
