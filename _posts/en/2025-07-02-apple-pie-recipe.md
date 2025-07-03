@@ -3,7 +3,7 @@ layout: post
 title: "Classic Apple Pie Recipe"
 date: 2025-07-02 15:00:00 +0200
 categories: recipes cooking
-language: en
+lang: en
 author: Fernando Hage
 ---
 

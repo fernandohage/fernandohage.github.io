@@ -114,13 +114,17 @@
 
     <!-- Language Switcher -->
     <div class="language-switcher">
-      {% for language in site.languages %}
-        {% if language == site.active_lang %}
-          <a href="{{ '/' | relative_url }}" class="lang-link active">{{ language | upcase }}</a>
+    {% for language in site.languages %}
+      {% if language == site.active_lang %}
+        <span class="lang-link active">{{ language | upcase }}</span>
+      {% else %}
+        {% if language == site.default_lang %}
+          <a href="{{site.url}}" class="lang-link" >{{ language | upcase }}</a>
         {% else %}
-          <a href="/{{ language }}/" class="lang-link">{{ language | upcase }}</a>
+          <a href="{{site.url}}/{{site.baseurl}}/{{ language }}/{{ page.url }}" class="lang-link">{{ language | upcase }}</a>
         {% endif %}
-      {% endfor %}
+      {% endif %}
+    {% endfor %}
     </div>
   </div>
 </header>

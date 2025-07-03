@@ -6,8 +6,8 @@ original_description: >-
   publicações, artigos, contato, projetos especiais e informações sobre o 
   Caixa de Criadores, premiado em economia criativa por apoiar novos criadores 
   de moda e design.
-baseurl: "" 
-url: "" 
+baseurl: ""
+url: "http://127.0.0.1:4000"
 disable_disk_cache: true
 
 # Build settings
