@@ -1,7 +1,6 @@
-# Welcome to Jekyll!
 # Site settings
 original_title: Fernando Hage
-email: contato@fernandohage.com
+email: fernandohage at gmail.com
 original_description: >- 
   Site do designer e professor Fernando Hage, contendo projetos, imagens, 
   publicações, artigos, contato, projetos especiais e informações sobre o 
@@ -9,8 +8,7 @@ original_description: >-
   de moda e design.
 baseurl: "" 
 url: "" 
-twitter_username: fernandohage
-github_username: fernandohage
+disable_disk_cache: true
 
 # Build settings
 theme: minima
@@ -20,8 +18,9 @@ plugins:
 
 # Multilingual configuration
 languages: ["pt", "en"]
-#default_lang: pt
+default_lang: "pt"
 exclude_from_localization: ["javascript", "images", "css", "assets"]
+default_locale_in_subfolder: true
 
 
 # Exclude from processing

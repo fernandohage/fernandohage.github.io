@@ -1,22 +1,13 @@
 <header class="site-header">
-  <div class="wrapper">
+  <div class="header-wrapper">
     <div class="site-branding">
       <h1 class="site-title">
         <a href="{{ '/' | relative_url }}">{% t site.title %}</a>
       </h1>
-      <p class="site-tagline">{% t site.description %}</p>
+      <p class="site-tagline">{% t site.tagline %}</p>
     </div>
 
-    <!-- Language Switcher -->
-    <div class="language-switcher">
-      {% for language in site.languages %}
-        {% if language == site.default_lang %}
-          <a href="{{ site.baseurl }}/" class="lang-link {% if site.lang == language %}active{% endif %}">{{ language | upcase }}</a>
-        {% else %}
-          <a href="{{ site.baseurl }}/{{ language }}/" class="lang-link {% if site.lang == language %}active{% endif %}">{{ language | upcase }}</a>
-        {% endif %}
-      {% endfor %}
-    </div>
+
 
     <nav class="main-navigation">
       <ul class="nav-menu">
@@ -122,6 +113,20 @@
         <span></span>
       </div>
     </nav>
+
+
+        <!-- Language Switcher -->
+    <div class="language-switcher">
+      {% for language in site.languages %}
+        {% if language == site.lang %}
+          <a href="#" class="lang-link active">{{ language | upcase }}</a>
+        {% elsif language == site.default_lang %}
+          <a href="/{{ language }}/" class="lang-link">{{ language | upcase }}</a>
+        {% else %}
+          <a href="/{{ language }}/" class="lang-link">{{ language | upcase }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </header>
 

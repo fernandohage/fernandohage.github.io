@@ -3,6 +3,10 @@ site:
   title: "Fernando Hage"
   description: "Designer and Professor"
   tagline: "Fashion, Arts and Culture"
+  twitter_username: fernandohage
+  github_username: fernandohage
+  instagram_username: fernandohage
+  linkedin_username: fernandohage
 
 navigation:
   home: "HOME"
@@ -54,3 +58,18 @@ common:
   back: "Back"
   next: "Next"
   previous: "Previous"
+
+footer:
+  about_title: "About"
+  about_description: "Designer and professor specialized in Fashion History, Visual Culture and Creative Consultancy. PhD in Arts from the School of Fine Arts at UFMG."
+  contact_title: "Contact"
+  location_title: "Location"
+  location_primary: "Berlin"
+  location_primary_country: "Germany"
+  location_secondary: "São Paulo, SP"
+  location_secondary_country: "Brazil"
+  location_tertiary: "Belém, PA"
+  location_tertiary_country: "Brazil"
+  quick_links: "Quick Links"
+  built_with: "Built by"
+  hosted_on: "Hosted on"
