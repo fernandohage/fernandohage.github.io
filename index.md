@@ -3,4 +3,4 @@ layout: default
 title: Home
 ---
 
-{% t _home/index.md %}
+{% translate_file _home/index.md %}
