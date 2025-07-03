@@ -1,7 +1,7 @@
 ---
 layout: home
 lang: pt
-permalink: /
+permalink_pt: /
 ---
 
 # {{ site.data[site.active_lang].strings.pages.welcome_title }}

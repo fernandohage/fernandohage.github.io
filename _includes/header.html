@@ -2,63 +2,61 @@
   <div class="header-wrapper">
     <div class="site-branding">
       <h1 class="site-title">
-        <a href="{{ '/' | relative_url }}">{% t site.title %}</a>
+        <a href="{{ '/' | relative_url }}">{{ site.data[site.active_lang].strings.site.title }}</a>
       </h1>
-      <p class="site-tagline">{% t site.tagline %}</p>
+      <p class="site-tagline">{{ site.data[site.active_lang].strings.site.tagline }}</p>
     </div>
-
-
 
     <nav class="main-navigation">
       <ul class="nav-menu">
         <li class="menu-item">
-          <a href="{% tl / %}">{% t navigation.home %}</a>
+          <a href="{{ '/' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.home }}</a>
         </li>
         
         <li class="menu-item has-dropdown">
-          <a href="#" onclick="return false;">{% t navigation.research %}</a>
+          <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.research }}</a>
           <ul class="dropdown-menu">
             <li class="submenu-item">
-              <a href="{% tl /artigos %}">{% t navigation.publications %}</a>
+              <a href="{{ '/artigos' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.publications }}</a>
             </li>
             <li class="submenu-item">
-              <a href="{% tl /meulivro %}">{% t navigation.book %}</a>
+              <a href="{{ '/meulivro' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.book }}</a>
             </li>
             <li class="submenu-item">
-              <a href="{% tl /tese-de-doutorado %}">{% t navigation.phd %}</a>
+              <a href="{{ '/tese-de-doutorado' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.phd }}</a>
             </li>
             <li class="submenu-item has-dropdown">
-              <a href="#" onclick="return false;">{% t navigation.specials %}</a>
+              <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.specials }}</a>
               <ul class="dropdown-menu level-2">
                 <li class="submenu-item">
-                  <a href="{% tl /tresseculosdemodas %}">{% t navigation.three_centuries %}</a>
+                  <a href="{{ '/tresseculosdemodas' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.three_centuries }}</a>
                 </li>
                 <li class="submenu-item has-dropdown">
-                  <a href="#" onclick="return false;">{% t navigation.library %}</a>
+                  <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.library }}</a>
                   <ul class="dropdown-menu level-3">
                     <li class="submenu-item">
-                      <a href="{% tl /livrosmoda %}">{% t navigation.fashion_art %}</a>
+                      <a href="{{ '/livrosmoda' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.fashion_art }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{% tl /livrosgravura %}">{% t navigation.engravings %}</a>
+                      <a href="{{ '/livrosgravura' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.engravings }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{% tl /revistasfrancesas %}">{% t navigation.french_magazines %}</a>
+                      <a href="{{ '/revistasfrancesas' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.french_magazines }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{% tl /revistasbrasileiras %}">{% t navigation.brazilian_magazines %}</a>
+                      <a href="{{ '/revistasbrasileiras' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.brazilian_magazines }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{% tl /livrosbrasileirosja %}">{% t navigation.brazilian_books %}</a>
+                      <a href="{{ '/livrosbrasileirosja' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.brazilian_books }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{% tl /livrosteatro %}">{% t navigation.theatrical_texts %}</a>
+                      <a href="{{ '/livrosteatro' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.theatrical_texts }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{% tl /livroshistoria %}">{% t navigation.french_history %}</a>
+                      <a href="{{ '/livroshistoria' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.french_history }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{% tl /livosgouncourt %}">{% t navigation.goncourt_books %}</a>
+                      <a href="{{ '/livosgouncourt' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.goncourt_books }}</a>
                     </li>
                   </ul>
                 </li>
@@ -68,39 +66,39 @@
         </li>
         
         <li class="menu-item has-dropdown">
-          <a href="#" onclick="return false;">{% t navigation.projects %}</a>
+          <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.projects }}</a>
           <ul class="dropdown-menu">
             <li class="submenu-item">
-              <a href="{% tl /blog-clipping %}">{% t navigation.diary %}</a>
+              <a href="{{ '/blog-clipping' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.diary }}</a>
             </li>
             <li class="submenu-item has-dropdown">
-              <a href="#" onclick="return false;">{% t navigation.media %}</a>
+              <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.media }}</a>
               <ul class="dropdown-menu level-2">
                 <li class="submenu-item">
-                  <a href="{% tl /podcasts %}">{% t navigation.podcasts %}</a>
+                  <a href="{{ '/podcasts' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.podcasts }}</a>
                 </li>
                 <li class="submenu-item">
-                  <a href="{% tl /videos %}">{% t navigation.videos %}</a>
+                  <a href="{{ '/videos' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.videos }}</a>
                 </li>
               </ul>
             </li>
             <li class="submenu-item">
-              <a href="{% tl /territoriodamoda %}">{% t navigation.territory %}</a>
+              <a href="{{ '/territoriodamoda' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.territory }}</a>
             </li>
             <li class="submenu-item">
-              <a href="{% tl /caixadecriadores %}">{% t navigation.creators_box %}</a>
+              <a href="{{ '/caixadecriadores' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.creators_box }}</a>
             </li>
           </ul>
         </li>
         
         <li class="menu-item has-dropdown">
-          <a href="#" onclick="return false;">{% t navigation.info %}</a>
+          <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.info }}</a>
           <ul class="dropdown-menu">
             <li class="submenu-item">
-              <a href="{% tl /curriculo %}">{% t navigation.curriculum %}</a>
+              <a href="{{ '/curriculo' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.curriculum }}</a>
             </li>
             <li class="submenu-item">
-              <a href="{% tl /contato %}">{% t navigation.contact %}</a>
+              <a href="{{ '/contato' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.contact }}</a>
             </li>
           </ul>
         </li>
@@ -114,14 +112,11 @@
       </div>
     </nav>
 
-
-        <!-- Language Switcher -->
+    <!-- Language Switcher -->
     <div class="language-switcher">
       {% for language in site.languages %}
-        {% if language == site.lang %}
-          <a href="#" class="lang-link active">{{ language | upcase }}</a>
-        {% elsif language == site.default_lang %}
-          <a href="/{{ language }}/" class="lang-link">{{ language | upcase }}</a>
+        {% if language == site.active_lang %}
+          <a href="{{ '/' | relative_url }}" class="lang-link active">{{ language | upcase }}</a>
         {% else %}
           <a href="/{{ language }}/" class="lang-link">{{ language | upcase }}</a>
         {% endif %}

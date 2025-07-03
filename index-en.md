@@ -1,7 +1,7 @@
 ---
 layout: home
-lang: pt
-permalink: /
+lang: en
+permalink_en: /
 ---
 
 # {{ site.data[site.active_lang].strings.pages.welcome_title }}
@@ -10,7 +10,7 @@ permalink: /
 
 {{ site.data[site.active_lang].strings.pages.welcome_description }}
 
-## Últimos Projetos
+## Latest Projects
 
 {% assign posts = site.posts | limit: 5 %}
 

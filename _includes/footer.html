@@ -4,8 +4,8 @@
       
       <!-- About Section -->
       <div class="footer-section about">
-        <h3>{% t footer.about_title %}</h3>
-        <p>{% t footer.about_description %}</p>
+        <h3>{{ site.data[site.active_lang].strings.footer.about_title }}</h3>
+        <p>{{ site.data[site.active_lang].strings.footer.about_description }}</p>
 
         <div class="social-links">
           <a href="https://www.linkedin.com/in/fernandohage/" target="_blank" rel="noopener">
@@ -20,7 +20,7 @@
             <object class="social-icon" data="{{ '/assets/social/github.svg' | relative_url }}" type="image/svg+xml"></object>
           </a>
 
-          <a href="https://instagram.com/{% t site.linkedin_username %}" target="_blank" rel="noopener">
+          <a href="https://instagram.com/{{ site.data[site.active_lang].strings.site.linkedin_username }}" target="_blank" rel="noopener">
             <object class="social-icon" data="{{ '/assets/social/instagram.svg' | relative_url }}" type="image/svg+xml"></object>
           </a>
         </div>
@@ -28,7 +28,7 @@
 
       <!-- Contact Section -->
       <div class="footer-section contact">
-        <h3>{% t footer.contact_title %}</h3>
+        <h3>{{ site.data[site.active_lang].strings.footer.contact_title }}</h3>
         <div class="contact-info">
           <div class="contact-item">
             <object class="contact-icon" data="{{ '/assets/social/email.svg' | relative_url }}" type="image/svg+xml"></object>
@@ -36,34 +36,34 @@
           </div>
           <div class="contact-item">
             <object class="contact-icon" data="{{ '/assets/social/location.svg' | relative_url }}" type="image/svg+xml"></object>
-            <span>{% t footer.location_primary %}</span>
+            <span>{{ site.data[site.active_lang].strings.footer.location_primary }}</span>
           </div>
         </div>
       </div>
 
       <!-- Location Section -->
       <div class="footer-section location">
-        <h3>{% t footer.location_title %}</h3>
+        <h3>{{ site.data[site.active_lang].strings.footer.location_title }}</h3>
         <div class="location-list">
           <div class="location-item">
             <object class="location-icon" data="{{ '/assets/social/location.svg' | relative_url }}" type="image/svg+xml"></object>
             <div class="location-details">
-              <strong>{% t footer.location_primary %}</strong>
-              <span>{% t footer.location_primary_country %}</span>
+              <strong>{{ site.data[site.active_lang].strings.footer.location_primary }}</strong>
+              <span>{{ site.data[site.active_lang].strings.footer.location_primary_country }}</span>
             </div>
           </div>
           <div class="location-item">
             <object class="location-icon" data="{{ '/assets/social/location.svg' | relative_url }}" type="image/svg+xml"></object>
             <div class="location-details">
-              <strong>{% t footer.location_secondary %}</strong>
-              <span>{% t footer.location_secondary_country %}</span>
+              <strong>{{ site.data[site.active_lang].strings.footer.location_secondary }}</strong>
+              <span>{{ site.data[site.active_lang].strings.footer.location_secondary_country }}</span>
             </div>
           </div>
           <div class="location-item">
             <object class="location-icon" data="{{ '/assets/social/location.svg' | relative_url }}" type="image/svg+xml"></object>
             <div class="location-details">
-              <strong>{% t footer.location_tertiary %}</strong>
-              <span>{% t footer.location_tertiary_country %}</span>
+              <strong>{{ site.data[site.active_lang].strings.footer.location_tertiary }}</strong>
+              <span>{{ site.data[site.active_lang].strings.footer.location_tertiary_country }}</span>
             </div>
           </div>
         </div>
@@ -71,13 +71,13 @@
 
       <!-- Quick Links Section -->
       <div class="footer-section links">
-        <h3>{% t footer.quick_links %}</h3>
+        <h3>{{ site.data[site.active_lang].strings.footer.quick_links }}</h3>
         <ul class="footer-links">
-          <li><a href="{% tl /curriculo %}">{% t navigation.curriculum %}</a></li>
-          <li><a href="{% tl /publicacoes %}">{% t navigation.publications %}</a></li>
-          <li><a href="{% tl /caixadecriadores %}">{% t navigation.creators_box %}</a></li>
-          <li><a href="{% tl /territoriodamoda %}">{% t navigation.territory %}</a></li>
-          <li><a href="{% tl /contato %}">{% t navigation.contact %}</a></li>
+          <li><a href="{{ '/curriculo' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.curriculum }}</a></li>
+          <li><a href="{{ '/publicacoes' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.publications }}</a></li>
+          <li><a href="{{ '/caixadecriadores' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.creators_box }}</a></li>
+          <li><a href="{{ '/territoriodamoda' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.territory }}</a></li>
+          <li><a href="{{ '/contato' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.contact }}</a></li>
         </ul>
       </div>
 
@@ -85,10 +85,10 @@
 
     <div class="footer-bottom">
       <div class="footer-bottom-content">
-        <p>&copy; {{ 'now' | date: "%Y" }} {% t site.title %}. </p>
+        <p>&copy; {{ 'now' | date: "%Y" }} {{ site.data[site.active_lang].strings.site.title }}. </p>
         <div class="footer-meta">
-          <span>{% t footer.built_with %} <a href="https://github.com/jonatasteixeira/" target="_blank" rel="noopener">Jonatas Teixeira</a></span>
-          <span>{% t footer.hosted_on %} <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a></span>
+          <span>{{ site.data[site.active_lang].strings.footer.built_with }} <a href="https://github.com/jonatasteixeira/" target="_blank" rel="noopener">Jonatas Teixeira</a></span>
+          <span>{{ site.data[site.active_lang].strings.footer.hosted_on }} <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a></span>
         </div>
       </div>
     </div>
