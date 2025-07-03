@@ -1,0 +1,20 @@
+---
+layout: post
+title: 'Cobertura Caixa de Criadores 2009-2010'
+date: 2009-12-29 15:00:00 +0200
+categories: projetos moda
+language: pt
+author: Fernando Hage
+---
+
+# Cobertura Caixa de Criadores 2009-2010
+
+Vídeo com resumo sobre a trajetória do projeto Caixa de Criadores desde o seu surgimento até o ano de 2010.
+
+Entrevista com os cinco organizadores do evento em 2009: Clara Carneiro, Diogo Carneiro, Fernando Hage, Jackye Carvalho e Junior Oliveira.
+
+Produção dos vídeos: MTV Belém
+
+---
+
+*Este post faz parte do diário de bordo dos projetos de Fernando Hage.*
