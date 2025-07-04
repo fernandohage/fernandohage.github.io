@@ -10,7 +10,7 @@ original_file: fernandohage.weebly.com/Migrated/exibicao-da-serie-amazon-fashion
 
 ## Exibição da Série Amazon Fashion
 
-Gravada em 2018, a série Amazon Fashion entrou na programação do canal FashionTV Brasil neste ano de 2020. Como comentei em [post anterior]({% post_url pt/2018-05-03-gravacao-documentario-amazon-fashion-fashion-tv %}), participei da série dando depoimentos que foram utilizados em capítulos como *Moda Indígena* (episódio 3), *Couro de Peixe* (episódio 6) e *Pará Fashion* (episódio 4).
+Gravada em 2018, a série Amazon Fashion entrou na programação do canal FashionTV Brasil neste ano de 2020. Como comentei em [post anterior]({% post_url pt/2018-05-03-documentario-amazon-fashion-fashion-tv %}), participei da série dando depoimentos que foram utilizados em capítulos como *Moda Indígena* (episódio 3), *Couro de Peixe* (episódio 6) e *Pará Fashion* (episódio 4).
 
 A série, produzida pela HL Filmes, tem roteiro de Hermes Leal e direção de Nival Correa.
 
