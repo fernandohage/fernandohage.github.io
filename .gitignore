@@ -3,7 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 fernandohage.weebly.com
-.Gemfile.lock
+Gemfile.lock
 .vscode
 venv
 .DS_Store
