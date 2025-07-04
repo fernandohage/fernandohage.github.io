@@ -3,7 +3,6 @@ layout: page
 title: "Território da Moda"
 permalink: /territorio-da-moda/
 lang: pt
-redirect_from: /territoriodamoda/
 original_file: fernandohage.weebly.com/territoriodamoda.html
 ---
 
