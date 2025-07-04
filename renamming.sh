@@ -23,7 +23,7 @@ for file in ${path_to_rename}/*.md; do
 
     # Make a backup of the file
     echo "Backing up $file to ${file}.bak"
-    #cp "$file" "${file}.bak"
+    cp "$file" "${file}.bak"
 
     # Rename all the assets to the write name
     # Example:
@@ -42,16 +42,19 @@ for file in ${path_to_rename}/*.md; do
         fi
 
         echo "Backing up $image to ${image}.bak"
-        #cp "$image" "${image}.bak"
+        cp "$image" "${image}.bak"
         echo "Renaming $image to $new_image"
 
-        #mv "$image" "$new_image"
+        mv "$image" "$new_image"
 
         echo "Replacing references in $file"
         # Replace all the references to image in the file with the new name 
-        # sed -i '' "s|$image|$new_image|g" "$file"
+        sed -i '' "s|$image|$new_image|g" "$file"
     done
 
+    # Rename the file itself
+    echo "Renaming $file to ${file%/*}/${suggested_file_name}"
+    mv "$file" "${file%/*}/${suggested_file_name}"
     echo "Exiting script after processing $file"
     exit 0
 done
