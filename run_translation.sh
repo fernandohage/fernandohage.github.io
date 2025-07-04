@@ -32,7 +32,7 @@ find "$SOURCE_DIR" -type f -name "*.md" -print0 | while IFS= read -r -d '' file;
     echo "Processing: $file -> $dest_file"
 
     # Call the Python script to perform the intelligent translation
-    /Users/jonatas.teixeira/weebly_scrapping/new_website/_pages/venv/bin/python translate_markdown.py "$file" "$dest_file"
+    /Users/jonatas.teixeira/weebly_scrapping/new_website/venv/bin/python translate_markdown.py "$file" "$dest_file"
 
     if [ $? -ne 0 ]; then
         echo "Stop!!, an error occurred while processing $file"
