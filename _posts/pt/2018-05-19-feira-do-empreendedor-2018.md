@@ -8,7 +8,26 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/feira-do-empreendedor-2018.html
 ---
 
-# Feira do Empreendedor 2018
+## Sobre o Evento
+
+Participação na concepção da programação do segmento de "Moda" dentro da Feira do Empreendedor 2018. O evento foi uma importante iniciativa para promover o empreendedorismo no setor da moda e conectar diversos profissionais da área.
+
+## Atividades Realizadas
+
+### Talk-show "Olhares do Mercado de Moda"
+
+Atuação como moderador no talk-show "Olhares do Mercado de Moda", realizado no dia 17 de maio de 2018. O evento proporcionou discussões relevantes sobre tendências, desafios e oportunidades no mercado da moda contemporânea.
+
+### Loja Virtual de Moda
+
+A feira também contou com a iniciativa da Loja Virtual de Moda, uma proposta inovadora para conectar empreendedores da moda com o mercado digital.
+
+## Detalhes do Evento
+
+- **Data do Talk-show:** 17 de maio de 2018
+- **Função:** Moderador e Consultor de Programação
+- **Segmento:** Moda e Empreendedorismo
+- **Iniciativas:** Loja Virtual de Moda e Talk-show
 
 ## Galeria de Imagens
 
@@ -24,7 +43,6 @@ original_file: fernandohage.weebly.com/Migrated/feira-do-empreendedor-2018.html
 
 ![Feira do Empreendedor 2018](/assets/images/feira-do-empreendedor-2018-06.jpg)
 
-Participação na concepção da programação do segmento de "Moda" dentro da Feira do Empreendedor 2018. Participação como moderador no Talk-show "Olhares do Mercado de Moda" realizado no dia 17 de Maio de 2018. A feira do empreendedor também contou com a iniciativa da Loja Virtual de Moda.
 
 ---
 

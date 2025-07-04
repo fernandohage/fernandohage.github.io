@@ -8,7 +8,9 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/circuito-de-moda-parque-shopping.html
 ---
 
-# Circuito de Moda Parque Shopping
+## Sobre o Evento
+
+Coordenação do apoio do curso de Bacharelado em Moda na realização do **Circuito de Moda - Parque Shopping**. O evento incluiu participação na mesa redonda **"Moda Consciente"** no dia 15 de setembro, além da produção do desfile **"Moda Samba"** do curso de Moda da Unama dentro da programação.
 
 ## Galeria de Imagens
 
@@ -24,7 +26,13 @@ original_file: fernandohage.weebly.com/Migrated/circuito-de-moda-parque-shopping
 
 ![Circuito de Moda Parque Shopping](/assets/images/circuito-de-moda-parque-shopping-06.jpg)
 
-Coordenação do apoio do curso de Bacharelado em Moda na realização do Circuito de Moda - Parque Shopping. Participação na mesa redonda Moda Consciente no dia 15 de Setembro, e produção de desfile Moda Samba do curso de Moda da Unama dentro da programação.
+## Atividades Realizadas
+
+- **Mesa Redonda:** Moda Consciente
+- **Data:** 15 de setembro de 2018
+- **Desfile:** Moda Samba
+- **Coordenação:** Apoio do curso de Bacharelado em Moda (Unama)
+- **Local:** Parque Shopping
 
 ---
 
