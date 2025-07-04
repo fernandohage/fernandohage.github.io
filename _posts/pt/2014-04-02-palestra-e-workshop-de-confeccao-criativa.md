@@ -8,7 +8,7 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/palestra-e-workshop-de-confeccao-criativa.html
 ---
 
-# Palestra e Workshop de Confecção Criativa
+Workshop realizado entre os dias 14 e 17 de abril no Espaço São José Liberto utilizando metodologia baseada na pesquisa autoral "Diversidade Cultural e Inovação" para atender designers do setor de confecção criativa da região metropolitana de Belém. O curso foi iniciativa da Incubadora Pará Criativo em parceria com o Instituto de Gemas e Jóias da Amazônia - IGAMA.
 
 ## Galeria de Imagens
 
@@ -23,8 +23,6 @@ original_file: fernandohage.weebly.com/Migrated/palestra-e-workshop-de-confeccao
 ![Palestra e Workshop de Confecção Criativa](/assets/images/palestra-e-workshop-de-confeccao-criativa-05.jpg)
 
 ![Palestra e Workshop de Confecção Criativa](/assets/images/palestra-e-workshop-de-confeccao-criativa-06.jpg)
-
-Workshop realizado entre os dias 14 e 17 de Abril no Espaço São José Liberto utilizando metodologia baseada na pesquisa autoral "Diversidade Cultural e Inovação" para atender designers do setor de confecção criativa da região metropolitana de Belém. O curso foi iniciativa da Incubadora Pará Criativo em parceria com o Instituto de Gemas e Jóias da Amazônia - IGAMA.
 
 ---
 
