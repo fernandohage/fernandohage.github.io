@@ -16,22 +16,22 @@ Todas as roupas utilizadas no editorial são de marcas que participaram do Caixa
 
 ## Galeria de Imagens
 
-![Editorial Liberdade - Revista Roxy De.lovely - Página 01](/assets/images/editorial-liberdade-revista-roxy-delovely-01.png)
+![Editorial Liberdade - Revista Roxy De.lovely - Página 01](/assets/images/2007-06-02-editorial-liberdade-revista-roxy-delovely-01.png)
 *Página 01 - Abertura do editorial Liberdade*
 
-![Editorial Liberdade - Revista Roxy De.lovely - Página 02](/assets/images/editorial-liberdade-revista-roxy-delovely-02.png)
+![Editorial Liberdade - Revista Roxy De.lovely - Página 02](/assets/images/2007-06-02-editorial-liberdade-revista-roxy-delovely-02.png)
 *Página 02 - Produção de moda com peças do Caixa de Criadores*
 
-![Editorial Liberdade - Revista Roxy De.lovely - Página 03](/assets/images/editorial-liberdade-revista-roxy-delovely-03.png)
+![Editorial Liberdade - Revista Roxy De.lovely - Página 03](/assets/images/2007-06-02-editorial-liberdade-revista-roxy-delovely-03.png)
 *Página 03 - Styling contemporâneo para a revista*
 
-![Editorial Liberdade - Revista Roxy De.lovely - Página 04](/assets/images/editorial-liberdade-revista-roxy-delovely-04.png)
+![Editorial Liberdade - Revista Roxy De.lovely - Página 04](/assets/images/2007-06-02-editorial-liberdade-revista-roxy-delovely-04.png)
 *Página 04 - Composição visual do editorial*
 
-![Editorial Liberdade - Revista Roxy De.lovely - Página 05](/assets/images/editorial-liberdade-revista-roxy-delovely-05.png)
+![Editorial Liberdade - Revista Roxy De.lovely - Página 05](/assets/images/2007-06-02-editorial-liberdade-revista-roxy-delovely-05.png)
 *Página 05 - Continuidade da narrativa visual*
 
-![Editorial Liberdade - Revista Roxy De.lovely - Página 06](/assets/images/editorial-liberdade-revista-roxy-delovely-06.jpg)
+![Editorial Liberdade - Revista Roxy De.lovely - Página 06](/assets/images/2007-06-02-editorial-liberdade-revista-roxy-delovely-06.jpg)
 *Página 06 - Fechamento do editorial*
 
 ## Ficha Técnica
