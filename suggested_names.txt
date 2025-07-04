@@ -18,7 +18,6 @@ podcasts-podcasts.md;podcasts.md
 revistasbrasileiras-biblioteca-joao-affonso.md;revistas-brasileiras-biblioteca-joao-affonso.md
 revistasfrancesas-biblioteca-joao-affonso.md;revistas-francesas-biblioteca-joao-affonso.md
 territorio-da-moda.md;territorio-da-moda.md
-territoriodamoda-territorio-da-moda.md;territorio-da-moda.md
 tese-de-doutorado-imagens-na-historia-do-vestuario.md;tese-de-doutorado-imagens-na-historia-do-vestuario.md
 tresseculosdemodas-tres-seculos-de-modas-1616-1916.md;tres-seculos-de-modas-1616-1916.md
 videos-videos.md;videos.md
