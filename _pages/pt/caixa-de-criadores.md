@@ -6,8 +6,6 @@ lang: pt
 original_file: fernandohage.weebly.com/caixadecriadores.html
 ---
 
-[GO TO ENGLISH VERSION](box-creators.html)
-
 ## Sobre o Projeto
 
 **Caixa de Criadores** foi um projeto cultural idealizado em 2006 em Belém do Pará por profissionais da área de moda, que ajudou a construir uma cultura de moda na capital paraense. Até o ano de 2012, foram realizadas 12 edições de eventos com desfiles e espaços de comercialização mostrando o trabalho de mais de 100 marcas da região, que deram origem a cerca de 15 lojas que abrigavam empreendimentos criativos, incentivando o crescimento da produção autoral de confecção e acessórios na região metropolitana de Belém.
