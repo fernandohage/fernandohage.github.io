@@ -7,8 +7,8 @@ original_description: >-
   Caixa de Criadores, premiado em economia criativa por apoiar novos criadores 
   de moda e design.
 baseurl: ""
-url: "http://127.0.0.1:4000"
 disable_disk_cache: true
+url: https://fernandohage.github.io
 
 # Build settings
 theme: minima
