@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Participação no Projeto Moodautoral'
+title: 'Participação no Projeto Mood Autoral'
 date: 2020-09-29 15:00:00 +0200
 categories: projetos moda
 lang: pt
@@ -8,7 +8,7 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/participacao-no-projeto-moodautoral.html
 ---
 
-# Participação no Projeto Moodautoral
+## Participação no Projeto Mood Autoral
 
 ​Cinco alunas de Jornalismo da PUC-Campinas (Carla Cristine, Gabrielle Castro, Isabeli Lemos, Jaqueline Guerra e Rafaela Barbosa) iniciaram um projeto de conclusão de curso para falar sobre moda autoral e novos criadores: o projeto Mood Autoral. O objetivo delas é democratizar o acesso à informação sobre moda, principalmente sobre marca autoral, Slow Fashion e Fast Fashion. O projeto contempla um perfil no Instagram, no Twitter e um podcast no Spotify, chamado Mood Talk.
 

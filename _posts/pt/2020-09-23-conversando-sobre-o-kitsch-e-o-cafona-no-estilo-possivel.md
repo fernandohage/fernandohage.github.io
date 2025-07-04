@@ -8,11 +8,12 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/conversando-sobre-o-kitsch-e-o-cafona-no-estilo-possivel.html
 ---
 
-# Conversando sobre o Kitsch e o Cafona no Estilo Possível
+Mais uma edição do podcast Estilo Possível da Marina Santa Helena ([@santahelena](https://www.instagram.com/santahelena/)) e nessa edição conversamos sobre um tema polêmico, mas muito interessante: o kitsch e o cafona na cultura brasileira. O papo foi ótimo e andou por vários caminhos, desde os conceitos do termo kitsch a partir da revolução industrial, até chegarmos nos elementos que compõem uma estética kitsch e como isso aparece nas passarelas, na decoração, no figurino. Vale a pena escutar!
 
-Mais uma edição do podcast Estilo Possível da Maria Santa Helena (@santahelena) e nessa edição conversamos sobre um tema polêmico, mas muito interessante: o kitsch e o cafona na cultura brasileira. O papo foi ótimo e andou por vários caminhos, desde os conceitos do termo kitsch a partir da revolução industrial, até chegarmos nos elementos que compõem uma estética kitsch e como isso aparece nas passarelas, na decoração, no figurino. Vale a pena escutar!
+![Podcast Estilo Possível - Kitsch e Cafona](/assets/images/podcast-kitsch-cafona-01.jpg) ![Podcast Estilo Possível - Kitsch e Cafona](/assets/images/podcast-kitsch-cafona-02.jpg)
+*Imagens do episódio do podcast Estilo Possível sobre kitsch e cafona*
 
-O podcast Estilo Possível é transmitido com exclusividade pela plataforma gratuita ORELO. Baixe o app e acesse o link para escutar:https://app.orelo.audio/5Dux
+O podcast Estilo Possível é transmitido com exclusividade pela plataforma gratuita ORELO. Baixe o app e acesse o link para escutar: [https://app.orelo.audio/5Dux](https://app.orelo.audio/5Dux)
 
 ---
 
