@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Fernando Hage</title>
+    <meta name="description" content="Sobre o Projeto">
+    
+    <link rel="stylesheet" href="/assets/main.css">
+    <link rel="stylesheet" href="/assets/css/header.css">
+    <link rel="stylesheet" href="/assets/css/footer.css">
+    <link rel="stylesheet" href="/assets/css/home.css">
+    <link rel="canonical" href="http://localhost:4000/projetos/design/2006/05/15/linha-objetos-flou-design-produto.html"></head>
+
+<body><header class="site-header">
+  <div class="header-wrapper">
+    <div class="site-branding">
+      <h1 class="site-title">
+        <a href="/">Fernando Hage</a>
+      </h1>
+      <p class="site-tagline">Moda, Artes e Cultura</p>
+    </div>
+
+    <nav class="main-navigation">
+      <ul class="nav-menu">
+        <li class="menu-item">
+          <a href="/">HOME</a>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">PESQUISA</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="/artigos">Publicações</a>
+            </li>
+            <li class="submenu-item">
+              <a href="/meulivro">Livro - Entre palavras, desenhos e modas</a>
+            </li>
+            <li class="submenu-item">
+              <a href="/tese-de-doutorado">Doutorado</a>
+            </li>
+            <li class="submenu-item has-dropdown">
+              <a href="#" onclick="return false;">Especiais</a>
+              <ul class="dropdown-menu level-2">
+                <li class="submenu-item">
+                  <a href="/tresseculosdemodas">O livro Tres Seculos de Modas</a>
+                </li>
+                <li class="submenu-item has-dropdown">
+                  <a href="#" onclick="return false;">Biblioteca Joao Affonso</a>
+                  <ul class="dropdown-menu level-3">
+                    <li class="submenu-item">
+                      <a href="/livrosmoda">Moda e Arte</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/livrosgravura">Gravuras e Ilustrações</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/revistasfrancesas">Revistas francesas</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/revistasbrasileiras">Revistas brasileiras</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/livrosbrasileirosja">Livros brasileiros</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/livrosteatro">Textos teatrais</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/livroshistoria">História francesa</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/livosgouncourt">Livros dos irmãos Goncourt</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">PROJETOS</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="/blog-clipping">Diário de Bordo</a>
+            </li>
+            <li class="submenu-item has-dropdown">
+              <a href="#" onclick="return false;">Midia</a>
+              <ul class="dropdown-menu level-2">
+                <li class="submenu-item">
+                  <a href="/podcasts">Podcasts</a>
+                </li>
+                <li class="submenu-item">
+                  <a href="/videos">Vídeos</a>
+                </li>
+              </ul>
+            </li>
+            <li class="submenu-item">
+              <a href="/territoriodamoda">Território da Moda</a>
+            </li>
+            <li class="submenu-item">
+              <a href="/caixadecriadores">Caixa de Criadores</a>
+            </li>
+          </ul>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">+INFO</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="/curriculo">Curriculo</a>
+            </li>
+            <li class="submenu-item">
+              <a href="/contato">Contato</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      
+      <!-- Mobile menu toggle -->
+      <div class="mobile-menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </nav>
+
+    <!-- Language Switcher -->
+    <div class="language-switcher">
+    
+      
+        <span class="lang-link active">PT</span>
+      
+    
+      
+        
+          <a href="http://localhost:4000//en//projetos/design/2006/05/15/linha-objetos-flou-design-produto.html" class="lang-link">EN</a>
+        
+      
+    
+    </div>
+  </div>
+</header>
+
+<script>
+// Mobile menu functionality
+document.addEventListener('DOMContentLoaded', function() {
+  const mobileToggle = document.querySelector('.mobile-menu-toggle');
+  const navMenu = document.querySelector('.nav-menu');
+  const dropdownItems = document.querySelectorAll('.menu-item.has-dropdown');
+  
+  if (mobileToggle) {
+    mobileToggle.addEventListener('click', function() {
+      navMenu.classList.toggle('mobile-active');
+    });
+  }
+  
+  dropdownItems.forEach(item => {
+    const link = item.querySelector('a');
+    if (link && link.getAttribute('href') === '#') {
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        if (window.innerWidth <= 768) {
+          item.classList.toggle('mobile-dropdown-open');
+        }
+      });
+    }
+  });
+  
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.main-navigation')) {
+      navMenu.classList.remove('mobile-active');
+    }
+  });
+});
+</script>
+<main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Porta-lápis - Linha de Objetos Flou_</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2006-05-15T15:00:00+02:00" itemprop="datePublished">May 15, 2006
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">Fernando Hage</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h2 id="sobre-o-projeto">Sobre o Projeto</h2>
+
+<p>A <strong>Linha de Objetos Flou_</strong> representa uma exploração inovadora no design de produtos funcionais e decorativos, combinando sustentabilidade, customização e praticidade. O projeto teve como foco principal o desenvolvimento de porta-lápis únicos, utilizando materiais recicláveis e técnicas artesanais.</p>
+
+<h2 id="galeria-de-imagens">Galeria de Imagens</h2>
+
+<p><img src="/assets/images/2006-05-15-linha-objetos-flou-design-produto-01.jpg" alt="Porta-lápis Flou_ - Modelo 1" />
+<em>Porta-lápis com capa em tecido colorido</em></p>
+
+<p><img src="/assets/images/2006-05-15-linha-objetos-flou-design-produto-02.jpg" alt="Porta-lápis Flou_ - Modelo 2" />
+<em>Variação com padrões geométricos</em></p>
+
+<p><img src="/assets/images/2006-05-15-linha-objetos-flou-design-produto-03.jpg" alt="Porta-lápis Flou_ - Modelo 3" />
+<em>Design com estampas exclusivas</em></p>
+
+<p><img src="/assets/images/2006-05-15-linha-objetos-flou-design-produto-04.jpg" alt="Porta-lápis Flou_ - Modelo 4" />
+<em>Versão com elementos gráficos de Gil Yonezawa</em></p>
+
+<p><img src="/assets/images/2006-05-15-linha-objetos-flou-design-produto-05.jpg" alt="Porta-lápis Flou_ - Modelo 5" />
+<em>Conjunto de porta-lápis em diferentes cores</em></p>
+
+<p><img src="/assets/images/2006-05-15-linha-objetos-flou-design-produto-06.jpg" alt="Linha Flou_ - Produtos Complementares" />
+<em>Camisetas, bottons e itens decorativos da linha</em></p>
+
+<h2 id="descrição-do-projeto">Descrição do Projeto</h2>
+
+<p>A <strong>Linha de Objetos Flou_</strong> foi desenvolvida com o conceito de <strong>design sustentável</strong> e <strong>customização pessoal</strong>. Os porta-lápis foram criados a partir da união criativa de <strong>copos plásticos</strong> com <strong>capas em tecido</strong>, resultando em produtos funcionais que servem tanto como organizadores quanto como elementos decorativos.</p>
+
+<h3 id="características-técnicas">Características Técnicas</h3>
+
+<ul>
+  <li><strong>Base estrutural:</strong> Copos de plástico reutilizados</li>
+  <li><strong>Revestimento:</strong> Capas removíveis em tecido</li>
+  <li><strong>Funcionalidade:</strong> Porta-lápis e elemento decorativo</li>
+  <li><strong>Manutenção:</strong> Lavável e customizável</li>
+  <li><strong>Sustentabilidade:</strong> Reutilização de materiais descartáveis</li>
+</ul>
+
+<h2 id="conceito-de-design">Conceito de Design</h2>
+
+<h3 id="sustentabilidade-e-reutilização">Sustentabilidade e Reutilização</h3>
+
+<p>O projeto pioneirou o conceito de <strong>upcycling</strong> no design de produtos, transformando copos plásticos descartáveis em objetos funcionais e esteticamente atraentes. Esta abordagem antecipou tendências contemporâneas de design consciente e economia circular.</p>
+
+<h3 id="customização-e-personalização">Customização e Personalização</h3>
+
+<p>A estrutura modular dos porta-lápis permitia <strong>infinitas possibilidades de customização</strong>, já que as capas em tecido podiam ser facilmente trocadas, lavadas ou substituídas por novos padrões e cores, oferecendo ao usuário a liberdade de renovar o produto constantemente.</p>
+
+<h2 id="colaboração-artística">Colaboração Artística</h2>
+
+<h3 id="parceria-com-gil-yonezawa">Parceria com Gil Yonezawa</h3>
+
+<p>A linha contou com a colaboração especial do artista <strong>Gil Yonezawa</strong>, responsável pelos <strong>elementos gráficos e grafite</strong> aplicados em diversos produtos da coleção. Esta parceria trouxe uma dimensão artística única ao projeto, combinando funcionalidade com expressão visual contemporânea.</p>
+
+<h3 id="linha-completa-de-produtos">Linha Completa de Produtos</h3>
+
+<p>Além dos porta-lápis, a <strong>Linha Flou_</strong> incluía:</p>
+
+<ul>
+  <li><strong>Camisetas</strong> com estampas exclusivas</li>
+  <li><strong>Bottons</strong> colecionáveis</li>
+  <li><strong>Itens decorativos</strong> grafitados</li>
+  <li><strong>Acessórios</strong> complementares</li>
+</ul>
+
+<h2 id="inovações-do-projeto">Inovações do Projeto</h2>
+
+<h3 id="design-modular">Design Modular</h3>
+
+<ul>
+  <li>Componentes intercambiáveis</li>
+  <li>Facilidade de manutenção e limpeza</li>
+  <li>Possibilidade de expansão da coleção</li>
+</ul>
+
+<h3 id="sustentabilidade-pioneira">Sustentabilidade Pioneira</h3>
+
+<ul>
+  <li>Reutilização de materiais descartáveis</li>
+  <li>Produção com baixo impacto ambiental</li>
+  <li>Conceito de durabilidade através da renovação</li>
+</ul>
+
+<h3 id="funcionalidade-ampliada">Funcionalidade Ampliada</h3>
+
+<ul>
+  <li>Uso duplo: organização e decoração</li>
+  <li>Adaptabilidade a diferentes ambientes</li>
+  <li>Versatilidade de aplicação</li>
+</ul>
+
+<h2 id="impacto-e-legado">Impacto e Legado</h2>
+
+<p>A <strong>Linha de Objetos Flou_</strong> representou uma abordagem inovadora no design brasileiro, antecipando tendências que se tornariam mainstream anos depois. O projeto demonstrou como a criatividade pode transformar materiais descartáveis em objetos de valor, estabelecendo um precedente importante para o design sustentável nacional.</p>
+
+<h3 id="contribuições-para-o-design">Contribuições para o Design</h3>
+
+<ul>
+  <li><strong>Pioneirismo em upcycling:</strong> Uso criativo de materiais recicláveis</li>
+  <li><strong>Design modular:</strong> Conceito de customização contínua</li>
+  <li><strong>Colaboração artística:</strong> Integração entre design funcional e arte</li>
+  <li><strong>Sustentabilidade aplicada:</strong> Prática real de economia circular</li>
+</ul>
+
+<hr />
+
+<p><em>Este post faz parte do diário de bordo dos projetos de Fernando Hage.</em></p>
+
+  </div><a class="u-url" href="/projetos/design/2006/05/15/linha-objetos-flou-design-produto.html" hidden></a>
+</article>
+
+    </div>
+  </main><footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-content">
+      
+      <!-- About Section -->
+      <div class="footer-section about">
+        <h3>Sobre</h3>
+        <p>Designer e professor especializado em História da Moda, Cultura Visual e Consultoria Criativa. Doutor em Artes pela UFPA UFMG.</p>
+
+        <div class="social-links">
+          <a href="https://www.linkedin.com/in/fernandohage/" target="_blank" rel="noopener">
+            <object class="social-icon" data="/assets/social/linkedin.svg" type="image/svg+xml"></object>
+          </a>
+
+          <a href="https://twitter.com/fernandohage" target="_blank" rel="noopener">
+            <object class="social-icon" data="/assets/social/twitter.svg" type="image/svg+xml"></object>
+          </a>
+          
+          <a href="https://github.com/fernandohage" target="_blank" rel="noopener">
+            <object class="social-icon" data="/assets/social/github.svg" type="image/svg+xml"></object>
+          </a>
+
+          <a href="https://instagram.com/fernandohage" target="_blank" rel="noopener">
+            <object class="social-icon" data="/assets/social/instagram.svg" type="image/svg+xml"></object>
+          </a>
+        </div>
+      </div>
+
+      <!-- Contact Section -->
+      <div class="footer-section contact">
+        <h3>Contato</h3>
+        <div class="contact-info">
+          <div class="contact-item">
+            <object class="contact-icon" data="/assets/social/email.svg" type="image/svg+xml"></object>
+            <a href="mailto:fernandohage at gmail.com">fernandohage at gmail.com</a>
+          </div>
+          <div class="contact-item">
+            <object class="contact-icon" data="/assets/social/location.svg" type="image/svg+xml"></object>
+            <span>Berlin</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Location Section -->
+      <div class="footer-section location">
+        <h3>Localização</h3>
+        <div class="location-list">
+          <div class="location-item">
+            <object class="location-icon" data="/assets/social/location.svg" type="image/svg+xml"></object>
+            <div class="location-details">
+              <strong>Berlin</strong>
+              <span>Alemanha</span>
+            </div>
+          </div>
+          <div class="location-item">
+            <object class="location-icon" data="/assets/social/location.svg" type="image/svg+xml"></object>
+            <div class="location-details">
+              <strong>São Paulo , SP</strong>
+              <span>Brasil</span>
+            </div>
+          </div>
+          <div class="location-item">
+            <object class="location-icon" data="/assets/social/location.svg" type="image/svg+xml"></object>
+            <div class="location-details">
+              <strong>Belém, PA</strong>
+              <span>Brasil</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quick Links Section -->
+      <div class="footer-section links">
+        <h3>Links Rápidos</h3>
+        <ul class="footer-links">
+          <li><a href="/curriculo">Curriculo</a></li>
+          <li><a href="/publicacoes">Publicações</a></li>
+          <li><a href="/caixadecriadores">Caixa de Criadores</a></li>
+          <li><a href="/territoriodamoda">Território da Moda</a></li>
+          <li><a href="/contato">Contato</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <div class="footer-bottom-content">
+        <p>&copy; 2025 Fernando Hage. </p>
+        <div class="footer-meta">
+          <span>Feito por <a href="https://github.com/jonatasteixeira/" target="_blank" rel="noopener">Jonatas Teixeira</a></span>
+          <span>Hospedado no <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- Mobile menu JavaScript -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const mobileToggle = document.querySelector('.mobile-menu-toggle');
+      const navMenu = document.querySelector('.nav-menu');
+      const dropdownItems = document.querySelectorAll('.menu-item.has-dropdown');
+      
+      // Mobile menu toggle
+      if (mobileToggle) {
+        mobileToggle.addEventListener('click', function() {
+          navMenu.classList.toggle('mobile-active');
+        });
+      }
+      
+      // Mobile dropdown functionality
+      dropdownItems.forEach(item => {
+        const link = item.querySelector('a');
+        if (link && link.getAttribute('href') === '#') {
+          link.addEventListener('click', function(e) {
+            e.preventDefault();
+            if (window.innerWidth <= 768) {
+              item.classList.toggle('mobile-dropdown-open');
+            }
+          });
+        }
+      });
+      
+      // Close mobile menu when clicking outside
+      document.addEventListener('click', function(e) {
+        if (!e.target.closest('.main-navigation')) {
+          navMenu.classList.remove('mobile-active');
+        }
+      });
+    });
+  </script>
+</body>
+</html>
