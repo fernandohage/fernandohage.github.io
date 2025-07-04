@@ -8,7 +8,7 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/lancamento-entre-palavras-na-abertura-do-coloquio-de-moda-2020.html
 ---
 
-# Lançamento Entre Palavras na Abertura do Colóquio de Moda 2020
+## Lançamento Entre Palavras na Abertura do Colóquio de Moda 2020
 
 Foi com extrema felicidade que recebi a notícia de que iria poder lançar com destaque meu livro "Entre palavras, desenhos e modas" dentro da programação oficial de lançamento do Encontro dos GT's do Colóquio de Moda - Edição Virtual, após me inscrever no edital oficial do evento para lançamento de livros.
 
@@ -24,11 +24,11 @@ Esse momento de lançamento ainda foi completado pela divulgação na mídia par
 
 **Diário do Pará**, Caderno Você, 16/10/2020.
 
-![Matéria no Diário do Pará](/assets/images/posts/diario-para-lancamento-entre-palavras.png)
+![Matéria no Diário do Pará](/assets/images/diario-para-lancamento-entre-palavras.png)
 
 **Jornal O Liberal**, Caderno Magazine, 16/10/2020.
 
-![Matéria no O Liberal](/assets/images/posts/o-liberal-lancamento-entre-palavras.jpg)
+![Matéria no O Liberal](/assets/images/o-liberal-lancamento-entre-palavras.jpg)
 
 Para saber mais sobre meu livro, visite a [página especial](/pt/meu-livro-entre-palavras-desenhos-e-modas).
 

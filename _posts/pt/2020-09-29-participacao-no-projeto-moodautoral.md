@@ -12,11 +12,11 @@ Cinco alunas de Jornalismo da PUC-Campinas (Carla Cristine, Gabrielle Castro, Is
 
 ![Projeto Mood Autoral - Perfil no Instagram](/assets/images/mood-autoral-01.png)
 
-_Projeto Mood Autoral - Perfil no Instagram_
+Projeto Mood Autoral - Perfil no Instagram
 
 ![Projeto Mood Autoral - Logo e branding](/assets/images/mood-autoral-02.png)
 
-_Projeto Moda Autora - Logo e branding_
+Projeto Moda Autora - Logo e branding
 
 E foi em uma conversa no podcast sobre "Moda, Política e Representatividade" que pude dar minha contribuição para o projeto, respondendo questões como:
 
