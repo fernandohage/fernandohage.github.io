@@ -30,7 +30,7 @@ Abaixo estão alguns destaques da playlist com assuntos relacionados ao mundo da
 
 ### Moda a Par - Como Olhar as Tendências para Captar Soluções para o Futuro
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Moda a Par - Tendências" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QXLLUr0jIII" title="Moda a Par - Tendências" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

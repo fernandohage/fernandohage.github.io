@@ -8,11 +8,11 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/palestra-processos-de-criacao-com-a-marca-normando.html
 ---
 
-# Palestra: Processos de Criação com a Marca Normando
+## Palestra: Processos de Criação com a Marca Normando
 
 A convite do Curso de Moda da **FAAP**, o estilista e diretor criativo da marca **Normando**, **Marco Normando**, realizou no dia 18 de novembro um encontro na plataforma Zoom com alunos para falar sobre sua trajetória profissional desde sua participação no movimento **Hotspot**, atuação no estilo da marca de **Alexandre Herchcovitch** até a criação da sua marca homônima.
 
-![Arte de divulgação do evento](/assets/images/posts/normando-evento-arte.jpg)
+![Arte de divulgação do evento](/assets/images/normando-evento-arte.jpg)
 
 ## Sobre a Marca Normando
 
@@ -32,9 +32,9 @@ No encontro, mediado por mim, o estilista Marco Normando falou sobre:
 
 A palestra foi destaque no **Jornal Diário do Pará** no dia 18/11/2020:
 
-![Matéria no Diário do Pará - Página 1](/assets/images/posts/normando-diario-para-page1.jpg)
+![Matéria no Diário do Pará - Página 1](/assets/images/normando-diario-para-page1.jpg)
 
-![Matéria no Diário do Pará - Página 2](/assets/images/posts/normando-diario-para-page2.jpg)
+![Matéria no Diário do Pará - Página 2](/assets/images/normando-diario-para-page2.jpg)
 
 ## Sobre o Estilista
 
