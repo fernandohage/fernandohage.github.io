@@ -77,6 +77,11 @@ for file in ${path_to_rename}/*.md; do
         # Replace all the references to image in the file with the new name 
         # Use a more careful sed approach to avoid issues with special characters
         sed -i '' "s|$(echo "$image" | sed 's/[[\.*^$()+?{|]/\\&/g')|$(echo "$new_image" | sed 's/[[\.*^$()+?{|]/\\&/g')|g" "$file"
+
+        if [ $? -ne 0 ]; then
+            echo "Error replacing references in $file for $image" 1>&2
+            continue
+        fi
     done
 
     # Rename the file itself
