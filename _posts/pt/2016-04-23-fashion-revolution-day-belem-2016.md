@@ -8,7 +8,27 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/fashion-revolution-day-belem-2016.html
 ---
 
-# Fashion Revolution Day Belém 2016
+## Primeira Edição em Belém
+
+Participei da programação da primeira edição do evento **Fashion Revolution** em Belém, uma importante iniciativa que questiona as práticas da indústria da moda e promove maior transparência e sustentabilidade no setor.
+
+## Atividades Realizadas
+
+### Bate-papo com Grazi Ribeiro
+
+Participei de um bate-papo ao lado de **Grazi Ribeiro**, discutindo temas relacionados à moda sustentável e às transformações necessárias na indústria fashion.
+
+### Oficina Criativa
+
+Conduzi uma oficina criativa focada em práticas sustentáveis e criativas na moda, explorando alternativas inovadoras para a produção de vestuário.
+
+### Coordenação da Bandeira de Retalhos
+
+Coordenei a ação de confecção de uma bandeira feita com retalhos, criada pelos alunos do curso de Moda da Unama. Esta peça simbólica foi utilizada durante o evento como representação dos valores do movimento Fashion Revolution.
+
+## Sobre o Fashion Revolution
+
+O Fashion Revolution é um movimento global que questiona "quem fez minha roupa?" e busca promover uma moda mais justa, sustentável e transparente. O evento em Belém marcou o início dessa importante discussão na região amazônica.
 
 ## Galeria de Imagens
 
@@ -17,8 +37,6 @@ original_file: fernandohage.weebly.com/Migrated/fashion-revolution-day-belem-201
 ![Fashion Revolution Day Belém 2016](/assets/images/fashion-revolution-day-belem-2016-02.png)
 
 ![Fashion Revolution Day Belém 2016](/assets/images/fashion-revolution-day-belem-2016-03.jpg)
-
-Participação na programação da primeira edição do evento Fashion Revolution em Belém em bate-papo ao lado de Grazi Ribeiro, além de participação na oficina criativa e coordenação da ação de confecção de bandeira de retalhos criada por alunos de moda da Unama para ser usada no dia do evento.
 
 ---
 
