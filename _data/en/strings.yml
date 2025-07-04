@@ -1,0 +1,75 @@
+# English Translations
+site:
+  title: "Fernando Hage"
+  description: "Designer and Professor"
+  tagline: "Fashion, Arts and Culture"
+  twitter_username: fernandohage
+  github_username: fernandohage
+  instagram_username: fernandohage
+  linkedin_username: fernandohage
+
+navigation:
+  home: "HOME"
+  research: "RESEARCH"
+  projects: "PROJECTS"
+  info: "+INFO"
+  
+  # Research submenu
+  publications: "Publications"
+  book: "Book - Between words, drawings and fashion"
+  phd: "PhD"
+  specials: "Special"
+  
+  # Specials submenu
+  three_centuries: "The book Three Centuries of Fashion"
+  library: "Joao Affonso Library"
+  fashion_art: "Fashion and Art"
+  engravings: "Engravings and Illustrations"
+  french_magazines: "French magazines"
+  brazilian_magazines: "Brazilian magazines"
+  brazilian_books: "Brazilian books"
+  theatrical_texts: "Theatrical texts"
+  french_history: "French history"
+  goncourt_books: "Goncourt brothers books"
+  
+  # Projects submenu
+  diary: "Logbook"
+  media: "Media"
+  podcasts: "Podcasts"
+  videos: "Videos"
+  territory: "Fashion Territory"
+  creators_box: "Creators Box"
+  
+  # Info submenu
+  curriculum: "Resume"
+  contact: "Contact"
+
+pages:
+  welcome_title: "Welcome to Fernando Hage's Website"
+  welcome_subtitle: "Designer and Professor | Fashion, Arts and Culture"
+  welcome_description: "This is the official website of designer and professor Fernando Hage, containing projects, images, publications, articles, contact, special projects and information about Caixa de Criadores, awarded in creative economy for supporting new fashion and design creators."
+  latest_posts: "Latest Posts"
+  about: "About"
+  location: "Location"
+  tagline: "Fashion history, visual studies, creative consultancy"
+
+common:
+  read_more: "Read more"
+  back: "Back"
+  next: "Next"
+  previous: "Previous"
+
+footer:
+  about_title: "About"
+  about_description: "Designer and professor specialized in Fashion History, Visual Culture and Creative Consultancy. PhD in Arts at UFPA."
+  contact_title: "Contact"
+  location_title: "Location"
+  location_primary: "Berlin"
+  location_primary_country: "Germany"
+  location_secondary: "São Paulo, SP"
+  location_secondary_country: "Brazil"
+  location_tertiary: "Belém, PA"
+  location_tertiary_country: "Brazil"
+  quick_links: "Quick Links"
+  built_with: "Built by"
+  hosted_on: "Hosted on"

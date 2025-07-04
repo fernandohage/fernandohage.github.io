@@ -1,0 +1,42 @@
+# Site settings
+original_title: Fernando Hage
+email: fernandohage at gmail.com
+original_description: >- 
+  Site do designer e professor Fernando Hage, contendo projetos, imagens, 
+  publicações, artigos, contato, projetos especiais e informações sobre o 
+  Caixa de Criadores, premiado em economia criativa por apoiar novos criadores 
+  de moda e design.
+baseurl: ""
+url: "http://127.0.0.1:4000"
+disable_disk_cache: true
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-polyglot
+
+# Multilingual configuration
+languages: ["pt", "en"]
+default_lang: "pt"
+exclude_from_localization: ["javascript", "images", "css", "assets"]
+default_locale_in_subfolder: true
+lang_from_path: true
+
+
+feed:
+  path: /feed.atom
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - fernandohage.weebly.com
+  - .venv
+  - .vscode/
+

@@ -1,0 +1,163 @@
+<header class="site-header">
+  <div class="header-wrapper">
+    <div class="site-branding">
+      <h1 class="site-title">
+        <a href="{{ '/' | relative_url }}">{{ site.data[site.active_lang].strings.site.title }}</a>
+      </h1>
+      <p class="site-tagline">{{ site.data[site.active_lang].strings.site.tagline }}</p>
+    </div>
+
+    <nav class="main-navigation">
+      <ul class="nav-menu">
+        <li class="menu-item">
+          <a href="{{ '/' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.home }}</a>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.research }}</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="{{ '/artigos' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.publications }}</a>
+            </li>
+            <li class="submenu-item">
+              <a href="{{ '/meulivro' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.book }}</a>
+            </li>
+            <li class="submenu-item">
+              <a href="{{ '/tese-de-doutorado' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.phd }}</a>
+            </li>
+            <li class="submenu-item has-dropdown">
+              <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.specials }}</a>
+              <ul class="dropdown-menu level-2">
+                <li class="submenu-item">
+                  <a href="{{ '/tresseculosdemodas' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.three_centuries }}</a>
+                </li>
+                <li class="submenu-item has-dropdown">
+                  <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.library }}</a>
+                  <ul class="dropdown-menu level-3">
+                    <li class="submenu-item">
+                      <a href="{{ '/livrosmoda' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.fashion_art }}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{{ '/livrosgravura' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.engravings }}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{{ '/revistasfrancesas' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.french_magazines }}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{{ '/revistasbrasileiras' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.brazilian_magazines }}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{{ '/livrosbrasileirosja' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.brazilian_books }}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{{ '/livrosteatro' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.theatrical_texts }}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{{ '/livroshistoria' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.french_history }}</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="{{ '/livosgouncourt' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.goncourt_books }}</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.projects }}</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="{{ '/blog-clipping' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.diary }}</a>
+            </li>
+            <li class="submenu-item has-dropdown">
+              <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.media }}</a>
+              <ul class="dropdown-menu level-2">
+                <li class="submenu-item">
+                  <a href="{{ '/podcasts' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.podcasts }}</a>
+                </li>
+                <li class="submenu-item">
+                  <a href="{{ '/videos' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.videos }}</a>
+                </li>
+              </ul>
+            </li>
+            <li class="submenu-item">
+              <a href="{{ '/territoriodamoda' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.territory }}</a>
+            </li>
+            <li class="submenu-item">
+              <a href="{{ '/caixadecriadores' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.creators_box }}</a>
+            </li>
+          </ul>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.info }}</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="{{ '/curriculo' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.curriculum }}</a>
+            </li>
+            <li class="submenu-item">
+              <a href="{{ '/contato' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.contact }}</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      
+      <!-- Mobile menu toggle -->
+      <div class="mobile-menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </nav>
+
+    <!-- Language Switcher -->
+    <div class="language-switcher">
+    {% for language in site.languages %}
+      {% if language == site.active_lang %}
+        <span class="lang-link active">{{ language | upcase }}</span>
+      {% else %}
+        {% if language == site.default_lang %}
+          <a href="{{site.url}}" class="lang-link" >{{ language | upcase }}</a>
+        {% else %}
+          <a href="{{site.url}}/{{site.baseurl}}/{{ language }}/{{ page.url }}" class="lang-link">{{ language | upcase }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    </div>
+  </div>
+</header>
+
+<script>
+// Mobile menu functionality
+document.addEventListener('DOMContentLoaded', function() {
+  const mobileToggle = document.querySelector('.mobile-menu-toggle');
+  const navMenu = document.querySelector('.nav-menu');
+  const dropdownItems = document.querySelectorAll('.menu-item.has-dropdown');
+  
+  if (mobileToggle) {
+    mobileToggle.addEventListener('click', function() {
+      navMenu.classList.toggle('mobile-active');
+    });
+  }
+  
+  dropdownItems.forEach(item => {
+    const link = item.querySelector('a');
+    if (link && link.getAttribute('href') === '#') {
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        if (window.innerWidth <= 768) {
+          item.classList.toggle('mobile-dropdown-open');
+        }
+      });
+    }
+  });
+  
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.main-navigation')) {
+      navMenu.classList.remove('mobile-active');
+    }
+  });
+});
+</script>
