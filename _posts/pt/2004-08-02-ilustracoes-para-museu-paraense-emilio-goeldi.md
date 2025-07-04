@@ -5,6 +5,7 @@ date: 2004-08-02 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/ilustracoes-para-museu-paraense-emilio-goeldi.html
 ---
 
 # Ilustrações para Museu Paraense Emilio Goeldi

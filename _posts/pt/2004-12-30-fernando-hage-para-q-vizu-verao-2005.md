@@ -5,6 +5,7 @@ date: 2004-12-30 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/fernando-hage-para-q-vizurj-verao-2005.html
 ---
 
 # Fernando Hage para Q-vizu - Verão 2005

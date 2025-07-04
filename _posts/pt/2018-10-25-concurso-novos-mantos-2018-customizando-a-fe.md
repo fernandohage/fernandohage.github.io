@@ -5,6 +5,7 @@ date: 2018-10-25 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/concurso-novos-mantos-2018-customizando-a-fe.html
 ---
 
 # Concurso Novos Mantos 2018 - Customizando a Fé

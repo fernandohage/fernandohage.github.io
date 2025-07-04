@@ -5,6 +5,7 @@ date: 2014-04-02 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/palestra-e-workshop-de-confeccao-criativa.html
 ---
 
 # Palestra e Workshop de Confecção Criativa

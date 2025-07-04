@@ -5,6 +5,7 @@ date: 2020-10-16 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/lancamento-entre-palavras-na-abertura-do-coloquio-de-moda-2020.html
 ---
 
 # Lançamento entre Palavras na Abertura do Colóquio de Moda 2020

@@ -5,6 +5,7 @@ date: 2020-10-19 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/documentario-a-protecao-da-identidade-a-propriedade-intelectual-de-pinturas-na-moda-autoral.html
 ---
 
 # Documentário "a Proteção da Identidade": a Propriedade Intelectual de Pinturas na Moda Autoral

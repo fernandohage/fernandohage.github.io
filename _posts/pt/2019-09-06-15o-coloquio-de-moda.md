@@ -5,6 +5,7 @@ date: 2019-09-06 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/15-coloquio-de-moda.html
 ---
 
 # 15º Colóquio de Moda

@@ -5,6 +5,7 @@ date: 2022-10-27 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/encontro-das-universidades-na-semana-de-lancamentos-denim-city.html
 ---
 
 # Encontro das Universidades na Semana de Lançamentos Denim City

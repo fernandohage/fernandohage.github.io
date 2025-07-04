@@ -5,6 +5,7 @@ date: 2020-09-20 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/a-serie-amazon-fashion-agora-no-amazon-prime.html
 ---
 
 # A Série Amazon Fashion Agora no Amazon Prime

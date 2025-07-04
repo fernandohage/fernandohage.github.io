@@ -5,6 +5,7 @@ date: 2009-04-17 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/producao-de-moda-jornal-agora-sao-paulo.html
 ---
 
 # Produção de Moda - Jornal Agora São Paulo

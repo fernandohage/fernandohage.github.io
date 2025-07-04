@@ -5,6 +5,7 @@ date: 2017-12-15 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/consultoria-criativa-territorio-da-moda-esjligama.html
 ---
 
 # Consultoria Criativa - Território da Moda - Esjl/igama

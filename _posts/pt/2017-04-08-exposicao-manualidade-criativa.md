@@ -5,6 +5,7 @@ date: 2017-04-08 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/exposicao-manualidade-criativa.html
 ---
 
 # Exposição "manualidade Criativa"

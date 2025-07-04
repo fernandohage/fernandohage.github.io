@@ -5,6 +5,7 @@ date: 2017-06-22 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/gt-de-moda-i-encontro-amazonico-de-economia-criativa.html
 ---
 
 # Gt de Moda - I Encontro Amazônico de Economia Criativa

@@ -5,6 +5,7 @@ date: 2022-05-17 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/palestra-no-seminario-moda-uma-abordagem-museologica.html
 ---
 
 # Palestra no Seminário Moda: uma Abordagem Museológica

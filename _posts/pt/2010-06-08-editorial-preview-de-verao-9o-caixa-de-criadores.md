@@ -5,6 +5,7 @@ date: 2010-06-08 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/editorial-preview-9-caixa-de-criadores.html
 ---
 
 # Editorial Preview de Verão - 9º Caixa de Criadores

@@ -5,6 +5,7 @@ date: 2007-07-09 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/materia-caderno-top-luty-vasconcelos.html
 ---
 
 # Matéria Caderno Top - Luty Vasconcelos

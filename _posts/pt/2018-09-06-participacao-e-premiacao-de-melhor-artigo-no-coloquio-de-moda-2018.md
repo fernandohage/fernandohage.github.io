@@ -5,6 +5,7 @@ date: 2018-09-06 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/premio-de-melhor-artigo-do-gt4-no-coloquio-de-moda-2018.html
 ---
 
 # Participação e Premiação de Melhor Artigo no Colóquio de Moda 2018

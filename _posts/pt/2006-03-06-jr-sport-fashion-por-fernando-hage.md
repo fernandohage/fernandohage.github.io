@@ -5,6 +5,7 @@ date: 2006-03-06 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/jr-sport-fashion-por-fernando-hage.html
 ---
 
 # Jr Sport Fashion por Fernando Hage

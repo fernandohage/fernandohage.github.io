@@ -5,6 +5,7 @@ date: 2012-11-09 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/palestra-no-london-college-of-fashion.html
 ---
 
 # Palestra no London College of Fashion

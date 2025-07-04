@@ -46,7 +46,7 @@ navigation:
 
 pages:
   welcome_title: "Bem-vindo ao Site de Fernando Hage"
-  welcome_subtitle: "Designer e Professor | Fashion, Arts and Culture"
+  welcome_subtitle: "Designer e Professor | Moda, Artes e Cultura"
   welcome_description: "Este é o site oficial do designer e professor Fernando Hage, contendo projetos, imagens, publicações, artigos, contato, projetos especiais e informações sobre o Caixa de Criadores, premiado em economia criativa por apoiar novos criadores de moda e design."
   latest_posts: "Últimos Posts"
   about: "Sobre"
@@ -61,7 +61,7 @@ common:
 
 footer:
   about_title: "Sobre"
-  about_description: "Designer e professor especializado em História da Moda, Cultura Visual e Consultoria Criativa. Doutor em Artes pela Escola de Belas Artes da UFMG."
+  about_description: "Designer e professor especializado em História da Moda, Cultura Visual e Consultoria Criativa. Doutor em Artes pela UFPA UFMG."
   contact_title: "Contato"
   location_title: "Localização"
   location_primary: "Berlin"
