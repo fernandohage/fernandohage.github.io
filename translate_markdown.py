@@ -21,8 +21,8 @@ except Exception as e:
 #genai_model="gemini-2.0-flash"                     # Exceed the limit
 #genai_model="gemini-2.0-flash-lite"                 # Exceed the limit
 #genai_model="gemini-2.5-flash"                     # Exceed the limit
-#genai_model="gemini-2.5-flash-lite-preview-06-17"  # Exceed the limit
-genai_model = "gemini-2.5-pro"  # Exceed the limit
+genai_model="gemini-2.5-flash-lite-preview-06-17"  # Exceed the limit
+#genai_model = "gemini-2.5-pro"  # Exceed the limit
 ######################
 
 def translate_markdown_file(content, source_lang, target_lang):
