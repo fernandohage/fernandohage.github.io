@@ -1,8 +1,6 @@
 #!/bin/bash
 
-
 path_to_rename=$1
-
 files_txt="suggested_names.txt"
 
 for file in ${path_to_rename}/*.md; do
@@ -18,7 +16,8 @@ for file in ${path_to_rename}/*.md; do
         echo "ERR: No suggested name found for $file, skipping..."
         continue
     fi
-    suggested_image_preffix=$(echo "$suggested_file_name" | sed 's/.*-\([^.]*\).*/\1/')
+
+    suggested_image_preffix="${suggested_file_name%.*}"
     images=$(cat "$file" | grep assets/images |  sed 's/.*(\(.*\)).*/\1/')
 
     # Make a backup of the file
@@ -42,10 +41,10 @@ for file in ${path_to_rename}/*.md; do
         fi
 
         echo "Backing up $image to ${image}.bak"
-        cp "$image" "${image}.bak"
+        cp "./$image" "./${image}.bak"
         echo "Renaming $image to $new_image"
 
-        mv "$image" "$new_image"
+        mv "./$image" "./$new_image"
 
         echo "Replacing references in $file"
         # Replace all the references to image in the file with the new name 
@@ -55,6 +54,5 @@ for file in ${path_to_rename}/*.md; do
     # Rename the file itself
     echo "Renaming $file to ${file%/*}/${suggested_file_name}"
     mv "$file" "${file%/*}/${suggested_file_name}"
-    echo "Exiting script after processing $file"
-    exit 0
+
 done
