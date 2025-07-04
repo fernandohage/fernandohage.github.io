@@ -8,7 +8,7 @@ original_file: fernandohage.weebly.com/meulivro.html
 
 The book _Between words, drawings and fashions: a journey with João Affonso_ (Appris Editora, 2020) looks at the work and trajectory of João Affonso do Nascimento (1855-1924), author of the book _Three centuries of fashions_, published in 1923, in Belém, and with a significant role in the press and art criticism as a designer and chronicler in the cities of São Luís, Belém and Manaus between the years 1872 and 1917.
 
-![Book cover of Entre Palavras, Desenhos e Modas](/assets/images/meulivro-entre-palavrasdesenhos-e-modas-01.jpg)
+![Book cover of Entre Palavras, Desenhos e Modas](/assets/images/meu-livro-entre-palavras-desenhos-e-modas-01.jpg)
 
 In it you will be able to find a walk through the paths of a figure who began his career alongside the prominent brothers Arthur and Aluísio Azevedo, in the circuit of young Maranhão people, who participated in the effervescent cultural movement of the Belle Époque in the Amazon and Paris, and left as a legacy the first fashion history book written by a Brazilian that is known, which was also presented as an art exhibition in Belém, stimulated by the painter Theodoro Braga.
 

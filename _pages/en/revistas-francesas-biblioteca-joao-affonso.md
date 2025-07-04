@@ -10,7 +10,7 @@ original_file: fernandohage.weebly.com/revistasfrancesas.html
 
 ## La Vie Parisienne [1863-1943]
 
-![Cover of the magazine La Vie Parisienne](/assets/images/revistasfrancesas-biblioteca-joao-affonso-01.jpg)
+![Cover of the magazine La Vie Parisienne](/assets/images/revistas-francesas-biblioteca-joao-affonso-01.jpg)
 
 **Mœurs Élégantes, Choses du Jour, Fantaisies, Voyages, Théâtres, Musique, Modes / Par Marcellin**
 
@@ -24,7 +24,7 @@ The collection has 1,851 editions.
 
 ## Le Monde Illustré [1863-1943]
 
-![Cover of the magazine Le Monde Illustré](/assets/images/revistasfrancesas-biblioteca-joao-affonso-02.jpg)
+![Cover of the magazine Le Monde Illustré](/assets/images/revistas-francesas-biblioteca-joao-affonso-02.jpg)
 
 João Affonso specified the period from 1875 to 1885.
 The collection has 2,831 editions.
@@ -36,7 +36,7 @@ The collection has 2,831 editions.
 
 ## L'Illustration [1843-1957]
 
-![Cover of the magazine L'Illustration](/assets/images/revistasfrancesas-biblioteca-joao-affonso-03.jpg)
+![Cover of the magazine L'Illustration](/assets/images/revistas-francesas-biblioteca-joao-affonso-03.jpg)
 
 João Affonso specified the period from 1902 to 1915.
 The mapped collection has about 92 editions.
@@ -47,7 +47,7 @@ The mapped collection has about 92 editions.
 
 ## Femina [1901-1916]
 
-![Cover of the magazine Femina](/assets/images/revistasfrancesas-biblioteca-joao-affonso-04.jpg)
+![Cover of the magazine Femina](/assets/images/revistas-francesas-biblioteca-joao-affonso-04.jpg)
 
 João Affonso specified the period from 1901 to 1914.
 The collection has 79 editions.
@@ -59,7 +59,7 @@ The collection has 79 editions.
 
 ## Excelsior [1910-1943]
 
-![Cover of the magazine Excelsior](/assets/images/revistasfrancesas-biblioteca-joao-affonso-05.jpg)
+![Cover of the magazine Excelsior](/assets/images/revistas-francesas-biblioteca-joao-affonso-05.jpg)
 
 João Affonso only specifies the year 1915.
 
@@ -70,7 +70,7 @@ João Affonso only specifies the year 1915.
 
 ## Costumes Parisiens [1912]
 
-![Cover of Costumes Parisiens](/assets/images/revistasfrancesas-biblioteca-joao-affonso-06.jpg)
+![Cover of Costumes Parisiens](/assets/images/revistas-francesas-biblioteca-joao-affonso-06.jpg)
 
 João Affonso cites a work of the same name from 1875, which is a set of engravings. It is believed that the work made available here is a re-edition of that work from 1912.
 
@@ -103,7 +103,7 @@ This project is part of the launch of my book "Entre palavras, desenhos, costume
 
 ## Três Séculos de Modas
 
-![Cover of the book Three Centuries of Fashion](/assets/images/revistasfrancesas-biblioteca-joao-affonso-07.jpg)
+![Cover of the book Three Centuries of Fashion](/assets/images/revistas-francesas-biblioteca-joao-affonso-07.jpg)
 
 [Access the book](tresseculosdemodas.html)
 

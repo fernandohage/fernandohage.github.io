@@ -24,63 +24,63 @@ Veja abaixo o material do último lançamento que aconteceu em setembro de 2020 
 
 ## Fotos do Desfile da Live de Lançamento
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-01.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-01.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-02.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-02.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-03.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-03.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-04.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-04.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-05.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-05.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-06.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-06.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-07.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-07.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-08.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-08.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-09.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-09.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-10.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-10.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-11.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-11.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-12.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-12.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-13.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-13.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-14.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-14.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-15.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-15.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-16.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-16.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-17.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-17.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-18.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-18.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-19.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-19.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-20.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-20.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-21.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-21.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-22.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-22.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-23.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-23.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-24.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-24.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-25.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-25.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-26.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-26.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-27.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-27.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-28.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-28.jpg)
 
-![Desfile Território da Moda 2020](/assets/images/territoriodamoda-territorio-da-moda-29.jpg)
+![Desfile Território da Moda 2020](/assets/images/territorio-da-moda-29.jpg)
 
 ---
 
@@ -88,61 +88,61 @@ Veja abaixo o material do último lançamento que aconteceu em setembro de 2020 
 
 Veja abaixo o @ das marcas que participam da edição desse ano e conheça mais da moda autoral paraense.
 
-![Logo das marcas participantes](/assets/images/territoriodamoda-territorio-da-moda-30.png)
+![Logo das marcas participantes](/assets/images/territorio-da-moda-30.png)
 
 ### TuCrias
 
 [@tucrias](https://www.instagram.com/tucrias/)
 
-![TuCrias](/assets/images/territoriodamoda-territorio-da-moda-31.png)
+![TuCrias](/assets/images/territorio-da-moda-31.png)
 
 ### Madame Floresta
 
 [@madamefloresta](https://www.instagram.com/madamefloresta/)
 
-![Madame Floresta](/assets/images/territoriodamoda-territorio-da-moda-32.png)
+![Madame Floresta](/assets/images/territorio-da-moda-32.png)
 
 ### Fábio Purificação
 
 [@purificacaobrand](https://www.instagram.com/purificacaobrand/)
 
-![Fábio Purificação](/assets/images/territoriodamoda-territorio-da-moda-33.png)
+![Fábio Purificação](/assets/images/territorio-da-moda-33.png)
 
 ### Prado
 
 [@estiloprado](https://www.instagram.com/estiloprado/)
 
-![Prado](/assets/images/territoriodamoda-territorio-da-moda-34.png)
+![Prado](/assets/images/territorio-da-moda-34.png)
 
 ### Lilia Lima
 
 [@lilialimadesigner](https://www.instagram.com/lilialimadesigner/)
 
-![Lilia Lima](/assets/images/territoriodamoda-territorio-da-moda-35.png)
+![Lilia Lima](/assets/images/territorio-da-moda-35.png)
 
 ### Patchouli da Amazônia
 
 [@patchoulidaamazonia](https://www.instagram.com/patchoulidaamazonia/)
 
-![Patchouli da Amazônia](/assets/images/territoriodamoda-territorio-da-moda-36.png)
+![Patchouli da Amazônia](/assets/images/territorio-da-moda-36.png)
 
 ### Ludimila Heringer
 
 [@ludimilaheringer](https://www.instagram.com/ludimilaheringer/)
 
-![Ludimila Heringer](/assets/images/territoriodamoda-territorio-da-moda-37.png)
+![Ludimila Heringer](/assets/images/territorio-da-moda-37.png)
 
 ### Miçante
 
 [@micanteveste](https://www.instagram.com/micanteveste/)
 
-![Miçante](/assets/images/territoriodamoda-territorio-da-moda-38.png)
+![Miçante](/assets/images/territorio-da-moda-38.png)
 
 ### Murilo Maia
 
 [@vistamaia](https://www.instagram.com/vistamaia/)
 
-![Murilo Maia](/assets/images/territoriodamoda-territorio-da-moda-39.png)
+![Murilo Maia](/assets/images/territorio-da-moda-39.png)
 
 ### Donna Fran
 
@@ -158,7 +158,7 @@ O Espaço Moda reúne itens de vestuário, bolsas, acessórios e calçados de ma
 
 Em breve a loja terá seu e-commerce.
 
-![Espaço Moda](/assets/images/territoriodamoda-territorio-da-moda-40.jpg)
+![Espaço Moda](/assets/images/territorio-da-moda-40.jpg)
 
 ### Espaço São José Liberto
 
@@ -168,7 +168,7 @@ Belém, Pará, Brasil
 **Site:** [saojoseliberto.com.br](https://saojoseliberto.com.br/)  
 **Instagram:** [@espacosaojoselibertooficial](https://www.instagram.com/espacosaojoselibertooficial/)
 
-![Espaço São José Liberto](/assets/images/territoriodamoda-territorio-da-moda-41.jpg)
+![Espaço São José Liberto](/assets/images/territorio-da-moda-41.jpg)
 
 ---
 
@@ -192,21 +192,21 @@ A APL de Moda, Design e Indústria do Vestuário é sediada no Espaço São Jos�
 
 Veja abaixo os slides da palestra de lançamento do YouTube e conheça mais detalhes do projeto:
 
-![Slide 1 da palestra](/assets/images/territoriodamoda-territorio-da-moda-42.jpg)
+![Slide 1 da palestra](/assets/images/territorio-da-moda-42.jpg)
 
-![Slide 2 da palestra](/assets/images/territoriodamoda-territorio-da-moda-43.jpg)
+![Slide 2 da palestra](/assets/images/territorio-da-moda-43.jpg)
 
-![Slide 3 da palestra](/assets/images/territoriodamoda-territorio-da-moda-44.jpg)
+![Slide 3 da palestra](/assets/images/territorio-da-moda-44.jpg)
 
-![Slide 4 da palestra](/assets/images/territoriodamoda-territorio-da-moda-45.jpg)
+![Slide 4 da palestra](/assets/images/territorio-da-moda-45.jpg)
 
-![Slide 5 da palestra](/assets/images/territoriodamoda-territorio-da-moda-46.jpg)
+![Slide 5 da palestra](/assets/images/territorio-da-moda-46.jpg)
 
-![Slide 6 da palestra](/assets/images/territoriodamoda-territorio-da-moda-47.jpg)
+![Slide 6 da palestra](/assets/images/territorio-da-moda-47.jpg)
 
-![Slide 7 da palestra](/assets/images/territoriodamoda-territorio-da-moda-48.jpg)
+![Slide 7 da palestra](/assets/images/territorio-da-moda-48.jpg)
 
-![Slide 8 da palestra](/assets/images/territoriodamoda-territorio-da-moda-49.jpg)
+![Slide 8 da palestra](/assets/images/territorio-da-moda-49.jpg)
 
 ---
 

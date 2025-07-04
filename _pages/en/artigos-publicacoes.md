@@ -140,4 +140,4 @@ Caroline Serrão. Fashion Colloquium, 2013, Fortaleza
 
 [Lattes](http://lattes.cnpq.br/2320739710304133)
 
-![Picture](/assets/images/artigos-artigos-publicacoes-01.jpg)
+![Picture](/assets/images/artigos-publicacoes-01.jpg)

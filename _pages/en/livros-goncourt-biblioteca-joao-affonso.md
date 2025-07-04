@@ -17,7 +17,7 @@ These works deal with aspects of French history and society, with a focus on the
 **Edmond and Jules de Goncourt**
 
 
-![Cover of the book La Femme au Dix-Huitième-Siècle](/assets/images/livosgouncourt-biblioteca-joao-affonso-01.png)
+![Cover of the book La Femme au Dix-Huitième-Siècle](/assets/images/livros-goncourt-biblioteca-joao-affonso-01.png)
 
 
 [ACCESS THE BOOK](https://archive.org/details/lafemmeaudixhui00gonc/)
@@ -29,7 +29,7 @@ These works deal with aspects of French history and society, with a focus on the
 **Edmond and Jules de Goncourt**
 
 
-![Cover of the book Histoire de Marie-Antoinette](/assets/images/livosgouncourt-biblioteca-joao-affonso-02.png)
+![Cover of the book Histoire de Marie-Antoinette](/assets/images/livros-goncourt-biblioteca-joao-affonso-02.png)
 
 
 [ACCESS THE BOOK](https://archive.org/details/eetjdegoncourth00goncgoog)
@@ -41,7 +41,7 @@ These works deal with aspects of French history and society, with a focus on the
 **Edmond and Jules de Goncourt**
 
 
-![Cover of the book Madame de Pompadour](/assets/images/livosgouncourt-biblioteca-joao-affonso-03.png)
+![Cover of the book Madame de Pompadour](/assets/images/livros-goncourt-biblioteca-joao-affonso-03.png)
 
 
 [ACCESS THE BOOK](https://archive.org/details/madamedepompadou00gonc/)
@@ -53,7 +53,7 @@ These works deal with aspects of French history and society, with a focus on the
 **Edmond and Jules de Goncourt**
 
 
-![Cover of the book Histoire de la Société Française Pendant la Révolution](/assets/images/livosgouncourt-biblioteca-joao-affonso-04.png)
+![Cover of the book Histoire de la Société Française Pendant la Révolution](/assets/images/livros-goncourt-biblioteca-joao-affonso-04.png)
 
 
 [ACCESS THE BOOK](https://archive.org/details/lasocietefrancais00gonc/)
@@ -65,7 +65,7 @@ These works deal with aspects of French history and society, with a focus on the
 **Edmond de Goncourt**
 
 
-![Cover of the book La Maison d'un Artiste au XIXe Siècle](/assets/images/livosgouncourt-biblioteca-joao-affonso-05.png)
+![Cover of the book La Maison d'un Artiste au XIXe Siècle](/assets/images/livros-goncourt-biblioteca-joao-affonso-05.png)
 
 
 [ACCESS THE BOOK - VOLUME I](https://archive.org/details/lamaisondunarti01goncgoog/)  
@@ -78,7 +78,7 @@ These works deal with aspects of French history and society, with a focus on the
 **Edmond and Jules de Goncourt**
 
 
-![Cover of the book La Duchesse de Chateauroux et ses Sœurs](/assets/images/livosgouncourt-biblioteca-joao-affonso-06.png)
+![Cover of the book La Duchesse de Chateauroux et ses Sœurs](/assets/images/livros-goncourt-biblioteca-joao-affonso-06.png)
 
 
 [ACCESS THE BOOK](https://archive.org/details/laduchessedechat00gonc_0)
@@ -90,7 +90,7 @@ These works deal with aspects of French history and society, with a focus on the
 **Edmond and Jules de Goncourt**
 
 
-![Cover of the book La Du Barry](/assets/images/livosgouncourt-biblioteca-joao-affonso-07.png)
+![Cover of the book La Du Barry](/assets/images/livros-goncourt-biblioteca-joao-affonso-07.png)
 
 
 [ACCESS THE BOOK](https://archive.org/details/ladubarry00goncuoft/)
@@ -102,7 +102,7 @@ These works deal with aspects of French history and society, with a focus on the
 **Edmond and Jules de Goncourt**
 
 
-![Cover of the book Portraits Intimes du Dix-Huitième Siècle](/assets/images/livosgouncourt-biblioteca-joao-affonso-08.png)
+![Cover of the book Portraits Intimes du Dix-Huitième Siècle](/assets/images/livros-goncourt-biblioteca-joao-affonso-08.png)
 
 
 [ACCESS THE BOOK](https://archive.org/details/portraitsintimes00gonc_1/)
@@ -136,7 +136,7 @@ This project is part of the launch of my book "Entre palavras, desenhos, costume
 ## Três Séculos de Modas
 
 
-![Cover of the book Três Séculos de Modas](/assets/images/livosgouncourt-biblioteca-joao-affonso-09.jpg)
+![Cover of the book Três Séculos de Modas](/assets/images/livros-goncourt-biblioteca-joao-affonso-09.jpg)
 
 
 [Access the book](tresseculosdemodas.html)

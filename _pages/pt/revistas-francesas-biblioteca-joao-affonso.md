@@ -10,7 +10,7 @@ original_file: fernandohage.weebly.com/revistasfrancesas.html
 
 ## La Vie Parisienne [1863-1943]
 
-![Capa da revista La Vie Parisienne](/assets/images/revistasfrancesas-biblioteca-joao-affonso-01.jpg)
+![Capa da revista La Vie Parisienne](/assets/images/revistas-francesas-biblioteca-joao-affonso-01.jpg)
 
 **Mœurs Élégantes, Choses du Jour, Fantaisies, Voyages, Théâtres, Musique, Modes / Par Marcellin**
 
@@ -24,7 +24,7 @@ O acervo possui 1.851 edições.
 
 ## Le Monde Illustré [1863-1943]
 
-![Capa da revista Le Monde Illustré](/assets/images/revistasfrancesas-biblioteca-joao-affonso-02.jpg)
+![Capa da revista Le Monde Illustré](/assets/images/revistas-francesas-biblioteca-joao-affonso-02.jpg)
 
 João Affonso especificou o período de 1875 a 1885.  
 O acervo possui 2.831 edições.
@@ -36,7 +36,7 @@ O acervo possui 2.831 edições.
 
 ## L'Illustration [1843-1957]
 
-![Capa da revista L'Illustration](/assets/images/revistasfrancesas-biblioteca-joao-affonso-03.jpg)
+![Capa da revista L'Illustration](/assets/images/revistas-francesas-biblioteca-joao-affonso-03.jpg)
 
 João Affonso especificou o período de 1902 a 1915.  
 O acervo mapeado tem cerca de 92 edições.
@@ -47,7 +47,7 @@ O acervo mapeado tem cerca de 92 edições.
 
 ## Femina [1901-1916]
 
-![Capa da revista Femina](/assets/images/revistasfrancesas-biblioteca-joao-affonso-04.jpg)
+![Capa da revista Femina](/assets/images/revistas-francesas-biblioteca-joao-affonso-04.jpg)
 
 João Affonso especificou o período de 1901 a 1914.  
 O acervo possui 79 edições.
@@ -59,7 +59,7 @@ O acervo possui 79 edições.
 
 ## Excelsior [1910-1943]
 
-![Capa da revista Excelsior](/assets/images/revistasfrancesas-biblioteca-joao-affonso-05.jpg)
+![Capa da revista Excelsior](/assets/images/revistas-francesas-biblioteca-joao-affonso-05.jpg)
 
 João Affonso especifica apenas o ano de 1915.
 
@@ -70,7 +70,7 @@ João Affonso especifica apenas o ano de 1915.
 
 ## Costumes Parisiens [1912]
 
-![Capa de Costumes Parisiens](/assets/images/revistasfrancesas-biblioteca-joao-affonso-06.jpg)
+![Capa de Costumes Parisiens](/assets/images/revistas-francesas-biblioteca-joao-affonso-06.jpg)
 
 João Affonso cita obra homônima de 1875, que se trata de um conjunto de gravuras. Acredita-se que a obra aqui disponibilizada seja uma reedição dessa obra de 1912.
 
@@ -103,7 +103,7 @@ Este projeto faz parte do lançamento do meu livro "Entre palavras, desenhos, co
 
 ## Três Séculos de Modas
 
-![Capa do livro Três Séculos de Modas](/assets/images/revistasfrancesas-biblioteca-joao-affonso-07.jpg)
+![Capa do livro Três Séculos de Modas](/assets/images/revistas-francesas-biblioteca-joao-affonso-07.jpg)
 
 [Acesse o livro](tresseculosdemodas.html)
 

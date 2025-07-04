@@ -30,7 +30,7 @@ Poetic anthology of the author from São Paulo, who belongs to the second Brazil
 Extensive book on the history of the country, divided into chapters that address the discovery, organization and historical struggles, formation of Brazil, territorial definition of the country, and political aspects.
 
 ![Book Cover of Stories of Brazil
-](/assets/images/livrosbrasileirosja-biblioteca-joao-affonso-01.png)
+](/assets/images/livros-brasileiros-biblioteca-joao-affonso-01.png)
 [Access (Archive.org)
 ](https://archive.org/details/historiadobrasil00ribeuoft/)
 
@@ -43,7 +43,7 @@ Extensive book on the history of the country, divided into chapters that address
 This is a set of "studies of documents for the execution of the large canvas painted by the author and commissioned by the benefactor municipal intendant of Belém [...]". For the painting, studies on the attire of the explorers of 1600 were necessary and fashion books are cited. This painting is described at the beginning of the "Três Séculos de Modas" journey.
 
 ![Book Cover of The Foundation of the City of Our Lady of Bethlehem of Pará
-](/assets/images/livrosbrasileirosja-biblioteca-joao-affonso-02.png)
+](/assets/images/livros-brasileiros-biblioteca-joao-affonso-02.png)
 [Access (FCP Pará)
 ](http://www.fcp.pa.gov.br/obrasraras/publicacao/a-fundacao-da-cidade-de-nossa-senhora-de-belem-do-para/)
 [Access (Google Books)
@@ -88,7 +88,7 @@ This project is part of the launch of my book "Entre palavras, desenhos, costume
 ## Três Séculos de Modas
 
 ![Book Cover of Three Centuries of Fashion
-](/assets/images/livrosbrasileirosja-biblioteca-joao-affonso-03.jpg)
+](/assets/images/livros-brasileiros-biblioteca-joao-affonso-03.jpg)
 [Access the book](tresseculosdemodas.html)
 
 Written in commemoration of the tricentenary of Belém, the book takes a tour of men's and women's fashions from 1616 to 1916, and can be considered the first Brazilian fashion history book. The first edition of the book can be accessed digitally at the Biblioteca Brasiliana Guita e José Mindlin/USP.

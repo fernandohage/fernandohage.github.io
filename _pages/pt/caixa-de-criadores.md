@@ -14,13 +14,13 @@ original_file: fernandohage.weebly.com/caixadecriadores.html
 
 Para visualizar outros detalhes de edições realizadas, visite a seção [Caderno de Projetos](diario-de-bordo.html) ou veja o portfólio 2006-2011 abaixo.
 
-![Logo do projeto Caixa de Criadores](/assets/images/caixadecriadores-caixa-de-criadores-01.png)
+![Logo do projeto Caixa de Criadores](/assets/images/caixa-de-criadores-01.png)
 
 ## Realização
 
 O Projeto Caixa de Criadores é uma realização da Associação Moda Pará, produzido pela equipe formada por Clara Carneiro, Diogo Carneiro, Fernando Hage, Junior Oliveira, e conta desde sua idealização com o apoio do Sebrae Pará.
 
-![Evento Caixa de Criadores](/assets/images/caixadecriadores-caixa-de-criadores-02.jpg)
+![Evento Caixa de Criadores](/assets/images/caixa-de-criadores-02.jpg)
 
 ## Reconhecimento
 

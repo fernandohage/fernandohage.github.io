@@ -13,7 +13,7 @@ original_file: fernandohage.weebly.com/caixadecriadores.html
 To see more details of past editions, visit the [Project Log](diario-de-bordo.html) section or see the 2006-2011 portfolio below.
 
 
-![Creators' Box project logo](/assets/images/caixadecriadores-caixa-de-criadores-01.png)
+![Creators' Box project logo](/assets/images/caixa-de-criadores-01.png)
 
 
 ## Organization
@@ -21,7 +21,7 @@ To see more details of past editions, visit the [Project Log](diario-de-bordo.ht
 The Creators' Box Project is an initiative of the Associação Moda Pará, produced by the team of Clara Carneiro, Diogo Carneiro, Fernando Hage, and Junior Oliveira, and has been supported by Sebrae Pará since its conception.
 
 
-![Creators' Box Event](/assets/images/caixadecriadores-caixa-de-criadores-02.jpg)
+![Creators' Box Event](/assets/images/caixa-de-criadores-02.jpg)
 
 
 ## Recognition

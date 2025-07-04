@@ -16,7 +16,7 @@ original_file: fernandohage.weebly.com/livrosgravura.html
 With the theme "women's falsehood in matters of feeling," this work contains a set of caricatures created by Gavarni and is part of a selection of works in four books with various themes. This book also includes the themes "cliché" and "Paris at night."
 
 
-![Book cover of Œuvres Choisies de Gavarni](/assets/images/livrosgravura-biblioteca-joao-affonso-01.png)
+![Book cover of Œuvres Choisies de Gavarni](/assets/images/livros-gravura-biblioteca-joao-affonso-01.png)
 
 
 [Access the Book (French)](https://archive.org/details/oeuvreschoisiesd02gava_0/page/n9/mode/2up)
@@ -30,7 +30,7 @@ With the theme "women's falsehood in matters of feeling," this work contains a s
 A novel by the French writer, set in the seventeenth century, it tells the story of the Baron de Sigognac during the reign of Louis XIII of France (1610-1643). The book features illustrations by Gustave Doré.
 
 
-![Book cover of Le Capitaine Fracasse](/assets/images/livrosgravura-biblioteca-joao-affonso-02.png)
+![Book cover of Le Capitaine Fracasse](/assets/images/livros-gravura-biblioteca-joao-affonso-02.png)
 
 
 [Access the Book](https://archive.org/details/lecapitainefraca00gaut/page/n7/mode/2up)
@@ -44,7 +44,7 @@ A novel by the French writer, set in the seventeenth century, it tells the story
 A book by the French scientist and writer that covers scientific innovations such as photography, the stereoscope, gunpowder, ancient and modern artillery, portable weapons, drainage, naval structures, and fish farming. The book has illustrations in every section.
 
 
-![Book cover of Les Merveilles de la Science](/assets/images/livrosgravura-biblioteca-joao-affonso-03.png)
+![Book cover of Les Merveilles de la Science](/assets/images/livros-gravura-biblioteca-joao-affonso-03.png)
 
 
 [Access the Book](https://archive.org/details/bub_gb_gjjS7klqLPUC/)
@@ -58,7 +58,7 @@ A book by the French scientist and writer that covers scientific innovations suc
 A novel by the French writer, originally titled "Histoire du Chevalier des Grieux et de Manon Lescaut," published in Amsterdam in 1731, which would later become a four-act opera by Giacomo Puccini. This edition features illustrations by Conconi, Marold, and Rossi.
 
 
-![Book cover of Manon Lescaut](/assets/images/livrosgravura-biblioteca-joao-affonso-04.png)
+![Book cover of Manon Lescaut](/assets/images/livros-gravura-biblioteca-joao-affonso-04.png)
 
 
 [Access the Book](https://archive.org/details/manonlescautparl00pruoft/)
@@ -82,7 +82,7 @@ A richly illustrated work that presents 21 world capitals, starting with Paris a
 A complete collection of works by the French realist writer. With a total of 6 volumes, it has textual revision by Marcel Bouteron and Henri Longnon and illustrations by Charles Huard.
 
 
-![Cover of Œuvres Complètes de Honoré de Balzac](/assets/images/livrosgravura-biblioteca-joao-affonso-05.png)
+![Cover of Œuvres Complètes de Honoré de Balzac](/assets/images/livros-gravura-biblioteca-joao-affonso-05.png)
 
 
 [Volume 1](https://archive.org/details/oeuvrescomplt01balz/) | [Volume 2](https://archive.org/details/oeuvrescompl02balz) | [Volume 3](https://archive.org/details/oeuvrescomplt03balz) | [Volume 4](https://archive.org/details/oeuvrescomplt04balz/) | [Volume 5](https://archive.org/details/oeuvrescomplt05balz) | [Volume 6](https://archive.org/details/oeuvrescomplt06balz)
@@ -96,7 +96,7 @@ A complete collection of works by the French realist writer. With a total of 6 v
 Titled "universal encyclopedic dictionary," this work has eight volumes, consisting of seven tomes and one supplement, all illustrated.
 
 
-![Cover of Nouveau Larousse Illustré](/assets/images/livrosgravura-biblioteca-joao-affonso-06.png)
+![Cover of Nouveau Larousse Illustré](/assets/images/livros-gravura-biblioteca-joao-affonso-06.png)
 
 
 [Volume 1](https://archive.org/details/nouveaularoussei01laro/) | [Volume 2](https://archive.org/details/nouveaularoussei02laro/) | [Volume 3](https://archive.org/details/nouveaularoussei03laro/) | [Volume 4](https://archive.org/details/nouveaularoussei04laro) | [Volume 5](https://archive.org/details/nouveaularoussei05laro/) | [Volume 6](https://archive.org/details/nouveaularoussei06laro/) | [Volume 7](https://archive.org/details/nouveaularoussei07laro/) | [Supplement](https://archive.org/details/nouveaularoussei00laro/)
@@ -131,7 +131,7 @@ This project is part of the launch of my book "Entre palavras, desenhos, costume
 ## The Book "Três Séculos de Modas"
 
 
-![Cover of the book Três Séculos de Modas](/assets/images/livrosgravura-biblioteca-joao-affonso-07.jpg)
+![Cover of the book Três Séculos de Modas](/assets/images/livros-gravura-biblioteca-joao-affonso-07.jpg)
 
 
 Written in celebration of the tercentenary of Belém, the book takes a journey through men's and women's fashions from 1616 to 1916, and can be considered the first Brazilian book on fashion history.

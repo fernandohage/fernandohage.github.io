@@ -15,7 +15,7 @@ original_file: fernandohage.weebly.com/livrosteatro.html
 Comic opera in three acts with music by Charles Lecocq, first performed in Brussels in 1872, telling the story of Clairette, a Parisian florist.
 
 
-![Cover of the book La Fille de Madame Angot](/assets/images/livrosteatro-biblioteca-joao-affonso-01.png)
+![Cover of the book La Fille de Madame Angot](/assets/images/livros-teatro-biblioteca-joao-affonso-01.png)
 
 
 [Access the Book (French)](https://archive.org/details/lafilledemadamea00leco2/)  
@@ -30,7 +30,7 @@ Comic opera in three acts with music by Charles Lecocq, first performed in Bruss
 Play written in 1897, based on the life of Hector Savinien de Cyrano de Bergerac, a French writer. Illustrated edition by Émile Faguet, with clothing styles similar to those presented by João Affonso.
 
 
-![Cover of the book Cyrano de Bergerac](/assets/images/livrosteatro-biblioteca-joao-affonso-02.png)
+![Cover of the book Cyrano de Bergerac](/assets/images/livros-teatro-biblioteca-joao-affonso-02.png)
 
 
 [Access the Book](https://archive.org/details/oeuvrescomplte02rost/)
@@ -44,7 +44,7 @@ Play written in 1897, based on the life of Hector Savinien de Cyrano de Bergerac
 Complete work of the important French playwright in an edition divided into 7 volumes. His satirical work is known for portraying the customs of his time.
 
 
-![Cover of Molière's Théâtre Complet](/assets/images/livrosteatro-biblioteca-joao-affonso-03.png)
+![Cover of Molière's Théâtre Complet](/assets/images/livros-teatro-biblioteca-joao-affonso-03.png)
 
 
 **Available volumes:**
@@ -81,7 +81,7 @@ This project is part of the launch of my book "Entre palavras, desenhos, costume
 ## Três Séculos de Modas
 
 
-![Cover of the book Três Séculos de Modas](/assets/images/livrosteatro-biblioteca-joao-affonso-04.jpg)
+![Cover of the book Três Séculos de Modas](/assets/images/livros-teatro-biblioteca-joao-affonso-04.jpg)
 
 
 [Access the book](tresseculosdemodas.html)
