@@ -1,0 +1,1101 @@
+MISSING IMAGES REPORT
+==================================================
+
+Generated: 2025-07-04 09:38:31
+
+SUMMARY
+--------------------
+Total markdown files analyzed: 106
+Files with missing images: 54
+Total images referenced: 1177
+Total missing images: 653
+Percentage missing: 55.48%
+
+FILES WITH MISSING IMAGES
+------------------------------
+
+📄 Markdown File: _pages/pt/videos-videos.md
+🌐 HTML File: videos.html
+📊 Missing: 3 of 3 images
+
+   Missing Images:
+   - maxresdefault.jpg (referenced as: https://img.youtube.com/vi/CHANNEL_ID/maxresdefault.jpg)
+   - maxresdefault.jpg (referenced as: https://img.youtube.com/vi/PLAYLIST_ID/maxresdefault.jpg)
+   - maxresdefault.jpg (referenced as: https://img.youtube.com/vi/PLAYLIST_ID/maxresdefault.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/en/2025-07-02-apple-pie-recipe.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 2 of 2 images
+
+   Missing Images:
+   - apple_pie_recipe.jpg (referenced as: /assets/images/apple_pie_recipe.jpg)
+   - apple_pie_recipe.jpg (referenced as: /assets/images/apple_pie_recipe.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2004-08-01-projetos-especiais-chamma-da-amazonia.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 10 of 10 images
+
+   Missing Images:
+   - projetos-especiais-chamma-da-amazonia-01.jpg (referenced as: /assets/images/projetos-especiais-chamma-da-amazonia-01.jpg)
+   - projetos-especiais-chamma-da-amazonia-02.jpg (referenced as: /assets/images/projetos-especiais-chamma-da-amazonia-02.jpg)
+   - projetos-especiais-chamma-da-amazonia-03.jpg (referenced as: /assets/images/projetos-especiais-chamma-da-amazonia-03.jpg)
+   - projetos-especiais-chamma-da-amazonia-04.jpg (referenced as: /assets/images/projetos-especiais-chamma-da-amazonia-04.jpg)
+   - projetos-especiais-chamma-da-amazonia-05.jpg (referenced as: /assets/images/projetos-especiais-chamma-da-amazonia-05.jpg)
+   - projetos-especiais-chamma-da-amazonia-01.jpg (referenced as: /assets/images/projetos-especiais-chamma-da-amazonia-01.jpg)
+   - projetos-especiais-chamma-da-amazonia-02.jpg (referenced as: /assets/images/projetos-especiais-chamma-da-amazonia-02.jpg)
+   - projetos-especiais-chamma-da-amazonia-03.jpg (referenced as: /assets/images/projetos-especiais-chamma-da-amazonia-03.jpg)
+   - projetos-especiais-chamma-da-amazonia-04.jpg (referenced as: /assets/images/projetos-especiais-chamma-da-amazonia-04.jpg)
+   - projetos-especiais-chamma-da-amazonia-05.jpg (referenced as: /assets/images/projetos-especiais-chamma-da-amazonia-05.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2004-08-02-ilustracoes-para-museu-paraense-emilio-goeldi.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 8 of 8 images
+
+   Missing Images:
+   - ilustracoes-para-museu-paraense-emilio-goeldi-01.jpg (referenced as: /assets/images/ilustracoes-para-museu-paraense-emilio-goeldi-01.jpg)
+   - ilustracoes-para-museu-paraense-emilio-goeldi-02.jpg (referenced as: /assets/images/ilustracoes-para-museu-paraense-emilio-goeldi-02.jpg)
+   - ilustracoes-para-museu-paraense-emilio-goeldi-03.jpg (referenced as: /assets/images/ilustracoes-para-museu-paraense-emilio-goeldi-03.jpg)
+   - ilustracoes-para-museu-paraense-emilio-goeldi-04.jpg (referenced as: /assets/images/ilustracoes-para-museu-paraense-emilio-goeldi-04.jpg)
+   - ilustracoes-para-museu-paraense-emilio-goeldi-01.jpg (referenced as: /assets/images/ilustracoes-para-museu-paraense-emilio-goeldi-01.jpg)
+   - ilustracoes-para-museu-paraense-emilio-goeldi-02.jpg (referenced as: /assets/images/ilustracoes-para-museu-paraense-emilio-goeldi-02.jpg)
+   - ilustracoes-para-museu-paraense-emilio-goeldi-03.jpg (referenced as: /assets/images/ilustracoes-para-museu-paraense-emilio-goeldi-03.jpg)
+   - ilustracoes-para-museu-paraense-emilio-goeldi-04.jpg (referenced as: /assets/images/ilustracoes-para-museu-paraense-emilio-goeldi-04.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2004-12-16-projeto-porta-moda-na-figueredo.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 10 of 10 images
+
+   Missing Images:
+   - projeto-porta-moda-na-figueredo-01.jpg (referenced as: /assets/images/projeto-porta-moda-na-figueredo-01.jpg)
+   - projeto-porta-moda-na-figueredo-02.jpg (referenced as: /assets/images/projeto-porta-moda-na-figueredo-02.jpg)
+   - projeto-porta-moda-na-figueredo-03.jpg (referenced as: /assets/images/projeto-porta-moda-na-figueredo-03.jpg)
+   - projeto-porta-moda-na-figueredo-04.jpg (referenced as: /assets/images/projeto-porta-moda-na-figueredo-04.jpg)
+   - projeto-porta-moda-na-figueredo-05.jpg (referenced as: /assets/images/projeto-porta-moda-na-figueredo-05.jpg)
+   - projeto-porta-moda-na-figueredo-01.jpg (referenced as: /assets/images/projeto-porta-moda-na-figueredo-01.jpg)
+   - projeto-porta-moda-na-figueredo-02.jpg (referenced as: /assets/images/projeto-porta-moda-na-figueredo-02.jpg)
+   - projeto-porta-moda-na-figueredo-03.jpg (referenced as: /assets/images/projeto-porta-moda-na-figueredo-03.jpg)
+   - projeto-porta-moda-na-figueredo-04.jpg (referenced as: /assets/images/projeto-porta-moda-na-figueredo-04.jpg)
+   - projeto-porta-moda-na-figueredo-05.jpg (referenced as: /assets/images/projeto-porta-moda-na-figueredo-05.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2004-12-30-fernando-hage-para-q-vizu-verao-2005.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 12 of 12 images
+
+   Missing Images:
+   - fernando-hage-para-q-vizu-verao-2005-01.jpg (referenced as: /assets/images/fernando-hage-para-q-vizu-verao-2005-01.jpg)
+   - fernando-hage-para-q-vizu-verao-2005-02.jpg (referenced as: /assets/images/fernando-hage-para-q-vizu-verao-2005-02.jpg)
+   - fernando-hage-para-q-vizu-verao-2005-03.jpg (referenced as: /assets/images/fernando-hage-para-q-vizu-verao-2005-03.jpg)
+   - fernando-hage-para-q-vizu-verao-2005-04.jpg (referenced as: /assets/images/fernando-hage-para-q-vizu-verao-2005-04.jpg)
+   - fernando-hage-para-q-vizu-verao-2005-05.jpg (referenced as: /assets/images/fernando-hage-para-q-vizu-verao-2005-05.jpg)
+   - fernando-hage-para-q-vizu-verao-2005-06.jpg (referenced as: /assets/images/fernando-hage-para-q-vizu-verao-2005-06.jpg)
+   - fernando-hage-para-q-vizu-verao-2005-01.jpg (referenced as: /assets/images/fernando-hage-para-q-vizu-verao-2005-01.jpg)
+   - fernando-hage-para-q-vizu-verao-2005-02.jpg (referenced as: /assets/images/fernando-hage-para-q-vizu-verao-2005-02.jpg)
+   - fernando-hage-para-q-vizu-verao-2005-03.jpg (referenced as: /assets/images/fernando-hage-para-q-vizu-verao-2005-03.jpg)
+   - fernando-hage-para-q-vizu-verao-2005-04.jpg (referenced as: /assets/images/fernando-hage-para-q-vizu-verao-2005-04.jpg)
+   - fernando-hage-para-q-vizu-verao-2005-05.jpg (referenced as: /assets/images/fernando-hage-para-q-vizu-verao-2005-05.jpg)
+   - fernando-hage-para-q-vizu-verao-2005-06.jpg (referenced as: /assets/images/fernando-hage-para-q-vizu-verao-2005-06.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2006-03-06-jr-sport-fashion-por-fernando-hage.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 10 of 10 images
+
+   Missing Images:
+   - jr-sport-fashion-por-fernando-hage-01.jpg (referenced as: /assets/images/jr-sport-fashion-por-fernando-hage-01.jpg)
+   - jr-sport-fashion-por-fernando-hage-02.jpg (referenced as: /assets/images/jr-sport-fashion-por-fernando-hage-02.jpg)
+   - jr-sport-fashion-por-fernando-hage-03.jpg (referenced as: /assets/images/jr-sport-fashion-por-fernando-hage-03.jpg)
+   - jr-sport-fashion-por-fernando-hage-04.jpg (referenced as: /assets/images/jr-sport-fashion-por-fernando-hage-04.jpg)
+   - jr-sport-fashion-por-fernando-hage-05.jpg (referenced as: /assets/images/jr-sport-fashion-por-fernando-hage-05.jpg)
+   - jr-sport-fashion-por-fernando-hage-01.jpg (referenced as: /assets/images/jr-sport-fashion-por-fernando-hage-01.jpg)
+   - jr-sport-fashion-por-fernando-hage-02.jpg (referenced as: /assets/images/jr-sport-fashion-por-fernando-hage-02.jpg)
+   - jr-sport-fashion-por-fernando-hage-03.jpg (referenced as: /assets/images/jr-sport-fashion-por-fernando-hage-03.jpg)
+   - jr-sport-fashion-por-fernando-hage-04.jpg (referenced as: /assets/images/jr-sport-fashion-por-fernando-hage-04.jpg)
+   - jr-sport-fashion-por-fernando-hage-05.jpg (referenced as: /assets/images/jr-sport-fashion-por-fernando-hage-05.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2006-05-15-porta-lapis-linha-de-objetos-flou_.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 12 of 12 images
+
+   Missing Images:
+   - porta-lapis-linha-de-objetos-flou_-01.jpg (referenced as: /assets/images/porta-lapis-linha-de-objetos-flou_-01.jpg)
+   - porta-lapis-linha-de-objetos-flou_-02.jpg (referenced as: /assets/images/porta-lapis-linha-de-objetos-flou_-02.jpg)
+   - porta-lapis-linha-de-objetos-flou_-03.jpg (referenced as: /assets/images/porta-lapis-linha-de-objetos-flou_-03.jpg)
+   - porta-lapis-linha-de-objetos-flou_-04.jpg (referenced as: /assets/images/porta-lapis-linha-de-objetos-flou_-04.jpg)
+   - porta-lapis-linha-de-objetos-flou_-05.jpg (referenced as: /assets/images/porta-lapis-linha-de-objetos-flou_-05.jpg)
+   - porta-lapis-linha-de-objetos-flou_-06.jpg (referenced as: /assets/images/porta-lapis-linha-de-objetos-flou_-06.jpg)
+   - porta-lapis-linha-de-objetos-flou_-01.jpg (referenced as: /assets/images/porta-lapis-linha-de-objetos-flou_-01.jpg)
+   - porta-lapis-linha-de-objetos-flou_-02.jpg (referenced as: /assets/images/porta-lapis-linha-de-objetos-flou_-02.jpg)
+   - porta-lapis-linha-de-objetos-flou_-03.jpg (referenced as: /assets/images/porta-lapis-linha-de-objetos-flou_-03.jpg)
+   - porta-lapis-linha-de-objetos-flou_-04.jpg (referenced as: /assets/images/porta-lapis-linha-de-objetos-flou_-04.jpg)
+   - porta-lapis-linha-de-objetos-flou_-05.jpg (referenced as: /assets/images/porta-lapis-linha-de-objetos-flou_-05.jpg)
+   - porta-lapis-linha-de-objetos-flou_-06.jpg (referenced as: /assets/images/porta-lapis-linha-de-objetos-flou_-06.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2006-09-13-desfile-criando-moda-iguatemi-fashion-days.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 22 of 22 images
+
+   Missing Images:
+   - desfile-criando-moda-iguatemi-fashion-days-01.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-01.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-02.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-02.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-03.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-03.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-04.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-04.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-05.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-05.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-06.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-06.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-07.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-07.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-08.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-08.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-09.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-09.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-10.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-10.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-11.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-11.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-01.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-01.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-02.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-02.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-03.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-03.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-04.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-04.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-05.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-05.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-06.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-06.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-07.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-07.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-08.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-08.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-09.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-09.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-10.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-10.jpg)
+   - desfile-criando-moda-iguatemi-fashion-days-11.jpg (referenced as: /assets/images/desfile-criando-moda-iguatemi-fashion-days-11.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2006-12-05-identidade-visual-caixa-de-criadores.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 6 of 6 images
+
+   Missing Images:
+   - identidade-visual-caixa-de-criadores-01.jpg (referenced as: /assets/images/identidade-visual-caixa-de-criadores-01.jpg)
+   - identidade-visual-caixa-de-criadores-02.jpg (referenced as: /assets/images/identidade-visual-caixa-de-criadores-02.jpg)
+   - identidade-visual-caixa-de-criadores-03.jpg (referenced as: /assets/images/identidade-visual-caixa-de-criadores-03.jpg)
+   - identidade-visual-caixa-de-criadores-01.jpg (referenced as: /assets/images/identidade-visual-caixa-de-criadores-01.jpg)
+   - identidade-visual-caixa-de-criadores-02.jpg (referenced as: /assets/images/identidade-visual-caixa-de-criadores-02.jpg)
+   - identidade-visual-caixa-de-criadores-03.jpg (referenced as: /assets/images/identidade-visual-caixa-de-criadores-03.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2006-12-12-colecao-lancada-no-1o-caixa-de-criadores.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 20 of 20 images
+
+   Missing Images:
+   - colecao-lancada-no-1o-caixa-de-criadores-01.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-01.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-02.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-02.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-03.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-03.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-04.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-04.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-05.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-05.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-06.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-06.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-07.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-07.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-08.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-08.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-09.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-09.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-10.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-10.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-01.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-01.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-02.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-02.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-03.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-03.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-04.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-04.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-05.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-05.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-06.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-06.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-07.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-07.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-08.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-08.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-09.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-09.jpg)
+   - colecao-lancada-no-1o-caixa-de-criadores-10.jpg (referenced as: /assets/images/colecao-lancada-no-1o-caixa-de-criadores-10.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2007-05-17-lancamento-verao-assembleia-paraense.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 14 of 14 images
+
+   Missing Images:
+   - lancamento-verao-assembleia-paraense-01.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-01.jpg)
+   - lancamento-verao-assembleia-paraense-02.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-02.jpg)
+   - lancamento-verao-assembleia-paraense-03.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-03.jpg)
+   - lancamento-verao-assembleia-paraense-04.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-04.jpg)
+   - lancamento-verao-assembleia-paraense-05.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-05.jpg)
+   - lancamento-verao-assembleia-paraense-06.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-06.jpg)
+   - lancamento-verao-assembleia-paraense-07.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-07.jpg)
+   - lancamento-verao-assembleia-paraense-01.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-01.jpg)
+   - lancamento-verao-assembleia-paraense-02.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-02.jpg)
+   - lancamento-verao-assembleia-paraense-03.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-03.jpg)
+   - lancamento-verao-assembleia-paraense-04.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-04.jpg)
+   - lancamento-verao-assembleia-paraense-05.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-05.jpg)
+   - lancamento-verao-assembleia-paraense-06.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-06.jpg)
+   - lancamento-verao-assembleia-paraense-07.jpg (referenced as: /assets/images/lancamento-verao-assembleia-paraense-07.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2007-06-02-editorial-liberdade-revista-roxy-delovely.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 12 of 12 images
+
+   Missing Images:
+   - editorial-liberdade-revista-roxy-delovely-01.png (referenced as: /assets/images/editorial-liberdade-revista-roxy-delovely-01.png)
+   - editorial-liberdade-revista-roxy-delovely-02.png (referenced as: /assets/images/editorial-liberdade-revista-roxy-delovely-02.png)
+   - editorial-liberdade-revista-roxy-delovely-03.png (referenced as: /assets/images/editorial-liberdade-revista-roxy-delovely-03.png)
+   - editorial-liberdade-revista-roxy-delovely-04.png (referenced as: /assets/images/editorial-liberdade-revista-roxy-delovely-04.png)
+   - editorial-liberdade-revista-roxy-delovely-05.png (referenced as: /assets/images/editorial-liberdade-revista-roxy-delovely-05.png)
+   - editorial-liberdade-revista-roxy-delovely-06.jpg (referenced as: /assets/images/editorial-liberdade-revista-roxy-delovely-06.jpg)
+   - editorial-liberdade-revista-roxy-delovely-01.png (referenced as: /assets/images/editorial-liberdade-revista-roxy-delovely-01.png)
+   - editorial-liberdade-revista-roxy-delovely-02.png (referenced as: /assets/images/editorial-liberdade-revista-roxy-delovely-02.png)
+   - editorial-liberdade-revista-roxy-delovely-03.png (referenced as: /assets/images/editorial-liberdade-revista-roxy-delovely-03.png)
+   - editorial-liberdade-revista-roxy-delovely-04.png (referenced as: /assets/images/editorial-liberdade-revista-roxy-delovely-04.png)
+   - editorial-liberdade-revista-roxy-delovely-05.png (referenced as: /assets/images/editorial-liberdade-revista-roxy-delovely-05.png)
+   - editorial-liberdade-revista-roxy-delovely-06.jpg (referenced as: /assets/images/editorial-liberdade-revista-roxy-delovely-06.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2007-08-05-materia-lofficiel-brasil.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 4 of 4 images
+
+   Missing Images:
+   - materia-lofficiel-brasil-01.jpg (referenced as: /assets/images/materia-lofficiel-brasil-01.jpg)
+   - materia-lofficiel-brasil-02.jpg (referenced as: /assets/images/materia-lofficiel-brasil-02.jpg)
+   - materia-lofficiel-brasil-01.jpg (referenced as: /assets/images/materia-lofficiel-brasil-01.jpg)
+   - materia-lofficiel-brasil-02.jpg (referenced as: /assets/images/materia-lofficiel-brasil-02.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2008-06-27-projetos-junto-ao-estilista-andre-lima.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 18 of 18 images
+
+   Missing Images:
+   - projetos-junto-ao-estilista-andre-lima-01.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-01.jpg)
+   - projetos-junto-ao-estilista-andre-lima-02.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-02.jpg)
+   - projetos-junto-ao-estilista-andre-lima-03.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-03.jpg)
+   - projetos-junto-ao-estilista-andre-lima-04.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-04.jpg)
+   - projetos-junto-ao-estilista-andre-lima-05.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-05.jpg)
+   - projetos-junto-ao-estilista-andre-lima-06.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-06.jpg)
+   - projetos-junto-ao-estilista-andre-lima-07.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-07.jpg)
+   - projetos-junto-ao-estilista-andre-lima-08.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-08.jpg)
+   - projetos-junto-ao-estilista-andre-lima-09.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-09.jpg)
+   - projetos-junto-ao-estilista-andre-lima-01.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-01.jpg)
+   - projetos-junto-ao-estilista-andre-lima-02.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-02.jpg)
+   - projetos-junto-ao-estilista-andre-lima-03.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-03.jpg)
+   - projetos-junto-ao-estilista-andre-lima-04.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-04.jpg)
+   - projetos-junto-ao-estilista-andre-lima-05.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-05.jpg)
+   - projetos-junto-ao-estilista-andre-lima-06.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-06.jpg)
+   - projetos-junto-ao-estilista-andre-lima-07.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-07.jpg)
+   - projetos-junto-ao-estilista-andre-lima-08.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-08.jpg)
+   - projetos-junto-ao-estilista-andre-lima-09.jpg (referenced as: /assets/images/projetos-junto-ao-estilista-andre-lima-09.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2009-01-02-editorial-floresta-de-sangue-revista-latitude-hangar.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 12 of 12 images
+
+   Missing Images:
+   - editorial-floresta-de-sangue-revista-latitude-hangar-01.png (referenced as: /assets/images/editorial-floresta-de-sangue-revista-latitude-hangar-01.png)
+   - editorial-floresta-de-sangue-revista-latitude-hangar-02.png (referenced as: /assets/images/editorial-floresta-de-sangue-revista-latitude-hangar-02.png)
+   - editorial-floresta-de-sangue-revista-latitude-hangar-03.png (referenced as: /assets/images/editorial-floresta-de-sangue-revista-latitude-hangar-03.png)
+   - editorial-floresta-de-sangue-revista-latitude-hangar-04.png (referenced as: /assets/images/editorial-floresta-de-sangue-revista-latitude-hangar-04.png)
+   - editorial-floresta-de-sangue-revista-latitude-hangar-05.png (referenced as: /assets/images/editorial-floresta-de-sangue-revista-latitude-hangar-05.png)
+   - editorial-floresta-de-sangue-revista-latitude-hangar-06.jpg (referenced as: /assets/images/editorial-floresta-de-sangue-revista-latitude-hangar-06.jpg)
+   - editorial-floresta-de-sangue-revista-latitude-hangar-01.png (referenced as: /assets/images/editorial-floresta-de-sangue-revista-latitude-hangar-01.png)
+   - editorial-floresta-de-sangue-revista-latitude-hangar-02.png (referenced as: /assets/images/editorial-floresta-de-sangue-revista-latitude-hangar-02.png)
+   - editorial-floresta-de-sangue-revista-latitude-hangar-03.png (referenced as: /assets/images/editorial-floresta-de-sangue-revista-latitude-hangar-03.png)
+   - editorial-floresta-de-sangue-revista-latitude-hangar-04.png (referenced as: /assets/images/editorial-floresta-de-sangue-revista-latitude-hangar-04.png)
+   - editorial-floresta-de-sangue-revista-latitude-hangar-05.png (referenced as: /assets/images/editorial-floresta-de-sangue-revista-latitude-hangar-05.png)
+   - editorial-floresta-de-sangue-revista-latitude-hangar-06.jpg (referenced as: /assets/images/editorial-floresta-de-sangue-revista-latitude-hangar-06.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2009-04-17-producao-de-moda-jornal-agora-sao-paulo.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 24 of 24 images
+
+   Missing Images:
+   - producao-de-moda-jornal-agora-sao-paulo-01.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-01.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-02.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-02.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-03.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-03.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-04.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-04.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-05.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-05.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-06.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-06.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-07.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-07.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-08.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-08.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-09.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-09.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-10.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-10.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-11.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-11.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-12.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-12.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-01.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-01.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-02.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-02.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-03.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-03.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-04.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-04.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-05.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-05.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-06.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-06.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-07.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-07.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-08.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-08.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-09.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-09.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-10.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-10.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-11.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-11.jpg)
+   - producao-de-moda-jornal-agora-sao-paulo-12.jpg (referenced as: /assets/images/producao-de-moda-jornal-agora-sao-paulo-12.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2010-06-08-editorial-preview-de-verao-9o-caixa-de-criadores.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 12 of 12 images
+
+   Missing Images:
+   - editorial-preview-de-verao-9o-caixa-de-criadores-01.jpg (referenced as: /assets/images/editorial-preview-de-verao-9o-caixa-de-criadores-01.jpg)
+   - editorial-preview-de-verao-9o-caixa-de-criadores-02.jpg (referenced as: /assets/images/editorial-preview-de-verao-9o-caixa-de-criadores-02.jpg)
+   - editorial-preview-de-verao-9o-caixa-de-criadores-03.jpg (referenced as: /assets/images/editorial-preview-de-verao-9o-caixa-de-criadores-03.jpg)
+   - editorial-preview-de-verao-9o-caixa-de-criadores-04.jpg (referenced as: /assets/images/editorial-preview-de-verao-9o-caixa-de-criadores-04.jpg)
+   - editorial-preview-de-verao-9o-caixa-de-criadores-05.jpg (referenced as: /assets/images/editorial-preview-de-verao-9o-caixa-de-criadores-05.jpg)
+   - editorial-preview-de-verao-9o-caixa-de-criadores-06.jpg (referenced as: /assets/images/editorial-preview-de-verao-9o-caixa-de-criadores-06.jpg)
+   - editorial-preview-de-verao-9o-caixa-de-criadores-01.jpg (referenced as: /assets/images/editorial-preview-de-verao-9o-caixa-de-criadores-01.jpg)
+   - editorial-preview-de-verao-9o-caixa-de-criadores-02.jpg (referenced as: /assets/images/editorial-preview-de-verao-9o-caixa-de-criadores-02.jpg)
+   - editorial-preview-de-verao-9o-caixa-de-criadores-03.jpg (referenced as: /assets/images/editorial-preview-de-verao-9o-caixa-de-criadores-03.jpg)
+   - editorial-preview-de-verao-9o-caixa-de-criadores-04.jpg (referenced as: /assets/images/editorial-preview-de-verao-9o-caixa-de-criadores-04.jpg)
+   - editorial-preview-de-verao-9o-caixa-de-criadores-05.jpg (referenced as: /assets/images/editorial-preview-de-verao-9o-caixa-de-criadores-05.jpg)
+   - editorial-preview-de-verao-9o-caixa-de-criadores-06.jpg (referenced as: /assets/images/editorial-preview-de-verao-9o-caixa-de-criadores-06.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2010-06-11-clipping-caixa-de-criadores-2010.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 4 of 4 images
+
+   Missing Images:
+   - clipping-caixa-de-criadores-2010-01.jpg (referenced as: /assets/images/clipping-caixa-de-criadores-2010-01.jpg)
+   - clipping-caixa-de-criadores-2010-02.jpg (referenced as: /assets/images/clipping-caixa-de-criadores-2010-02.jpg)
+   - clipping-caixa-de-criadores-2010-01.jpg (referenced as: /assets/images/clipping-caixa-de-criadores-2010-01.jpg)
+   - clipping-caixa-de-criadores-2010-02.jpg (referenced as: /assets/images/clipping-caixa-de-criadores-2010-02.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2010-10-02-editorial-anjos-de-asteroides-revista-latitude-hangar.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 18 of 18 images
+
+   Missing Images:
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-01.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-01.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-02.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-02.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-03.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-03.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-04.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-04.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-05.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-05.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-06.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-06.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-07.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-07.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-08.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-08.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-09.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-09.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-01.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-01.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-02.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-02.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-03.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-03.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-04.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-04.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-05.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-05.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-06.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-06.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-07.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-07.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-08.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-08.jpg)
+   - editorial-anjos-de-asteroides-revista-latitude-hangar-09.jpg (referenced as: /assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-09.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2010-12-07-caixa-de-criadores-edicao-10.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 24 of 24 images
+
+   Missing Images:
+   - caixa-de-criadores-edicao-10-01.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-01.jpg)
+   - caixa-de-criadores-edicao-10-02.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-02.jpg)
+   - caixa-de-criadores-edicao-10-03.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-03.jpg)
+   - caixa-de-criadores-edicao-10-04.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-04.jpg)
+   - caixa-de-criadores-edicao-10-05.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-05.jpg)
+   - caixa-de-criadores-edicao-10-06.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-06.jpg)
+   - caixa-de-criadores-edicao-10-07.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-07.jpg)
+   - caixa-de-criadores-edicao-10-08.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-08.jpg)
+   - caixa-de-criadores-edicao-10-09.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-09.jpg)
+   - caixa-de-criadores-edicao-10-10.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-10.jpg)
+   - caixa-de-criadores-edicao-10-11.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-11.jpg)
+   - caixa-de-criadores-edicao-10-12.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-12.jpg)
+   - caixa-de-criadores-edicao-10-01.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-01.jpg)
+   - caixa-de-criadores-edicao-10-02.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-02.jpg)
+   - caixa-de-criadores-edicao-10-03.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-03.jpg)
+   - caixa-de-criadores-edicao-10-04.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-04.jpg)
+   - caixa-de-criadores-edicao-10-05.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-05.jpg)
+   - caixa-de-criadores-edicao-10-06.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-06.jpg)
+   - caixa-de-criadores-edicao-10-07.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-07.jpg)
+   - caixa-de-criadores-edicao-10-08.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-08.jpg)
+   - caixa-de-criadores-edicao-10-09.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-09.jpg)
+   - caixa-de-criadores-edicao-10-10.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-10.jpg)
+   - caixa-de-criadores-edicao-10-11.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-11.jpg)
+   - caixa-de-criadores-edicao-10-12.jpg (referenced as: /assets/images/caixa-de-criadores-edicao-10-12.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2010-12-07-styling-para-yorrana-maia.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 6 of 6 images
+
+   Missing Images:
+   - styling-para-yorrana-maia-01.jpg (referenced as: /assets/images/styling-para-yorrana-maia-01.jpg)
+   - styling-para-yorrana-maia-02.jpg (referenced as: /assets/images/styling-para-yorrana-maia-02.jpg)
+   - styling-para-yorrana-maia-03.jpg (referenced as: /assets/images/styling-para-yorrana-maia-03.jpg)
+   - styling-para-yorrana-maia-01.jpg (referenced as: /assets/images/styling-para-yorrana-maia-01.jpg)
+   - styling-para-yorrana-maia-02.jpg (referenced as: /assets/images/styling-para-yorrana-maia-02.jpg)
+   - styling-para-yorrana-maia-03.jpg (referenced as: /assets/images/styling-para-yorrana-maia-03.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2011-06-29-caixa-de-criadores-verao-2011.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 16 of 16 images
+
+   Missing Images:
+   - caixa-de-criadores-verao-2011-01.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-01.jpg)
+   - caixa-de-criadores-verao-2011-02.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-02.jpg)
+   - caixa-de-criadores-verao-2011-03.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-03.jpg)
+   - caixa-de-criadores-verao-2011-04.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-04.jpg)
+   - caixa-de-criadores-verao-2011-05.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-05.jpg)
+   - caixa-de-criadores-verao-2011-06.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-06.jpg)
+   - caixa-de-criadores-verao-2011-07.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-07.jpg)
+   - caixa-de-criadores-verao-2011-08.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-08.jpg)
+   - caixa-de-criadores-verao-2011-01.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-01.jpg)
+   - caixa-de-criadores-verao-2011-02.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-02.jpg)
+   - caixa-de-criadores-verao-2011-03.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-03.jpg)
+   - caixa-de-criadores-verao-2011-04.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-04.jpg)
+   - caixa-de-criadores-verao-2011-05.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-05.jpg)
+   - caixa-de-criadores-verao-2011-06.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-06.jpg)
+   - caixa-de-criadores-verao-2011-07.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-07.jpg)
+   - caixa-de-criadores-verao-2011-08.jpg (referenced as: /assets/images/caixa-de-criadores-verao-2011-08.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2012-09-18-caixa-de-criadores-2012.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 24 of 24 images
+
+   Missing Images:
+   - caixa-de-criadores-2012-01.jpg (referenced as: /assets/images/caixa-de-criadores-2012-01.jpg)
+   - caixa-de-criadores-2012-02.jpg (referenced as: /assets/images/caixa-de-criadores-2012-02.jpg)
+   - caixa-de-criadores-2012-03.jpg (referenced as: /assets/images/caixa-de-criadores-2012-03.jpg)
+   - caixa-de-criadores-2012-04.jpg (referenced as: /assets/images/caixa-de-criadores-2012-04.jpg)
+   - caixa-de-criadores-2012-05.png (referenced as: /assets/images/caixa-de-criadores-2012-05.png)
+   - caixa-de-criadores-2012-06.jpg (referenced as: /assets/images/caixa-de-criadores-2012-06.jpg)
+   - caixa-de-criadores-2012-07.jpg (referenced as: /assets/images/caixa-de-criadores-2012-07.jpg)
+   - caixa-de-criadores-2012-08.jpg (referenced as: /assets/images/caixa-de-criadores-2012-08.jpg)
+   - caixa-de-criadores-2012-09.jpg (referenced as: /assets/images/caixa-de-criadores-2012-09.jpg)
+   - caixa-de-criadores-2012-10.jpg (referenced as: /assets/images/caixa-de-criadores-2012-10.jpg)
+   - caixa-de-criadores-2012-11.png (referenced as: /assets/images/caixa-de-criadores-2012-11.png)
+   - caixa-de-criadores-2012-12.png (referenced as: /assets/images/caixa-de-criadores-2012-12.png)
+   - caixa-de-criadores-2012-01.jpg (referenced as: /assets/images/caixa-de-criadores-2012-01.jpg)
+   - caixa-de-criadores-2012-02.jpg (referenced as: /assets/images/caixa-de-criadores-2012-02.jpg)
+   - caixa-de-criadores-2012-03.jpg (referenced as: /assets/images/caixa-de-criadores-2012-03.jpg)
+   - caixa-de-criadores-2012-04.jpg (referenced as: /assets/images/caixa-de-criadores-2012-04.jpg)
+   - caixa-de-criadores-2012-05.png (referenced as: /assets/images/caixa-de-criadores-2012-05.png)
+   - caixa-de-criadores-2012-06.jpg (referenced as: /assets/images/caixa-de-criadores-2012-06.jpg)
+   - caixa-de-criadores-2012-07.jpg (referenced as: /assets/images/caixa-de-criadores-2012-07.jpg)
+   - caixa-de-criadores-2012-08.jpg (referenced as: /assets/images/caixa-de-criadores-2012-08.jpg)
+   - caixa-de-criadores-2012-09.jpg (referenced as: /assets/images/caixa-de-criadores-2012-09.jpg)
+   - caixa-de-criadores-2012-10.jpg (referenced as: /assets/images/caixa-de-criadores-2012-10.jpg)
+   - caixa-de-criadores-2012-11.png (referenced as: /assets/images/caixa-de-criadores-2012-11.png)
+   - caixa-de-criadores-2012-12.png (referenced as: /assets/images/caixa-de-criadores-2012-12.png)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2012-10-02-desfile-mudamoda-no-parque-shopping-belem.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 12 of 12 images
+
+   Missing Images:
+   - desfile-mudamoda-no-parque-shopping-belem-01.jpg (referenced as: /assets/images/desfile-mudamoda-no-parque-shopping-belem-01.jpg)
+   - desfile-mudamoda-no-parque-shopping-belem-02.jpg (referenced as: /assets/images/desfile-mudamoda-no-parque-shopping-belem-02.jpg)
+   - desfile-mudamoda-no-parque-shopping-belem-03.jpg (referenced as: /assets/images/desfile-mudamoda-no-parque-shopping-belem-03.jpg)
+   - desfile-mudamoda-no-parque-shopping-belem-04.jpg (referenced as: /assets/images/desfile-mudamoda-no-parque-shopping-belem-04.jpg)
+   - desfile-mudamoda-no-parque-shopping-belem-05.jpg (referenced as: /assets/images/desfile-mudamoda-no-parque-shopping-belem-05.jpg)
+   - desfile-mudamoda-no-parque-shopping-belem-06.jpg (referenced as: /assets/images/desfile-mudamoda-no-parque-shopping-belem-06.jpg)
+   - desfile-mudamoda-no-parque-shopping-belem-01.jpg (referenced as: /assets/images/desfile-mudamoda-no-parque-shopping-belem-01.jpg)
+   - desfile-mudamoda-no-parque-shopping-belem-02.jpg (referenced as: /assets/images/desfile-mudamoda-no-parque-shopping-belem-02.jpg)
+   - desfile-mudamoda-no-parque-shopping-belem-03.jpg (referenced as: /assets/images/desfile-mudamoda-no-parque-shopping-belem-03.jpg)
+   - desfile-mudamoda-no-parque-shopping-belem-04.jpg (referenced as: /assets/images/desfile-mudamoda-no-parque-shopping-belem-04.jpg)
+   - desfile-mudamoda-no-parque-shopping-belem-05.jpg (referenced as: /assets/images/desfile-mudamoda-no-parque-shopping-belem-05.jpg)
+   - desfile-mudamoda-no-parque-shopping-belem-06.jpg (referenced as: /assets/images/desfile-mudamoda-no-parque-shopping-belem-06.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2012-11-09-palestra-no-london-college-of-fashion.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 6 of 6 images
+
+   Missing Images:
+   - palestra-no-london-college-of-fashion-01.jpg (referenced as: /assets/images/palestra-no-london-college-of-fashion-01.jpg)
+   - palestra-no-london-college-of-fashion-02.jpg (referenced as: /assets/images/palestra-no-london-college-of-fashion-02.jpg)
+   - palestra-no-london-college-of-fashion-03.jpg (referenced as: /assets/images/palestra-no-london-college-of-fashion-03.jpg)
+   - palestra-no-london-college-of-fashion-01.jpg (referenced as: /assets/images/palestra-no-london-college-of-fashion-01.jpg)
+   - palestra-no-london-college-of-fashion-02.jpg (referenced as: /assets/images/palestra-no-london-college-of-fashion-02.jpg)
+   - palestra-no-london-college-of-fashion-03.jpg (referenced as: /assets/images/palestra-no-london-college-of-fashion-03.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2013-07-25-palestra-vitoria-moda-2013.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 6 of 6 images
+
+   Missing Images:
+   - palestra-vitoria-moda-2013-01.png (referenced as: /assets/images/palestra-vitoria-moda-2013-01.png)
+   - palestra-vitoria-moda-2013-02.jpg (referenced as: /assets/images/palestra-vitoria-moda-2013-02.jpg)
+   - palestra-vitoria-moda-2013-03.png (referenced as: /assets/images/palestra-vitoria-moda-2013-03.png)
+   - palestra-vitoria-moda-2013-01.png (referenced as: /assets/images/palestra-vitoria-moda-2013-01.png)
+   - palestra-vitoria-moda-2013-02.jpg (referenced as: /assets/images/palestra-vitoria-moda-2013-02.jpg)
+   - palestra-vitoria-moda-2013-03.png (referenced as: /assets/images/palestra-vitoria-moda-2013-03.png)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2013-09-20-projeto-expedicao-em-si.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 26 of 26 images
+
+   Missing Images:
+   - projeto-expedicao-em-si-01.jpg (referenced as: /assets/images/projeto-expedicao-em-si-01.jpg)
+   - projeto-expedicao-em-si-02.jpg (referenced as: /assets/images/projeto-expedicao-em-si-02.jpg)
+   - projeto-expedicao-em-si-03.jpg (referenced as: /assets/images/projeto-expedicao-em-si-03.jpg)
+   - projeto-expedicao-em-si-04.jpg (referenced as: /assets/images/projeto-expedicao-em-si-04.jpg)
+   - projeto-expedicao-em-si-05.jpg (referenced as: /assets/images/projeto-expedicao-em-si-05.jpg)
+   - projeto-expedicao-em-si-06.jpg (referenced as: /assets/images/projeto-expedicao-em-si-06.jpg)
+   - projeto-expedicao-em-si-07.jpg (referenced as: /assets/images/projeto-expedicao-em-si-07.jpg)
+   - projeto-expedicao-em-si-08.jpg (referenced as: /assets/images/projeto-expedicao-em-si-08.jpg)
+   - projeto-expedicao-em-si-09.jpg (referenced as: /assets/images/projeto-expedicao-em-si-09.jpg)
+   - projeto-expedicao-em-si-10.jpg (referenced as: /assets/images/projeto-expedicao-em-si-10.jpg)
+   - projeto-expedicao-em-si-11.jpg (referenced as: /assets/images/projeto-expedicao-em-si-11.jpg)
+   - projeto-expedicao-em-si-12.jpg (referenced as: /assets/images/projeto-expedicao-em-si-12.jpg)
+   - projeto-expedicao-em-si-13.jpg (referenced as: /assets/images/projeto-expedicao-em-si-13.jpg)
+   - projeto-expedicao-em-si-01.jpg (referenced as: /assets/images/projeto-expedicao-em-si-01.jpg)
+   - projeto-expedicao-em-si-02.jpg (referenced as: /assets/images/projeto-expedicao-em-si-02.jpg)
+   - projeto-expedicao-em-si-03.jpg (referenced as: /assets/images/projeto-expedicao-em-si-03.jpg)
+   - projeto-expedicao-em-si-04.jpg (referenced as: /assets/images/projeto-expedicao-em-si-04.jpg)
+   - projeto-expedicao-em-si-05.jpg (referenced as: /assets/images/projeto-expedicao-em-si-05.jpg)
+   - projeto-expedicao-em-si-06.jpg (referenced as: /assets/images/projeto-expedicao-em-si-06.jpg)
+   - projeto-expedicao-em-si-07.jpg (referenced as: /assets/images/projeto-expedicao-em-si-07.jpg)
+   - projeto-expedicao-em-si-08.jpg (referenced as: /assets/images/projeto-expedicao-em-si-08.jpg)
+   - projeto-expedicao-em-si-09.jpg (referenced as: /assets/images/projeto-expedicao-em-si-09.jpg)
+   - projeto-expedicao-em-si-10.jpg (referenced as: /assets/images/projeto-expedicao-em-si-10.jpg)
+   - projeto-expedicao-em-si-11.jpg (referenced as: /assets/images/projeto-expedicao-em-si-11.jpg)
+   - projeto-expedicao-em-si-12.jpg (referenced as: /assets/images/projeto-expedicao-em-si-12.jpg)
+   - projeto-expedicao-em-si-13.jpg (referenced as: /assets/images/projeto-expedicao-em-si-13.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2014-04-02-palestra-e-workshop-de-confeccao-criativa.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 12 of 12 images
+
+   Missing Images:
+   - palestra-e-workshop-de-confeccao-criativa-01.jpg (referenced as: /assets/images/palestra-e-workshop-de-confeccao-criativa-01.jpg)
+   - palestra-e-workshop-de-confeccao-criativa-02.jpg (referenced as: /assets/images/palestra-e-workshop-de-confeccao-criativa-02.jpg)
+   - palestra-e-workshop-de-confeccao-criativa-03.jpg (referenced as: /assets/images/palestra-e-workshop-de-confeccao-criativa-03.jpg)
+   - palestra-e-workshop-de-confeccao-criativa-04.jpg (referenced as: /assets/images/palestra-e-workshop-de-confeccao-criativa-04.jpg)
+   - palestra-e-workshop-de-confeccao-criativa-05.jpg (referenced as: /assets/images/palestra-e-workshop-de-confeccao-criativa-05.jpg)
+   - palestra-e-workshop-de-confeccao-criativa-06.jpg (referenced as: /assets/images/palestra-e-workshop-de-confeccao-criativa-06.jpg)
+   - palestra-e-workshop-de-confeccao-criativa-01.jpg (referenced as: /assets/images/palestra-e-workshop-de-confeccao-criativa-01.jpg)
+   - palestra-e-workshop-de-confeccao-criativa-02.jpg (referenced as: /assets/images/palestra-e-workshop-de-confeccao-criativa-02.jpg)
+   - palestra-e-workshop-de-confeccao-criativa-03.jpg (referenced as: /assets/images/palestra-e-workshop-de-confeccao-criativa-03.jpg)
+   - palestra-e-workshop-de-confeccao-criativa-04.jpg (referenced as: /assets/images/palestra-e-workshop-de-confeccao-criativa-04.jpg)
+   - palestra-e-workshop-de-confeccao-criativa-05.jpg (referenced as: /assets/images/palestra-e-workshop-de-confeccao-criativa-05.jpg)
+   - palestra-e-workshop-de-confeccao-criativa-06.jpg (referenced as: /assets/images/palestra-e-workshop-de-confeccao-criativa-06.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2014-05-30-producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 12 of 12 images
+
+   Missing Images:
+   - producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-01.jpg (referenced as: /assets/images/producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-01.jpg)
+   - producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-02.jpg (referenced as: /assets/images/producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-02.jpg)
+   - producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-03.jpg (referenced as: /assets/images/producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-03.jpg)
+   - producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-04.jpg (referenced as: /assets/images/producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-04.jpg)
+   - producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-05.jpg (referenced as: /assets/images/producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-05.jpg)
+   - producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-06.jpg (referenced as: /assets/images/producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-06.jpg)
+   - producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-01.jpg (referenced as: /assets/images/producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-01.jpg)
+   - producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-02.jpg (referenced as: /assets/images/producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-02.jpg)
+   - producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-03.jpg (referenced as: /assets/images/producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-03.jpg)
+   - producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-04.jpg (referenced as: /assets/images/producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-04.jpg)
+   - producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-05.jpg (referenced as: /assets/images/producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-05.jpg)
+   - producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-06.jpg (referenced as: /assets/images/producao-de-desfile-de-lancamento-da-colecao-de-acessorios-igama-2014-06.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2015-04-14-cafe-com-moda-marcas-que-inspiram.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 6 of 6 images
+
+   Missing Images:
+   - cafe-com-moda-marcas-que-inspiram-01.png (referenced as: /assets/images/cafe-com-moda-marcas-que-inspiram-01.png)
+   - cafe-com-moda-marcas-que-inspiram-02.png (referenced as: /assets/images/cafe-com-moda-marcas-que-inspiram-02.png)
+   - cafe-com-moda-marcas-que-inspiram-03.jpg (referenced as: /assets/images/cafe-com-moda-marcas-que-inspiram-03.jpg)
+   - cafe-com-moda-marcas-que-inspiram-01.png (referenced as: /assets/images/cafe-com-moda-marcas-que-inspiram-01.png)
+   - cafe-com-moda-marcas-que-inspiram-02.png (referenced as: /assets/images/cafe-com-moda-marcas-que-inspiram-02.png)
+   - cafe-com-moda-marcas-que-inspiram-03.jpg (referenced as: /assets/images/cafe-com-moda-marcas-que-inspiram-03.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2015-06-30-mostramoda-2015.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 14 of 14 images
+
+   Missing Images:
+   - mostramoda-2015-01.jpg (referenced as: /assets/images/mostramoda-2015-01.jpg)
+   - mostramoda-2015-02.jpg (referenced as: /assets/images/mostramoda-2015-02.jpg)
+   - mostramoda-2015-03.jpg (referenced as: /assets/images/mostramoda-2015-03.jpg)
+   - mostramoda-2015-04.jpg (referenced as: /assets/images/mostramoda-2015-04.jpg)
+   - mostramoda-2015-05.jpg (referenced as: /assets/images/mostramoda-2015-05.jpg)
+   - mostramoda-2015-06.jpg (referenced as: /assets/images/mostramoda-2015-06.jpg)
+   - mostramoda-2015-07.jpg (referenced as: /assets/images/mostramoda-2015-07.jpg)
+   - mostramoda-2015-01.jpg (referenced as: /assets/images/mostramoda-2015-01.jpg)
+   - mostramoda-2015-02.jpg (referenced as: /assets/images/mostramoda-2015-02.jpg)
+   - mostramoda-2015-03.jpg (referenced as: /assets/images/mostramoda-2015-03.jpg)
+   - mostramoda-2015-04.jpg (referenced as: /assets/images/mostramoda-2015-04.jpg)
+   - mostramoda-2015-05.jpg (referenced as: /assets/images/mostramoda-2015-05.jpg)
+   - mostramoda-2015-06.jpg (referenced as: /assets/images/mostramoda-2015-06.jpg)
+   - mostramoda-2015-07.jpg (referenced as: /assets/images/mostramoda-2015-07.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2016-02-02-resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 10 of 10 images
+
+   Missing Images:
+   - resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-01.jpg (referenced as: /assets/images/resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-01.jpg)
+   - resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-02.jpg (referenced as: /assets/images/resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-02.jpg)
+   - resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-03.jpg (referenced as: /assets/images/resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-03.jpg)
+   - resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-04.jpg (referenced as: /assets/images/resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-04.jpg)
+   - resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-05.jpg (referenced as: /assets/images/resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-05.jpg)
+   - resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-01.jpg (referenced as: /assets/images/resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-01.jpg)
+   - resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-02.jpg (referenced as: /assets/images/resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-02.jpg)
+   - resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-03.jpg (referenced as: /assets/images/resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-03.jpg)
+   - resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-04.jpg (referenced as: /assets/images/resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-04.jpg)
+   - resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-05.jpg (referenced as: /assets/images/resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro-05.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2016-04-23-fashion-revolution-day-belem-2016.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 6 of 6 images
+
+   Missing Images:
+   - fashion-revolution-day-belem-2016-01.jpg (referenced as: /assets/images/fashion-revolution-day-belem-2016-01.jpg)
+   - fashion-revolution-day-belem-2016-02.png (referenced as: /assets/images/fashion-revolution-day-belem-2016-02.png)
+   - fashion-revolution-day-belem-2016-03.jpg (referenced as: /assets/images/fashion-revolution-day-belem-2016-03.jpg)
+   - fashion-revolution-day-belem-2016-01.jpg (referenced as: /assets/images/fashion-revolution-day-belem-2016-01.jpg)
+   - fashion-revolution-day-belem-2016-02.png (referenced as: /assets/images/fashion-revolution-day-belem-2016-02.png)
+   - fashion-revolution-day-belem-2016-03.jpg (referenced as: /assets/images/fashion-revolution-day-belem-2016-03.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2016-07-01-entrevista-moda-e.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 6 of 6 images
+
+   Missing Images:
+   - entrevista-moda-e-01.png (referenced as: /assets/images/entrevista-moda-e-01.png)
+   - entrevista-moda-e-02.png (referenced as: /assets/images/entrevista-moda-e-02.png)
+   - entrevista-moda-e-03.png (referenced as: /assets/images/entrevista-moda-e-03.png)
+   - entrevista-moda-e-01.png (referenced as: /assets/images/entrevista-moda-e-01.png)
+   - entrevista-moda-e-02.png (referenced as: /assets/images/entrevista-moda-e-02.png)
+   - entrevista-moda-e-03.png (referenced as: /assets/images/entrevista-moda-e-03.png)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2016-09-27-seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 8 of 8 images
+
+   Missing Images:
+   - seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-01.jpg (referenced as: /assets/images/seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-01.jpg)
+   - seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-02.jpg (referenced as: /assets/images/seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-02.jpg)
+   - seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-03.jpg (referenced as: /assets/images/seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-03.jpg)
+   - seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-04.jpg (referenced as: /assets/images/seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-04.jpg)
+   - seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-01.jpg (referenced as: /assets/images/seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-01.jpg)
+   - seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-02.jpg (referenced as: /assets/images/seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-02.jpg)
+   - seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-03.jpg (referenced as: /assets/images/seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-03.jpg)
+   - seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-04.jpg (referenced as: /assets/images/seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim-04.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2016-11-21-documentario-criativas.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 4 of 4 images
+
+   Missing Images:
+   - documentario-criativas-01.jpg (referenced as: /assets/images/documentario-criativas-01.jpg)
+   - documentario-criativas-02.jpg (referenced as: /assets/images/documentario-criativas-02.jpg)
+   - documentario-criativas-01.jpg (referenced as: /assets/images/documentario-criativas-01.jpg)
+   - documentario-criativas-02.jpg (referenced as: /assets/images/documentario-criativas-02.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2016-12-14-curso-entendendo-o-sistema-da-moda.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 4 of 4 images
+
+   Missing Images:
+   - curso-entendendo-o-sistema-da-moda-01.jpg (referenced as: /assets/images/curso-entendendo-o-sistema-da-moda-01.jpg)
+   - curso-entendendo-o-sistema-da-moda-02.jpg (referenced as: /assets/images/curso-entendendo-o-sistema-da-moda-02.jpg)
+   - curso-entendendo-o-sistema-da-moda-01.jpg (referenced as: /assets/images/curso-entendendo-o-sistema-da-moda-01.jpg)
+   - curso-entendendo-o-sistema-da-moda-02.jpg (referenced as: /assets/images/curso-entendendo-o-sistema-da-moda-02.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2017-04-08-exposicao-manualidade-criativa.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 16 of 16 images
+
+   Missing Images:
+   - exposicao-manualidade-criativa-01.png (referenced as: /assets/images/exposicao-manualidade-criativa-01.png)
+   - exposicao-manualidade-criativa-02.jpg (referenced as: /assets/images/exposicao-manualidade-criativa-02.jpg)
+   - exposicao-manualidade-criativa-03.png (referenced as: /assets/images/exposicao-manualidade-criativa-03.png)
+   - exposicao-manualidade-criativa-04.jpg (referenced as: /assets/images/exposicao-manualidade-criativa-04.jpg)
+   - exposicao-manualidade-criativa-05.jpg (referenced as: /assets/images/exposicao-manualidade-criativa-05.jpg)
+   - exposicao-manualidade-criativa-06.jpg (referenced as: /assets/images/exposicao-manualidade-criativa-06.jpg)
+   - exposicao-manualidade-criativa-07.jpg (referenced as: /assets/images/exposicao-manualidade-criativa-07.jpg)
+   - exposicao-manualidade-criativa-08.jpg (referenced as: /assets/images/exposicao-manualidade-criativa-08.jpg)
+   - exposicao-manualidade-criativa-01.png (referenced as: /assets/images/exposicao-manualidade-criativa-01.png)
+   - exposicao-manualidade-criativa-02.jpg (referenced as: /assets/images/exposicao-manualidade-criativa-02.jpg)
+   - exposicao-manualidade-criativa-03.png (referenced as: /assets/images/exposicao-manualidade-criativa-03.png)
+   - exposicao-manualidade-criativa-04.jpg (referenced as: /assets/images/exposicao-manualidade-criativa-04.jpg)
+   - exposicao-manualidade-criativa-05.jpg (referenced as: /assets/images/exposicao-manualidade-criativa-05.jpg)
+   - exposicao-manualidade-criativa-06.jpg (referenced as: /assets/images/exposicao-manualidade-criativa-06.jpg)
+   - exposicao-manualidade-criativa-07.jpg (referenced as: /assets/images/exposicao-manualidade-criativa-07.jpg)
+   - exposicao-manualidade-criativa-08.jpg (referenced as: /assets/images/exposicao-manualidade-criativa-08.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2017-05-27-unama-fashion-day.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 30 of 30 images
+
+   Missing Images:
+   - unama-fashion-day-01.jpg (referenced as: /assets/images/unama-fashion-day-01.jpg)
+   - unama-fashion-day-02.jpg (referenced as: /assets/images/unama-fashion-day-02.jpg)
+   - unama-fashion-day-03.jpg (referenced as: /assets/images/unama-fashion-day-03.jpg)
+   - unama-fashion-day-04.jpg (referenced as: /assets/images/unama-fashion-day-04.jpg)
+   - unama-fashion-day-05.jpg (referenced as: /assets/images/unama-fashion-day-05.jpg)
+   - unama-fashion-day-06.jpg (referenced as: /assets/images/unama-fashion-day-06.jpg)
+   - unama-fashion-day-07.jpg (referenced as: /assets/images/unama-fashion-day-07.jpg)
+   - unama-fashion-day-08.jpg (referenced as: /assets/images/unama-fashion-day-08.jpg)
+   - unama-fashion-day-09.jpg (referenced as: /assets/images/unama-fashion-day-09.jpg)
+   - unama-fashion-day-10.jpg (referenced as: /assets/images/unama-fashion-day-10.jpg)
+   - unama-fashion-day-11.jpg (referenced as: /assets/images/unama-fashion-day-11.jpg)
+   - unama-fashion-day-12.jpg (referenced as: /assets/images/unama-fashion-day-12.jpg)
+   - unama-fashion-day-13.jpg (referenced as: /assets/images/unama-fashion-day-13.jpg)
+   - unama-fashion-day-14.jpg (referenced as: /assets/images/unama-fashion-day-14.jpg)
+   - unama-fashion-day-15.jpg (referenced as: /assets/images/unama-fashion-day-15.jpg)
+   - unama-fashion-day-01.jpg (referenced as: /assets/images/unama-fashion-day-01.jpg)
+   - unama-fashion-day-02.jpg (referenced as: /assets/images/unama-fashion-day-02.jpg)
+   - unama-fashion-day-03.jpg (referenced as: /assets/images/unama-fashion-day-03.jpg)
+   - unama-fashion-day-04.jpg (referenced as: /assets/images/unama-fashion-day-04.jpg)
+   - unama-fashion-day-05.jpg (referenced as: /assets/images/unama-fashion-day-05.jpg)
+   - unama-fashion-day-06.jpg (referenced as: /assets/images/unama-fashion-day-06.jpg)
+   - unama-fashion-day-07.jpg (referenced as: /assets/images/unama-fashion-day-07.jpg)
+   - unama-fashion-day-08.jpg (referenced as: /assets/images/unama-fashion-day-08.jpg)
+   - unama-fashion-day-09.jpg (referenced as: /assets/images/unama-fashion-day-09.jpg)
+   - unama-fashion-day-10.jpg (referenced as: /assets/images/unama-fashion-day-10.jpg)
+   - unama-fashion-day-11.jpg (referenced as: /assets/images/unama-fashion-day-11.jpg)
+   - unama-fashion-day-12.jpg (referenced as: /assets/images/unama-fashion-day-12.jpg)
+   - unama-fashion-day-13.jpg (referenced as: /assets/images/unama-fashion-day-13.jpg)
+   - unama-fashion-day-14.jpg (referenced as: /assets/images/unama-fashion-day-14.jpg)
+   - unama-fashion-day-15.jpg (referenced as: /assets/images/unama-fashion-day-15.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2017-06-22-gt-de-moda-i-encontro-amazonico-de-economia-criativa.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 16 of 16 images
+
+   Missing Images:
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-01.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-01.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-02.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-02.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-03.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-03.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-04.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-04.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-05.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-05.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-06.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-06.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-07.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-07.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-08.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-08.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-01.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-01.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-02.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-02.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-03.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-03.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-04.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-04.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-05.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-05.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-06.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-06.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-07.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-07.jpg)
+   - gt-de-moda-i-encontro-amazonico-de-economia-criativa-08.jpg (referenced as: /assets/images/gt-de-moda-i-encontro-amazonico-de-economia-criativa-08.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2017-12-15-consultoria-criativa-territorio-da-moda-esjligama.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 30 of 30 images
+
+   Missing Images:
+   - consultoria-criativa-territorio-da-moda-esjligama-01.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-01.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-02.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-02.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-03.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-03.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-04.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-04.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-05.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-05.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-06.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-06.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-07.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-07.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-08.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-08.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-09.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-09.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-10.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-10.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-11.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-11.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-12.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-12.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-13.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-13.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-14.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-14.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-15.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-15.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-01.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-01.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-02.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-02.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-03.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-03.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-04.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-04.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-05.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-05.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-06.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-06.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-07.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-07.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-08.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-08.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-09.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-09.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-10.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-10.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-11.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-11.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-12.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-12.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-13.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-13.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-14.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-14.jpg)
+   - consultoria-criativa-territorio-da-moda-esjligama-15.jpg (referenced as: /assets/images/consultoria-criativa-territorio-da-moda-esjligama-15.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2018-05-03-gravacao-documentario-amazon-fashion-fashion-tv.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 10 of 10 images
+
+   Missing Images:
+   - gravacao-documentario-amazon-fashion-fashion-tv-01.jpg (referenced as: /assets/images/gravacao-documentario-amazon-fashion-fashion-tv-01.jpg)
+   - gravacao-documentario-amazon-fashion-fashion-tv-02.jpg (referenced as: /assets/images/gravacao-documentario-amazon-fashion-fashion-tv-02.jpg)
+   - gravacao-documentario-amazon-fashion-fashion-tv-03.jpg (referenced as: /assets/images/gravacao-documentario-amazon-fashion-fashion-tv-03.jpg)
+   - gravacao-documentario-amazon-fashion-fashion-tv-04.jpg (referenced as: /assets/images/gravacao-documentario-amazon-fashion-fashion-tv-04.jpg)
+   - gravacao-documentario-amazon-fashion-fashion-tv-05.jpg (referenced as: /assets/images/gravacao-documentario-amazon-fashion-fashion-tv-05.jpg)
+   - gravacao-documentario-amazon-fashion-fashion-tv-01.jpg (referenced as: /assets/images/gravacao-documentario-amazon-fashion-fashion-tv-01.jpg)
+   - gravacao-documentario-amazon-fashion-fashion-tv-02.jpg (referenced as: /assets/images/gravacao-documentario-amazon-fashion-fashion-tv-02.jpg)
+   - gravacao-documentario-amazon-fashion-fashion-tv-03.jpg (referenced as: /assets/images/gravacao-documentario-amazon-fashion-fashion-tv-03.jpg)
+   - gravacao-documentario-amazon-fashion-fashion-tv-04.jpg (referenced as: /assets/images/gravacao-documentario-amazon-fashion-fashion-tv-04.jpg)
+   - gravacao-documentario-amazon-fashion-fashion-tv-05.jpg (referenced as: /assets/images/gravacao-documentario-amazon-fashion-fashion-tv-05.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2018-05-19-feira-do-empreendedor-2018.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 12 of 12 images
+
+   Missing Images:
+   - feira-do-empreendedor-2018-01.jpg (referenced as: /assets/images/feira-do-empreendedor-2018-01.jpg)
+   - feira-do-empreendedor-2018-02.jpg (referenced as: /assets/images/feira-do-empreendedor-2018-02.jpg)
+   - feira-do-empreendedor-2018-03.jpg (referenced as: /assets/images/feira-do-empreendedor-2018-03.jpg)
+   - feira-do-empreendedor-2018-04.jpg (referenced as: /assets/images/feira-do-empreendedor-2018-04.jpg)
+   - feira-do-empreendedor-2018-05.jpg (referenced as: /assets/images/feira-do-empreendedor-2018-05.jpg)
+   - feira-do-empreendedor-2018-06.jpg (referenced as: /assets/images/feira-do-empreendedor-2018-06.jpg)
+   - feira-do-empreendedor-2018-01.jpg (referenced as: /assets/images/feira-do-empreendedor-2018-01.jpg)
+   - feira-do-empreendedor-2018-02.jpg (referenced as: /assets/images/feira-do-empreendedor-2018-02.jpg)
+   - feira-do-empreendedor-2018-03.jpg (referenced as: /assets/images/feira-do-empreendedor-2018-03.jpg)
+   - feira-do-empreendedor-2018-04.jpg (referenced as: /assets/images/feira-do-empreendedor-2018-04.jpg)
+   - feira-do-empreendedor-2018-05.jpg (referenced as: /assets/images/feira-do-empreendedor-2018-05.jpg)
+   - feira-do-empreendedor-2018-06.jpg (referenced as: /assets/images/feira-do-empreendedor-2018-06.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2018-09-06-participacao-e-premiacao-de-melhor-artigo-no-coloquio-de-moda-2018.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 6 of 6 images
+
+   Missing Images:
+   - participacao-e-premiacao-de-melhor-artigo-no-coloquio-de-moda-2018-01.jpg (referenced as: /assets/images/participacao-e-premiacao-de-melhor-artigo-no-coloquio-de-moda-2018-01.jpg)
+   - participacao-e-premiacao-de-melhor-artigo-no-coloquio-de-moda-2018-02.png (referenced as: /assets/images/participacao-e-premiacao-de-melhor-artigo-no-coloquio-de-moda-2018-02.png)
+   - participacao-e-premiacao-de-melhor-artigo-no-coloquio-de-moda-2018-03.jpg (referenced as: /assets/images/participacao-e-premiacao-de-melhor-artigo-no-coloquio-de-moda-2018-03.jpg)
+   - participacao-e-premiacao-de-melhor-artigo-no-coloquio-de-moda-2018-01.jpg (referenced as: /assets/images/participacao-e-premiacao-de-melhor-artigo-no-coloquio-de-moda-2018-01.jpg)
+   - participacao-e-premiacao-de-melhor-artigo-no-coloquio-de-moda-2018-02.png (referenced as: /assets/images/participacao-e-premiacao-de-melhor-artigo-no-coloquio-de-moda-2018-02.png)
+   - participacao-e-premiacao-de-melhor-artigo-no-coloquio-de-moda-2018-03.jpg (referenced as: /assets/images/participacao-e-premiacao-de-melhor-artigo-no-coloquio-de-moda-2018-03.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2018-09-16-circuito-de-moda-parque-shopping.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 12 of 12 images
+
+   Missing Images:
+   - circuito-de-moda-parque-shopping-01.jpg (referenced as: /assets/images/circuito-de-moda-parque-shopping-01.jpg)
+   - circuito-de-moda-parque-shopping-02.jpg (referenced as: /assets/images/circuito-de-moda-parque-shopping-02.jpg)
+   - circuito-de-moda-parque-shopping-03.jpg (referenced as: /assets/images/circuito-de-moda-parque-shopping-03.jpg)
+   - circuito-de-moda-parque-shopping-04.jpg (referenced as: /assets/images/circuito-de-moda-parque-shopping-04.jpg)
+   - circuito-de-moda-parque-shopping-05.jpg (referenced as: /assets/images/circuito-de-moda-parque-shopping-05.jpg)
+   - circuito-de-moda-parque-shopping-06.jpg (referenced as: /assets/images/circuito-de-moda-parque-shopping-06.jpg)
+   - circuito-de-moda-parque-shopping-01.jpg (referenced as: /assets/images/circuito-de-moda-parque-shopping-01.jpg)
+   - circuito-de-moda-parque-shopping-02.jpg (referenced as: /assets/images/circuito-de-moda-parque-shopping-02.jpg)
+   - circuito-de-moda-parque-shopping-03.jpg (referenced as: /assets/images/circuito-de-moda-parque-shopping-03.jpg)
+   - circuito-de-moda-parque-shopping-04.jpg (referenced as: /assets/images/circuito-de-moda-parque-shopping-04.jpg)
+   - circuito-de-moda-parque-shopping-05.jpg (referenced as: /assets/images/circuito-de-moda-parque-shopping-05.jpg)
+   - circuito-de-moda-parque-shopping-06.jpg (referenced as: /assets/images/circuito-de-moda-parque-shopping-06.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2018-10-25-concurso-novos-mantos-2018-customizando-a-fe.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 12 of 12 images
+
+   Missing Images:
+   - concurso-novos-mantos-2018-customizando-a-fe-01.jpg (referenced as: /assets/images/concurso-novos-mantos-2018-customizando-a-fe-01.jpg)
+   - concurso-novos-mantos-2018-customizando-a-fe-02.jpg (referenced as: /assets/images/concurso-novos-mantos-2018-customizando-a-fe-02.jpg)
+   - concurso-novos-mantos-2018-customizando-a-fe-03.jpg (referenced as: /assets/images/concurso-novos-mantos-2018-customizando-a-fe-03.jpg)
+   - concurso-novos-mantos-2018-customizando-a-fe-04.jpg (referenced as: /assets/images/concurso-novos-mantos-2018-customizando-a-fe-04.jpg)
+   - concurso-novos-mantos-2018-customizando-a-fe-05.jpg (referenced as: /assets/images/concurso-novos-mantos-2018-customizando-a-fe-05.jpg)
+   - concurso-novos-mantos-2018-customizando-a-fe-06.jpg (referenced as: /assets/images/concurso-novos-mantos-2018-customizando-a-fe-06.jpg)
+   - concurso-novos-mantos-2018-customizando-a-fe-01.jpg (referenced as: /assets/images/concurso-novos-mantos-2018-customizando-a-fe-01.jpg)
+   - concurso-novos-mantos-2018-customizando-a-fe-02.jpg (referenced as: /assets/images/concurso-novos-mantos-2018-customizando-a-fe-02.jpg)
+   - concurso-novos-mantos-2018-customizando-a-fe-03.jpg (referenced as: /assets/images/concurso-novos-mantos-2018-customizando-a-fe-03.jpg)
+   - concurso-novos-mantos-2018-customizando-a-fe-04.jpg (referenced as: /assets/images/concurso-novos-mantos-2018-customizando-a-fe-04.jpg)
+   - concurso-novos-mantos-2018-customizando-a-fe-05.jpg (referenced as: /assets/images/concurso-novos-mantos-2018-customizando-a-fe-05.jpg)
+   - concurso-novos-mantos-2018-customizando-a-fe-06.jpg (referenced as: /assets/images/concurso-novos-mantos-2018-customizando-a-fe-06.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2018-12-18-premio-de-melhor-coordenador-avaliado-em-2018.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 4 of 4 images
+
+   Missing Images:
+   - premio-de-melhor-coordenador-avaliado-em-2018-01.jpg (referenced as: /assets/images/premio-de-melhor-coordenador-avaliado-em-2018-01.jpg)
+   - premio-de-melhor-coordenador-avaliado-em-2018-02.jpg (referenced as: /assets/images/premio-de-melhor-coordenador-avaliado-em-2018-02.jpg)
+   - premio-de-melhor-coordenador-avaliado-em-2018-01.jpg (referenced as: /assets/images/premio-de-melhor-coordenador-avaliado-em-2018-01.jpg)
+   - premio-de-melhor-coordenador-avaliado-em-2018-02.jpg (referenced as: /assets/images/premio-de-melhor-coordenador-avaliado-em-2018-02.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2019-02-16-mostramoda-unama-2019.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 26 of 26 images
+
+   Missing Images:
+   - mostramoda-unama-2019-01.jpg (referenced as: /assets/images/mostramoda-unama-2019-01.jpg)
+   - mostramoda-unama-2019-02.jpg (referenced as: /assets/images/mostramoda-unama-2019-02.jpg)
+   - mostramoda-unama-2019-03.png (referenced as: /assets/images/mostramoda-unama-2019-03.png)
+   - mostramoda-unama-2019-04.jpg (referenced as: /assets/images/mostramoda-unama-2019-04.jpg)
+   - mostramoda-unama-2019-05.jpg (referenced as: /assets/images/mostramoda-unama-2019-05.jpg)
+   - mostramoda-unama-2019-06.jpg (referenced as: /assets/images/mostramoda-unama-2019-06.jpg)
+   - mostramoda-unama-2019-07.jpg (referenced as: /assets/images/mostramoda-unama-2019-07.jpg)
+   - mostramoda-unama-2019-08.jpg (referenced as: /assets/images/mostramoda-unama-2019-08.jpg)
+   - mostramoda-unama-2019-09.jpg (referenced as: /assets/images/mostramoda-unama-2019-09.jpg)
+   - mostramoda-unama-2019-10.jpg (referenced as: /assets/images/mostramoda-unama-2019-10.jpg)
+   - mostramoda-unama-2019-11.jpg (referenced as: /assets/images/mostramoda-unama-2019-11.jpg)
+   - mostramoda-unama-2019-12.jpg (referenced as: /assets/images/mostramoda-unama-2019-12.jpg)
+   - mostramoda-unama-2019-13.jpg (referenced as: /assets/images/mostramoda-unama-2019-13.jpg)
+   - mostramoda-unama-2019-01.jpg (referenced as: /assets/images/mostramoda-unama-2019-01.jpg)
+   - mostramoda-unama-2019-02.jpg (referenced as: /assets/images/mostramoda-unama-2019-02.jpg)
+   - mostramoda-unama-2019-03.png (referenced as: /assets/images/mostramoda-unama-2019-03.png)
+   - mostramoda-unama-2019-04.jpg (referenced as: /assets/images/mostramoda-unama-2019-04.jpg)
+   - mostramoda-unama-2019-05.jpg (referenced as: /assets/images/mostramoda-unama-2019-05.jpg)
+   - mostramoda-unama-2019-06.jpg (referenced as: /assets/images/mostramoda-unama-2019-06.jpg)
+   - mostramoda-unama-2019-07.jpg (referenced as: /assets/images/mostramoda-unama-2019-07.jpg)
+   - mostramoda-unama-2019-08.jpg (referenced as: /assets/images/mostramoda-unama-2019-08.jpg)
+   - mostramoda-unama-2019-09.jpg (referenced as: /assets/images/mostramoda-unama-2019-09.jpg)
+   - mostramoda-unama-2019-10.jpg (referenced as: /assets/images/mostramoda-unama-2019-10.jpg)
+   - mostramoda-unama-2019-11.jpg (referenced as: /assets/images/mostramoda-unama-2019-11.jpg)
+   - mostramoda-unama-2019-12.jpg (referenced as: /assets/images/mostramoda-unama-2019-12.jpg)
+   - mostramoda-unama-2019-13.jpg (referenced as: /assets/images/mostramoda-unama-2019-13.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2019-09-06-15o-coloquio-de-moda.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 10 of 10 images
+
+   Missing Images:
+   - 15o-coloquio-de-moda-01.jpg (referenced as: /assets/images/15o-coloquio-de-moda-01.jpg)
+   - 15o-coloquio-de-moda-02.jpg (referenced as: /assets/images/15o-coloquio-de-moda-02.jpg)
+   - 15o-coloquio-de-moda-03.jpg (referenced as: /assets/images/15o-coloquio-de-moda-03.jpg)
+   - 15o-coloquio-de-moda-04.jpg (referenced as: /assets/images/15o-coloquio-de-moda-04.jpg)
+   - 15o-coloquio-de-moda-05.jpg (referenced as: /assets/images/15o-coloquio-de-moda-05.jpg)
+   - 15o-coloquio-de-moda-01.jpg (referenced as: /assets/images/15o-coloquio-de-moda-01.jpg)
+   - 15o-coloquio-de-moda-02.jpg (referenced as: /assets/images/15o-coloquio-de-moda-02.jpg)
+   - 15o-coloquio-de-moda-03.jpg (referenced as: /assets/images/15o-coloquio-de-moda-03.jpg)
+   - 15o-coloquio-de-moda-04.jpg (referenced as: /assets/images/15o-coloquio-de-moda-04.jpg)
+   - 15o-coloquio-de-moda-05.jpg (referenced as: /assets/images/15o-coloquio-de-moda-05.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2019-09-15-territorio-da-moda-2019.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 20 of 20 images
+
+   Missing Images:
+   - territorio-da-moda-2019-01.jpg (referenced as: /assets/images/territorio-da-moda-2019-01.jpg)
+   - territorio-da-moda-2019-02.jpg (referenced as: /assets/images/territorio-da-moda-2019-02.jpg)
+   - territorio-da-moda-2019-03.jpg (referenced as: /assets/images/territorio-da-moda-2019-03.jpg)
+   - territorio-da-moda-2019-04.jpg (referenced as: /assets/images/territorio-da-moda-2019-04.jpg)
+   - territorio-da-moda-2019-05.jpg (referenced as: /assets/images/territorio-da-moda-2019-05.jpg)
+   - territorio-da-moda-2019-06.jpg (referenced as: /assets/images/territorio-da-moda-2019-06.jpg)
+   - territorio-da-moda-2019-07.jpg (referenced as: /assets/images/territorio-da-moda-2019-07.jpg)
+   - territorio-da-moda-2019-08.jpg (referenced as: /assets/images/territorio-da-moda-2019-08.jpg)
+   - territorio-da-moda-2019-09.jpg (referenced as: /assets/images/territorio-da-moda-2019-09.jpg)
+   - territorio-da-moda-2019-10.jpg (referenced as: /assets/images/territorio-da-moda-2019-10.jpg)
+   - territorio-da-moda-2019-01.jpg (referenced as: /assets/images/territorio-da-moda-2019-01.jpg)
+   - territorio-da-moda-2019-02.jpg (referenced as: /assets/images/territorio-da-moda-2019-02.jpg)
+   - territorio-da-moda-2019-03.jpg (referenced as: /assets/images/territorio-da-moda-2019-03.jpg)
+   - territorio-da-moda-2019-04.jpg (referenced as: /assets/images/territorio-da-moda-2019-04.jpg)
+   - territorio-da-moda-2019-05.jpg (referenced as: /assets/images/territorio-da-moda-2019-05.jpg)
+   - territorio-da-moda-2019-06.jpg (referenced as: /assets/images/territorio-da-moda-2019-06.jpg)
+   - territorio-da-moda-2019-07.jpg (referenced as: /assets/images/territorio-da-moda-2019-07.jpg)
+   - territorio-da-moda-2019-08.jpg (referenced as: /assets/images/territorio-da-moda-2019-08.jpg)
+   - territorio-da-moda-2019-09.jpg (referenced as: /assets/images/territorio-da-moda-2019-09.jpg)
+   - territorio-da-moda-2019-10.jpg (referenced as: /assets/images/territorio-da-moda-2019-10.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2020-07-13-universo-masculino-na-pandemia.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 6 of 6 images
+
+   Missing Images:
+   - universo-masculino-na-pandemia-01.jpg (referenced as: /assets/images/universo-masculino-na-pandemia-01.jpg)
+   - universo-masculino-na-pandemia-02.png (referenced as: /assets/images/universo-masculino-na-pandemia-02.png)
+   - universo-masculino-na-pandemia-03.jpg (referenced as: /assets/images/universo-masculino-na-pandemia-03.jpg)
+   - universo-masculino-na-pandemia-01.jpg (referenced as: /assets/images/universo-masculino-na-pandemia-01.jpg)
+   - universo-masculino-na-pandemia-02.png (referenced as: /assets/images/universo-masculino-na-pandemia-02.png)
+   - universo-masculino-na-pandemia-03.jpg (referenced as: /assets/images/universo-masculino-na-pandemia-03.jpg)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2020-07-23-novos-projetos-do-site.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 6 of 6 images
+
+   Missing Images:
+   - novos-projetos-do-site-01.png (referenced as: /assets/images/novos-projetos-do-site-01.png)
+   - novos-projetos-do-site-02.png (referenced as: /assets/images/novos-projetos-do-site-02.png)
+   - novos-projetos-do-site-03.png (referenced as: /assets/images/novos-projetos-do-site-03.png)
+   - novos-projetos-do-site-01.png (referenced as: /assets/images/novos-projetos-do-site-01.png)
+   - novos-projetos-do-site-02.png (referenced as: /assets/images/novos-projetos-do-site-02.png)
+   - novos-projetos-do-site-03.png (referenced as: /assets/images/novos-projetos-do-site-03.png)
+
+────────────────────────────────────────────────────────────
+
+📄 Markdown File: _posts/pt/2025-07-02-receita-torta-maca.md
+🌐 HTML File: NOT_FOUND
+📊 Missing: 2 of 2 images
+
+   Missing Images:
+   - apple_pie_recipe.jpg (referenced as: /assets/images/apple_pie_recipe.jpg)
+   - apple_pie_recipe.jpg (referenced as: /assets/images/apple_pie_recipe.jpg)
+
+────────────────────────────────────────────────────────────
+
