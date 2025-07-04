@@ -1,0 +1,10 @@
+<!-- Language switcher -->
+<div class="language-switcher">
+  {% if page.lang == 'en' %}
+    <a href="{{ page.url | remove: '/en' | prepend: site.baseurl }}" class="lang-link">PT</a>
+    <span class="lang-current">EN</span>
+  {% else %}
+    <span class="lang-current">PT</span>
+    <a href="{{ '/en' | append: page.url | prepend: site.baseurl }}" class="lang-link">EN</a>
+  {% endif %}
+</div>

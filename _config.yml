@@ -1,7 +1,7 @@
 # Site settings
-original_title: Fernando Hage
+title: Fernando Hage
 email: fernandohage at gmail.com
-original_description: >- 
+description: >- 
   Site do designer e professor Fernando Hage, contendo projetos, imagens, 
   publicações, artigos, contato, projetos especiais e informações sobre o 
   Caixa de Criadores, premiado em economia criativa por apoiar novos criadores 
@@ -14,14 +14,21 @@ url: https://fernandohage.github.io
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-polyglot
 
-# Multilingual configuration
+# Internationalization settings
 languages: ["pt", "en"]
 default_lang: "pt"
-exclude_from_localization: ["javascript", "images", "css", "assets"]
-default_locale_in_subfolder: true
-lang_from_path: true
+
+# Language-specific settings
+pt:
+  title: "Fernando Hage"
+  description: "Designer e Professor"
+  tagline: "Moda, Artes e Cultura"
+  
+en:
+  title: "Fernando Hage"
+  description: "Designer and Professor"
+  tagline: "Fashion, Arts and Culture"
 
 
 feed:

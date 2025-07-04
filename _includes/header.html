@@ -2,31 +2,31 @@
   <div class="header-wrapper">
     <div class="site-branding">
       <h1 class="site-title">
-        <a href="{{ '/' | relative_url }}">{{ site.data[site.active_lang].strings.site.title }}</a>
+        <a href="{{ '/' | relative_url }}">{% if page.lang == 'en' %}{{ site.en.title }}{% else %}{{ site.pt.title }}{% endif %}</a>
       </h1>
-      <p class="site-tagline">{{ site.data[site.active_lang].strings.site.tagline }}</p>
+      <p class="site-tagline">{% if page.lang == 'en' %}{{ site.en.tagline }}{% else %}{{ site.pt.tagline }}{% endif %}</p>
     </div>
 
     <nav class="main-navigation">
       <ul class="nav-menu">
         <li class="menu-item">
-          <a href="{{ '/' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.home }}</a>
+          <a href="{{ '/' | relative_url }}">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.home }}{% else %}{{ site.data.pt.strings.navigation.home }}{% endif %}</a>
         </li>
         
         <li class="menu-item has-dropdown">
-          <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.research }}</a>
+          <a href="#" onclick="return false;">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.research }}{% else %}{{ site.data.pt.strings.navigation.research }}{% endif %}</a>
           <ul class="dropdown-menu">
             <li class="submenu-item">
-              <a href="{{ '/artigos' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.publications }}</a>
+              <a href="{{ '/artigos' | relative_url }}">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.publications }}{% else %}{{ site.data.pt.strings.navigation.publications }}{% endif %}</a>
             </li>
             <li class="submenu-item">
-              <a href="{{ '/meulivro' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.book }}</a>
+              <a href="{{ '/meulivro' | relative_url }}">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.book }}{% else %}{{ site.data.pt.strings.navigation.book }}{% endif %}</a>
             </li>
             <li class="submenu-item">
-              <a href="{{ '/tese-de-doutorado' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.phd }}</a>
+              <a href="{{ '/tese-de-doutorado' | relative_url }}">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.phd }}{% else %}{{ site.data.pt.strings.navigation.phd }}{% endif %}</a>
             </li>
             <li class="submenu-item has-dropdown">
-              <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.specials }}</a>
+              <a href="#" onclick="return false;">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.specials }}{% else %}{{ site.data.pt.strings.navigation.specials }}{% endif %}</a>
               <ul class="dropdown-menu level-2">
                 <li class="submenu-item">
                   <a href="{{ '/tresseculosdemodas' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.three_centuries }}</a>
