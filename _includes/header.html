@@ -9,15 +9,12 @@
 
     <nav class="main-navigation">
       <ul class="nav-menu">
-        <li class="menu-item">
-          <a href="{{ '/' | relative_url }}">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.home }}{% else %}{{ site.data.pt.strings.navigation.home }}{% endif %}</a>
-        </li>
         
         <li class="menu-item has-dropdown">
           <a href="#" onclick="return false;">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.research }}{% else %}{{ site.data.pt.strings.navigation.research }}{% endif %}</a>
           <ul class="dropdown-menu">
             <li class="submenu-item">
-              <a href="{{ '/artigos' | relative_url }}">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.publications }}{% else %}{{ site.data.pt.strings.navigation.publications }}{% endif %}</a>
+              <a href="{{ '/artigos-publicacoes' | relative_url }}">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.publications }}{% else %}{{ site.data.pt.strings.navigation.publications }}{% endif %}</a>
             </li>
             <li class="submenu-item">
               <a href="{{ '/meulivro' | relative_url }}">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.book }}{% else %}{{ site.data.pt.strings.navigation.book }}{% endif %}</a>
@@ -35,28 +32,28 @@
                   <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.library }}</a>
                   <ul class="dropdown-menu level-3">
                     <li class="submenu-item">
-                      <a href="{{ '/livrosmoda' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.fashion_art }}</a>
+                      <a href="{{ '/livros-historia-moda-arte' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.fashion_art }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{{ '/livrosgravura' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.engravings }}</a>
+                      <a href="{{ '/livros-caricatura-ilustrados' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.engravings }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{{ '/revistasfrancesas' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.french_magazines }}</a>
+                      <a href="{{ '/revistas-francesas' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.french_magazines }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{{ '/revistasbrasileiras' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.brazilian_magazines }}</a>
+                      <a href="{{ '/revistas-brasileiras' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.brazilian_magazines }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{{ '/livrosbrasileirosja' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.brazilian_books }}</a>
+                      <a href="{{ '/livros-brasileiros' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.brazilian_books }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{{ '/livrosteatro' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.theatrical_texts }}</a>
+                      <a href="{{ '/livros-textos-teatrais' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.theatrical_texts }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{{ '/livroshistoria' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.french_history }}</a>
+                      <a href="{{ '/livros-historia-francesa' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.french_history }}</a>
                     </li>
                     <li class="submenu-item">
-                      <a href="{{ '/livosgouncourt' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.goncourt_books }}</a>
+                      <a href="{{ '/livros-goncourt' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.goncourt_books }}</a>
                     </li>
                   </ul>
                 </li>
@@ -69,7 +66,7 @@
           <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.projects }}</a>
           <ul class="dropdown-menu">
             <li class="submenu-item">
-              <a href="{{ '/blog-clipping' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.diary }}</a>
+              <a href="{{ '/diario-de-bordo' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.diary }}</a>
             </li>
             <li class="submenu-item has-dropdown">
               <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.media }}</a>
@@ -83,10 +80,10 @@
               </ul>
             </li>
             <li class="submenu-item">
-              <a href="{{ '/territoriodamoda' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.territory }}</a>
+              <a href="{{ '/territorio-da-moda' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.territory }}</a>
             </li>
             <li class="submenu-item">
-              <a href="{{ '/caixadecriadores' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.creators_box }}</a>
+              <a href="{{ '/caixa-de-criadores' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.creators_box }}</a>
             </li>
           </ul>
         </li>
@@ -95,7 +92,7 @@
           <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.info }}</a>
           <ul class="dropdown-menu">
             <li class="submenu-item">
-              <a href="{{ '/curriculo' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.curriculum }}</a>
+              <a href="{{ '/curriculo-resumido' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.curriculum }}</a>
             </li>
             <li class="submenu-item">
               <a href="{{ '/contato' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.contact }}</a>
