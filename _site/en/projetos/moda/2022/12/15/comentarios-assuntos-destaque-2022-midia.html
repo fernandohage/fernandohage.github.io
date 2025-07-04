@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Fernando Hage</title>
+    <meta name="description" content="Durante 2022, pude contribuir com algumas matérias sobre temas de destaque na mídia durante o ano, como: BBB 22, Festival Lollapalooza, o uso do vestido de M...">
+    
+    <link rel="stylesheet" href="/assets/main.css">
+    <link rel="stylesheet" href="/assets/css/header.css">
+    <link rel="stylesheet" href="/assets/css/footer.css">
+    <link rel="stylesheet" href="/assets/css/home.css">
+    <link rel="canonical" href="http://localhost:4000/en/projetos/moda/2022/12/15/comentarios-assuntos-destaque-2022-midia.html"></head>
+
+<body><header class="site-header">
+  <div class="header-wrapper">
+    <div class="site-branding">
+      <h1 class="site-title">
+        <a href="/en/">Fernando Hage</a>
+      </h1>
+      <p class="site-tagline">Fashion, Arts and Culture</p>
+    </div>
+
+    <nav class="main-navigation">
+      <ul class="nav-menu">
+        <li class="menu-item">
+          <a href="/en/">HOME</a>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">RESEARCH</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="/en/artigos">Publications</a>
+            </li>
+            <li class="submenu-item">
+              <a href="/en/meulivro">Book - Between words, drawings and fashion</a>
+            </li>
+            <li class="submenu-item">
+              <a href="/en/tese-de-doutorado">PhD</a>
+            </li>
+            <li class="submenu-item has-dropdown">
+              <a href="#" onclick="return false;">Special</a>
+              <ul class="dropdown-menu level-2">
+                <li class="submenu-item">
+                  <a href="/en/tresseculosdemodas">The book Three Centuries of Fashion</a>
+                </li>
+                <li class="submenu-item has-dropdown">
+                  <a href="#" onclick="return false;">Joao Affonso Library</a>
+                  <ul class="dropdown-menu level-3">
+                    <li class="submenu-item">
+                      <a href="/en/livrosmoda">Fashion and Art</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/en/livrosgravura">Engravings and Illustrations</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/en/revistasfrancesas">French magazines</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/en/revistasbrasileiras">Brazilian magazines</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/en/livrosbrasileirosja">Brazilian books</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/en/livrosteatro">Theatrical texts</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/en/livroshistoria">French history</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/en/livosgouncourt">Goncourt brothers books</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">PROJECTS</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="/en/blog-clipping">Logbook</a>
+            </li>
+            <li class="submenu-item has-dropdown">
+              <a href="#" onclick="return false;">Media</a>
+              <ul class="dropdown-menu level-2">
+                <li class="submenu-item">
+                  <a href="/en/podcasts">Podcasts</a>
+                </li>
+                <li class="submenu-item">
+                  <a href="/en/videos">Videos</a>
+                </li>
+              </ul>
+            </li>
+            <li class="submenu-item">
+              <a href="/en/territoriodamoda">Fashion Territory</a>
+            </li>
+            <li class="submenu-item">
+              <a href="/en/caixadecriadores">Creators Box</a>
+            </li>
+          </ul>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">+INFO</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="/en/curriculo">Resume</a>
+            </li>
+            <li class="submenu-item">
+              <a href="/en/contato">Contact</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      
+      <!-- Mobile menu toggle -->
+      <div class="mobile-menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </nav>
+
+    <!-- Language Switcher -->
+    <div class="language-switcher">
+    
+      
+        
+          <a href="http://localhost:4000" class="lang-link" >PT</a>
+        
+      
+    
+      
+        <span class="lang-link active">EN</span>
+      
+    
+    </div>
+  </div>
+</header>
+
+<script>
+// Mobile menu functionality
+document.addEventListener('DOMContentLoaded', function() {
+  const mobileToggle = document.querySelector('.mobile-menu-toggle');
+  const navMenu = document.querySelector('.nav-menu');
+  const dropdownItems = document.querySelectorAll('.menu-item.has-dropdown');
+  
+  if (mobileToggle) {
+    mobileToggle.addEventListener('click', function() {
+      navMenu.classList.toggle('mobile-active');
+    });
+  }
+  
+  dropdownItems.forEach(item => {
+    const link = item.querySelector('a');
+    if (link && link.getAttribute('href') === '#') {
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        if (window.innerWidth <= 768) {
+          item.classList.toggle('mobile-dropdown-open');
+        }
+      });
+    }
+  });
+  
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.main-navigation')) {
+      navMenu.classList.remove('mobile-active');
+    }
+  });
+});
+</script>
+<main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Comentando os Assuntos de Destaque de 2022</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2022-12-15T14:00:00+01:00" itemprop="datePublished">Dec 15, 2022
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">Fernando Hage</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>Durante 2022, pude contribuir com algumas matérias sobre temas de destaque na mídia durante o ano, como: <strong>BBB 22</strong>, <strong>Festival Lollapalooza</strong>, o uso do vestido de <strong>Marilyn Monroe</strong> por <strong>Kim Kardashian</strong> e a discussão sobre a moda no metaverso.</p>
+
+<p><img src="/assets/images/2022-12-15-comentarios-assuntos-destaque-2022-midia-2022.png" alt="Captura de tela das matérias" title="Algumas das matérias publicadas em 2022" /></p>
+
+<p>Abaixo seguem os links para acesso às matérias:</p>
+
+<h2 id="folha-de-são-paulo--f5---fevereiro2022">Folha de São Paulo / F5 - Fevereiro/2022</h2>
+
+<p><strong>BBB 22: Bucket hat, segunda pele, crochê e cores fazem a moda no reality</strong><br />
+<em>por Karina Matias</em></p>
+
+<!-- TODO: Adicionar link da matéria da Folha de S. Paulo -->
+
+<h2 id="estadão--terra---março2022">Estadão / Terra - Março/2022</h2>
+
+<p><strong>Lollapalooza: Como a moda se tornou um dos pilares do festival?</strong><br />
+<em>por Julia Queiroz</em></p>
+
+<!-- TODO: Adicionar link da matéria do Estadão -->
+
+<h2 id="revista-elle---site-online---maio2022">Revista Elle - Site Online - Maio/2022</h2>
+
+<p><strong>NÃO TOQUE, É ARTE!</strong><br />
+Entenda alerta disparado pelo empréstimo do vestido de Marilyn Monroe para Kim Kardashian.<br />
+<em>por Thiago Andrill</em></p>
+
+<!-- TODO: Adicionar link da matéria da Elle -->
+
+<h2 id="uol---nossa-uol-pt---novembro2022">UOL - Nossa UOL (PT) - Novembro/2022</h2>
+
+<p><strong>Você pagaria por roupas que ‘não existem’? A revolução da moda no metaverso…</strong><br />
+<em>por Natália Eiras</em></p>
+
+<!-- TODO: Adicionar link da matéria do UOL -->
+
+<h2 id="sobre-as-contribuições">Sobre as Contribuições</h2>
+
+<p>Durante 2022, tive a oportunidade de compartilhar análises e perspectivas sobre diversos fenômenos culturais e de moda que marcaram o ano. Desde as tendências observadas no BBB 22, passando pela importância da moda nos festivais de música, até discussões mais complexas sobre preservação de patrimônio cultural e as novas fronteiras da moda digital no metaverso.</p>
+
+<p>Cada uma dessas matérias representa um olhar acadêmico e especializado sobre como a moda se manifesta e influencia diferentes aspectos da cultura contemporânea.</p>
+
+<hr />
+
+<p><em>Este post faz parte do diário de bordo dos projetos de Fernando Hage.</em></p>
+
+  </div><a class="u-url" href="/en/projetos/moda/2022/12/15/comentarios-assuntos-destaque-2022-midia.html" hidden></a>
+</article>
+
+    </div>
+  </main><footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-content">
+      
+      <!-- About Section -->
+      <div class="footer-section about">
+        <h3>About</h3>
+        <p>Designer and professor specialized in Fashion History, Visual Culture and Creative Consultancy. PhD in Arts at UFPA.</p>
+
+        <div class="social-links">
+          <a href="https://www.linkedin.com/in/fernandohage/" target="_blank" rel="noopener">
+            <object class="social-icon" data="/assets/social/linkedin.svg" type="image/svg+xml"></object>
+          </a>
+
+          <a href="https://twitter.com/fernandohage" target="_blank" rel="noopener">
+            <object class="social-icon" data="/assets/social/twitter.svg" type="image/svg+xml"></object>
+          </a>
+          
+          <a href="https://github.com/fernandohage" target="_blank" rel="noopener">
+            <object class="social-icon" data="/assets/social/github.svg" type="image/svg+xml"></object>
+          </a>
+
+          <a href="https://instagram.com/fernandohage" target="_blank" rel="noopener">
+            <object class="social-icon" data="/assets/social/instagram.svg" type="image/svg+xml"></object>
+          </a>
+        </div>
+      </div>
+
+      <!-- Contact Section -->
+      <div class="footer-section contact">
+        <h3>Contact</h3>
+        <div class="contact-info">
+          <div class="contact-item">
+            <object class="contact-icon" data="/assets/social/email.svg" type="image/svg+xml"></object>
+            <a href="mailto:fernandohage at gmail.com">fernandohage at gmail.com</a>
+          </div>
+          <div class="contact-item">
+            <object class="contact-icon" data="/assets/social/location.svg" type="image/svg+xml"></object>
+            <span>Berlin</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Location Section -->
+      <div class="footer-section location">
+        <h3>Location</h3>
+        <div class="location-list">
+          <div class="location-item">
+            <object class="location-icon" data="/assets/social/location.svg" type="image/svg+xml"></object>
+            <div class="location-details">
+              <strong>Berlin</strong>
+              <span>Germany</span>
+            </div>
+          </div>
+          <div class="location-item">
+            <object class="location-icon" data="/assets/social/location.svg" type="image/svg+xml"></object>
+            <div class="location-details">
+              <strong>São Paulo, SP</strong>
+              <span>Brazil</span>
+            </div>
+          </div>
+          <div class="location-item">
+            <object class="location-icon" data="/assets/social/location.svg" type="image/svg+xml"></object>
+            <div class="location-details">
+              <strong>Belém, PA</strong>
+              <span>Brazil</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quick Links Section -->
+      <div class="footer-section links">
+        <h3>Quick Links</h3>
+        <ul class="footer-links">
+          <li><a href="/en/curriculo">Resume</a></li>
+          <li><a href="/en/publicacoes">Publications</a></li>
+          <li><a href="/en/caixadecriadores">Creators Box</a></li>
+          <li><a href="/en/territoriodamoda">Fashion Territory</a></li>
+          <li><a href="/en/contato">Contact</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <div class="footer-bottom-content">
+        <p>&copy; 2025 Fernando Hage. </p>
+        <div class="footer-meta">
+          <span>Built by <a href="https://github.com/jonatasteixeira/" target="_blank" rel="noopener">Jonatas Teixeira</a></span>
+          <span>Hosted on <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- Mobile menu JavaScript -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const mobileToggle = document.querySelector('.mobile-menu-toggle');
+      const navMenu = document.querySelector('.nav-menu');
+      const dropdownItems = document.querySelectorAll('.menu-item.has-dropdown');
+      
+      // Mobile menu toggle
+      if (mobileToggle) {
+        mobileToggle.addEventListener('click', function() {
+          navMenu.classList.toggle('mobile-active');
+        });
+      }
+      
+      // Mobile dropdown functionality
+      dropdownItems.forEach(item => {
+        const link = item.querySelector('a');
+        if (link && link.getAttribute('href') === '#') {
+          link.addEventListener('click', function(e) {
+            e.preventDefault();
+            if (window.innerWidth <= 768) {
+              item.classList.toggle('mobile-dropdown-open');
+            }
+          });
+        }
+      });
+      
+      // Close mobile menu when clicking outside
+      document.addEventListener('click', function(e) {
+        if (!e.target.closest('.main-navigation')) {
+          navMenu.classList.remove('mobile-active');
+        }
+      });
+    });
+  </script>
+</body>
+</html>

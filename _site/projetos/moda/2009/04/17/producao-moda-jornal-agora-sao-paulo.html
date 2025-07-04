@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Fernando Hage</title>
+    <meta name="description" content="Colaboração Jornalística na Revista DaHora">
+    
+    <link rel="stylesheet" href="/assets/main.css">
+    <link rel="stylesheet" href="/assets/css/header.css">
+    <link rel="stylesheet" href="/assets/css/footer.css">
+    <link rel="stylesheet" href="/assets/css/home.css">
+    <link rel="canonical" href="http://localhost:4000/projetos/moda/2009/04/17/producao-moda-jornal-agora-sao-paulo.html"></head>
+
+<body><header class="site-header">
+  <div class="header-wrapper">
+    <div class="site-branding">
+      <h1 class="site-title">
+        <a href="/">Fernando Hage</a>
+      </h1>
+      <p class="site-tagline">Moda, Artes e Cultura</p>
+    </div>
+
+    <nav class="main-navigation">
+      <ul class="nav-menu">
+        <li class="menu-item">
+          <a href="/">HOME</a>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">PESQUISA</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="/artigos">Publicações</a>
+            </li>
+            <li class="submenu-item">
+              <a href="/meulivro">Livro - Entre palavras, desenhos e modas</a>
+            </li>
+            <li class="submenu-item">
+              <a href="/tese-de-doutorado">Doutorado</a>
+            </li>
+            <li class="submenu-item has-dropdown">
+              <a href="#" onclick="return false;">Especiais</a>
+              <ul class="dropdown-menu level-2">
+                <li class="submenu-item">
+                  <a href="/tresseculosdemodas">O livro Tres Seculos de Modas</a>
+                </li>
+                <li class="submenu-item has-dropdown">
+                  <a href="#" onclick="return false;">Biblioteca Joao Affonso</a>
+                  <ul class="dropdown-menu level-3">
+                    <li class="submenu-item">
+                      <a href="/livrosmoda">Moda e Arte</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/livrosgravura">Gravuras e Ilustrações</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/revistasfrancesas">Revistas francesas</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/revistasbrasileiras">Revistas brasileiras</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/livrosbrasileirosja">Livros brasileiros</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/livrosteatro">Textos teatrais</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/livroshistoria">História francesa</a>
+                    </li>
+                    <li class="submenu-item">
+                      <a href="/livosgouncourt">Livros dos irmãos Goncourt</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">PROJETOS</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="/blog-clipping">Diário de Bordo</a>
+            </li>
+            <li class="submenu-item has-dropdown">
+              <a href="#" onclick="return false;">Midia</a>
+              <ul class="dropdown-menu level-2">
+                <li class="submenu-item">
+                  <a href="/podcasts">Podcasts</a>
+                </li>
+                <li class="submenu-item">
+                  <a href="/videos">Vídeos</a>
+                </li>
+              </ul>
+            </li>
+            <li class="submenu-item">
+              <a href="/territoriodamoda">Território da Moda</a>
+            </li>
+            <li class="submenu-item">
+              <a href="/caixadecriadores">Caixa de Criadores</a>
+            </li>
+          </ul>
+        </li>
+        
+        <li class="menu-item has-dropdown">
+          <a href="#" onclick="return false;">+INFO</a>
+          <ul class="dropdown-menu">
+            <li class="submenu-item">
+              <a href="/curriculo">Curriculo</a>
+            </li>
+            <li class="submenu-item">
+              <a href="/contato">Contato</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      
+      <!-- Mobile menu toggle -->
+      <div class="mobile-menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </nav>
+
+    <!-- Language Switcher -->
+    <div class="language-switcher">
+    
+      
+        <span class="lang-link active">PT</span>
+      
+    
+      
+        
+          <a href="http://localhost:4000//en//projetos/moda/2009/04/17/producao-moda-jornal-agora-sao-paulo.html" class="lang-link">EN</a>
+        
+      
+    
+    </div>
+  </div>
+</header>
+
+<script>
+// Mobile menu functionality
+document.addEventListener('DOMContentLoaded', function() {
+  const mobileToggle = document.querySelector('.mobile-menu-toggle');
+  const navMenu = document.querySelector('.nav-menu');
+  const dropdownItems = document.querySelectorAll('.menu-item.has-dropdown');
+  
+  if (mobileToggle) {
+    mobileToggle.addEventListener('click', function() {
+      navMenu.classList.toggle('mobile-active');
+    });
+  }
+  
+  dropdownItems.forEach(item => {
+    const link = item.querySelector('a');
+    if (link && link.getAttribute('href') === '#') {
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        if (window.innerWidth <= 768) {
+          item.classList.toggle('mobile-dropdown-open');
+        }
+      });
+    }
+  });
+  
+  document.addEventListener('click', function(e) {
+    if (!e.target.closest('.main-navigation')) {
+      navMenu.classList.remove('mobile-active');
+    }
+  });
+});
+</script>
+<main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Produção de Moda - Jornal Agora São Paulo</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2009-04-17T15:00:00+02:00" itemprop="datePublished">Apr 17, 2009
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">Fernando Hage</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h2 id="colaboração-jornalística-na-revista-dahora">Colaboração Jornalística na Revista DaHora</h2>
+
+<p>A produção de moda freelancer para o Jornal Agora São Paulo representou uma importante etapa na carreira jornalística, com publicações quinzenais na Revista DaHora da edição dominical. O trabalho foi desenvolvido em parceria com Kássia Garcia, sob a editoria de Cleide Floresta, durante o período de abril a novembro de 2009.</p>
+
+<h3 id="detalhes-da-colaboração">Detalhes da Colaboração</h3>
+
+<p><strong>Publicação:</strong> Revista DaHora - Jornal Agora São Paulo<br />
+<strong>Periodicidade:</strong> Quinzenal<br />
+<strong>Período:</strong> Abril a Novembro de 2009<br />
+<strong>Parceria:</strong> Kássia Garcia<br />
+<strong>Editora:</strong> Cleide Floresta<br />
+<strong>Formato:</strong> Produção de moda freelancer</p>
+
+<h3 id="características-do-projeto">Características do Projeto</h3>
+
+<p><strong>Revista DaHora</strong> era o suplemento de moda e comportamento da edição dominical do Jornal Agora São Paulo, um dos principais veículos de comunicação da capital paulista. A colaboração quinzenal permitiu o desenvolvimento de conteúdo diversificado sobre moda, tendências e estilo.</p>
+
+<h3 id="experiência-jornalística">Experiência Jornalística</h3>
+
+<p>Este trabalho representou uma importante oportunidade de atuação no jornalismo de moda em São Paulo, proporcionando:</p>
+
+<ul>
+  <li><strong>Experiência editorial</strong> em um grande veículo de comunicação</li>
+  <li><strong>Colaboração profissional</strong> com Kássia Garcia</li>
+  <li><strong>Desenvolvimento de conteúdo</strong> para público diversificado</li>
+  <li><strong>Regularidade de publicação</strong> com periodicidade quinzenal</li>
+  <li><strong>Contato com a editoria</strong> especializada em moda</li>
+</ul>
+
+<h3 id="contexto-editorial">Contexto Editorial</h3>
+
+<p>O Jornal Agora São Paulo era conhecido por sua abordagem acessível e popular, e a Revista DaHora complementava essa proposta trazendo conteúdo de moda e lifestyle para o público leitor. A colaboração de oito meses permitiu a criação de um portfólio diversificado de produções editoriais.</p>
+
+<h3 id="impacto-profissional">Impacto Profissional</h3>
+
+<p>A experiência na Revista DaHora marcou um período importante de desenvolvimento profissional no jornalismo de moda, consolidando habilidades de produção editorial e estabelecendo conexões importantes no mercado jornalístico paulistano.</p>
+
+<h3 id="portfólio-das-publicações">Portfólio das Publicações</h3>
+
+<p><img src="/assets/images/2009-04-17-producao-moda-jornal-agora-sao-paulo-01.jpg" alt="Edição 01 - Revista DaHora" />
+<em>Primeira edição da colaboração na Revista DaHora - Abril de 2009</em></p>
+
+<p><img src="/assets/images/2009-04-17-producao-moda-jornal-agora-sao-paulo-02.jpg" alt="Edição 02 - Revista DaHora" />
+<em>Segunda edição - Produção de moda em parceria com Kássia Garcia</em></p>
+
+<p><img src="/assets/images/2009-04-17-producao-moda-jornal-agora-sao-paulo-03.jpg" alt="Edição 03 - Revista DaHora" />
+<em>Terceira edição - Editorial de moda para o Jornal Agora São Paulo</em></p>
+
+<p><img src="/assets/images/2009-04-17-producao-moda-jornal-agora-sao-paulo-04.jpg" alt="Edição 04 - Revista DaHora" />
+<em>Quarta edição - Desenvolvimento de conteúdo de moda</em></p>
+
+<p><img src="/assets/images/2009-04-17-producao-moda-jornal-agora-sao-paulo-05.jpg" alt="Edição 05 - Revista DaHora" />
+<em>Quinta edição - Continuidade da colaboração quinzenal</em></p>
+
+<p><img src="/assets/images/2009-04-17-producao-moda-jornal-agora-sao-paulo-06.jpg" alt="Edição 06 - Revista DaHora" />
+<em>Sexta edição - Meio do período de colaboração</em></p>
+
+<p><img src="/assets/images/2009-04-17-producao-moda-jornal-agora-sao-paulo-07.jpg" alt="Edição 07 - Revista DaHora" />
+<em>Sétima edição - Consolidação da parceria editorial</em></p>
+
+<p><img src="/assets/images/2009-04-17-producao-moda-jornal-agora-sao-paulo-08.jpg" alt="Edição 08 - Revista DaHora" />
+<em>Oitava edição - Continuidade do trabalho jornalístico</em></p>
+
+<p><img src="/assets/images/2009-04-17-producao-moda-jornal-agora-sao-paulo-09.jpg" alt="Edição 09 - Revista DaHora" />
+<em>Nona edição - Desenvolvimento de conteúdo especializado</em></p>
+
+<p><img src="/assets/images/2009-04-17-producao-moda-jornal-agora-sao-paulo-10.jpg" alt="Edição 10 - Revista DaHora" />
+<em>Décima edição - Aproximação do final da colaboração</em></p>
+
+<p><img src="/assets/images/2009-04-17-producao-moda-jornal-agora-sao-paulo-11.jpg" alt="Edição 11 - Revista DaHora" />
+<em>Décima primeira edição - Penúltima publicação do projeto</em></p>
+
+<p><img src="/assets/images/2009-04-17-producao-moda-jornal-agora-sao-paulo-12.jpg" alt="Edição 12 - Revista DaHora" />
+<em>Décima segunda edição - Finalização da colaboração em Novembro de 2009</em></p>
+
+<hr />
+
+<p><em>Este post faz parte do diário de bordo dos projetos de Fernando Hage.</em></p>
+
+  </div><a class="u-url" href="/projetos/moda/2009/04/17/producao-moda-jornal-agora-sao-paulo.html" hidden></a>
+</article>
+
+    </div>
+  </main><footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-content">
+      
+      <!-- About Section -->
+      <div class="footer-section about">
+        <h3>Sobre</h3>
+        <p>Designer e professor especializado em História da Moda, Cultura Visual e Consultoria Criativa. Doutor em Artes pela UFPA UFMG.</p>
+
+        <div class="social-links">
+          <a href="https://www.linkedin.com/in/fernandohage/" target="_blank" rel="noopener">
+            <object class="social-icon" data="/assets/social/linkedin.svg" type="image/svg+xml"></object>
+          </a>
+
+          <a href="https://twitter.com/fernandohage" target="_blank" rel="noopener">
+            <object class="social-icon" data="/assets/social/twitter.svg" type="image/svg+xml"></object>
+          </a>
+          
+          <a href="https://github.com/fernandohage" target="_blank" rel="noopener">
+            <object class="social-icon" data="/assets/social/github.svg" type="image/svg+xml"></object>
+          </a>
+
+          <a href="https://instagram.com/fernandohage" target="_blank" rel="noopener">
+            <object class="social-icon" data="/assets/social/instagram.svg" type="image/svg+xml"></object>
+          </a>
+        </div>
+      </div>
+
+      <!-- Contact Section -->
+      <div class="footer-section contact">
+        <h3>Contato</h3>
+        <div class="contact-info">
+          <div class="contact-item">
+            <object class="contact-icon" data="/assets/social/email.svg" type="image/svg+xml"></object>
+            <a href="mailto:fernandohage at gmail.com">fernandohage at gmail.com</a>
+          </div>
+          <div class="contact-item">
+            <object class="contact-icon" data="/assets/social/location.svg" type="image/svg+xml"></object>
+            <span>Berlin</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Location Section -->
+      <div class="footer-section location">
+        <h3>Localização</h3>
+        <div class="location-list">
+          <div class="location-item">
+            <object class="location-icon" data="/assets/social/location.svg" type="image/svg+xml"></object>
+            <div class="location-details">
+              <strong>Berlin</strong>
+              <span>Alemanha</span>
+            </div>
+          </div>
+          <div class="location-item">
+            <object class="location-icon" data="/assets/social/location.svg" type="image/svg+xml"></object>
+            <div class="location-details">
+              <strong>São Paulo , SP</strong>
+              <span>Brasil</span>
+            </div>
+          </div>
+          <div class="location-item">
+            <object class="location-icon" data="/assets/social/location.svg" type="image/svg+xml"></object>
+            <div class="location-details">
+              <strong>Belém, PA</strong>
+              <span>Brasil</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quick Links Section -->
+      <div class="footer-section links">
+        <h3>Links Rápidos</h3>
+        <ul class="footer-links">
+          <li><a href="/curriculo">Curriculo</a></li>
+          <li><a href="/publicacoes">Publicações</a></li>
+          <li><a href="/caixadecriadores">Caixa de Criadores</a></li>
+          <li><a href="/territoriodamoda">Território da Moda</a></li>
+          <li><a href="/contato">Contato</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <div class="footer-bottom-content">
+        <p>&copy; 2025 Fernando Hage. </p>
+        <div class="footer-meta">
+          <span>Feito por <a href="https://github.com/jonatasteixeira/" target="_blank" rel="noopener">Jonatas Teixeira</a></span>
+          <span>Hospedado no <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- Mobile menu JavaScript -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const mobileToggle = document.querySelector('.mobile-menu-toggle');
+      const navMenu = document.querySelector('.nav-menu');
+      const dropdownItems = document.querySelectorAll('.menu-item.has-dropdown');
+      
+      // Mobile menu toggle
+      if (mobileToggle) {
+        mobileToggle.addEventListener('click', function() {
+          navMenu.classList.toggle('mobile-active');
+        });
+      }
+      
+      // Mobile dropdown functionality
+      dropdownItems.forEach(item => {
+        const link = item.querySelector('a');
+        if (link && link.getAttribute('href') === '#') {
+          link.addEventListener('click', function(e) {
+            e.preventDefault();
+            if (window.innerWidth <= 768) {
+              item.classList.toggle('mobile-dropdown-open');
+            }
+          });
+        }
+      });
+      
+      // Close mobile menu when clicking outside
+      document.addEventListener('click', function(e) {
+        if (!e.target.closest('.main-navigation')) {
+          navMenu.classList.remove('mobile-active');
+        }
+      });
+    });
+  </script>
+</body>
+</html>
