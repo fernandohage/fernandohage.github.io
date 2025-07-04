@@ -1,7 +1,7 @@
 #!/bin/bash
 
 path_to_rename=$1
-files_txt="suggested_names.txt"
+files_txt="${2:-suggested_names.txt}"
 
 for file in ${path_to_rename}/*.md; do
 
@@ -11,15 +11,15 @@ for file in ${path_to_rename}/*.md; do
         continue
     fi
     
-    suggested_file_name=$(grep "${file_basename}" ${files_txt}| cut -d';' -f2)
+    suggested_file_name=$(grep "^${file_basename};" ${files_txt} | cut -d';' -f2 | head -1)
     if [ -z "$suggested_file_name" ]; then
         echo "ERR: No suggested name found for $file, skipping..."
         continue
     fi
 
-    suggested_image_preffix="${suggested_file_name%.*}"
-    # Filter out URLs and only get actual image paths
-    images=$(cat "$file" | grep -E "assets/images/[^)]*\.(jpg|jpeg|png|gif|webp)" | sed 's/.*(\([^)]*assets\/images\/[^)]*\)).*/\1/' | grep -v "http" | sort -u)
+    suggested_image_prefix="${suggested_file_name%.*}"
+    # Extract image paths more carefully to avoid newlines
+    images=$(grep -oE '/assets/images/[^)]*\.(jpg|jpeg|png|gif|webp)' "$file" | grep -v "http" | sort -u)
 
     # Make a backup of the file
     echo "Backing up $file to ${file}.bak"
@@ -31,9 +31,12 @@ for file in ${path_to_rename}/*.md; do
     #   New name: /assets/images/${suggested_name}-02.png
     # We have to replace the whole name, but keep the numeral suffix in the end and the path in the beginning
     for image in $images; do
-        # Skip if image variable is empty or contains newlines
-        if [ -z "$image" ] || [[ "$image" == *$'\n'* ]]; then
-            echo "Skipping invalid image path: '$image'"
+        # Clean the image path and remove any potential newlines or whitespace
+        image=$(echo "$image" | tr -d '\n\r' | xargs)
+        
+        # Skip if image variable is empty
+        if [ -z "$image" ]; then
+            echo "Skipping empty image path"
             continue
         fi
         
@@ -51,10 +54,13 @@ for file in ${path_to_rename}/*.md; do
         
         # If no numeric suffix found, use the original filename
         if [ "$suffix" = "$image_filename" ]; then
-            new_image="${image_dirname}/${suggested_image_preffix}.${image_filename##*.}"
+            new_image="${image_dirname}/${suggested_image_prefix}.${image_filename##*.}"
         else
-            new_image="${image_dirname}/${suggested_image_preffix}-${suffix}"
+            new_image="${image_dirname}/${suggested_image_prefix}-${suffix}"
         fi
+
+        # Clean the new_image path as well
+        new_image=$(echo "$new_image" | tr -d '\n\r' | xargs)
 
         if [ "$image" == "$new_image" ]; then
             echo "No change needed for $image"
@@ -74,12 +80,14 @@ for file in ${path_to_rename}/*.md; do
         mv "./$image" "./$new_image"
 
         echo "Replacing references in $file"
-        # Replace all the references to image in the file with the new name 
-        # Use a more careful sed approach to avoid issues with special characters
-        sed -i '' "s|$(echo "$image" | sed 's/[[\.*^$()+?{|]/\\&/g')|$(echo "$new_image" | sed 's/[[\.*^$()+?{|]/\\&/g')|g" "$file"
-
-        if [ $? -ne 0 ]; then
+        # Use a safer approach for sed replacement to avoid newline issues
+        temp_file=$(mktemp)
+        if sed "s|$(printf '%s\n' "$image" | sed 's/[[\.*^$()+?{|]/\\&/g')|$(printf '%s\n' "$new_image" | sed 's/[[\.*^$()+?{|]/\\&/g')|g" "$file" > "$temp_file"; then
+            mv "$temp_file" "$file"
+            echo "Successfully replaced references to $image with $new_image"
+        else
             echo "Error replacing references in $file for $image" 1>&2
+            rm -f "$temp_file"
             continue
         fi
     done
