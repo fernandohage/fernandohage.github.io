@@ -70,14 +70,15 @@ for file in ${path_to_rename}/*.md; do
         # Check if source file exists before attempting to rename
         if [ ! -f "./$image" ]; then
             echo "Source file does not exist: ./$image, skipping..."
-            continue
+            if [ -f "./${image}.bak" ] && [ -f "${new_image}" ]; then
+                echo "Image was already renamed."
+            fi
+        else
+            echo "Backing up $image to ${image}.bak"
+            cp "./$image" "./${image}.bak"
+            echo "Renaming $image to $new_image"
+            mv "./$image" "./$new_image"
         fi
-
-        echo "Backing up $image to ${image}.bak"
-        cp "./$image" "./${image}.bak"
-        echo "Renaming $image to $new_image"
-
-        mv "./$image" "./$new_image"
 
         echo "Replacing references in $file"
         # Use a safer approach for sed replacement to avoid newline issues
