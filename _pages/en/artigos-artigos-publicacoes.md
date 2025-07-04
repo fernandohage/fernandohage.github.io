@@ -132,9 +132,12 @@ Maria Henriques Ferreira. Fashion Colloquium, 2013, Fortaleza
 [Corset: from the Shackles of the 16th Century to Fetishism](https://www.coloquiomoda.com.br/anais/Coloquio%20de%20Moda%20-%202013/COMUNICACAO-ORAL/EIXO-3-CULTURA_COMUNICACAO-ORAL/Espartilho-das-amarras-do-seculo-XVI-ao-fetichismo.pdf)  
 Caroline Serrão. Fashion Colloquium, 2013, Fortaleza
 
+## External Sources
 
-![Photograph](/assets/images/artigos-artigos-publicacoes-01.png)
+![Academia](https://faap.academia.edu/fernandohage/)
 
+![ORCID](https://orcid.org/0000-0002-9535-8878)
 
+![Lattes](http://lattes.cnpq.br/2320739710304133)
 
-![Picture](/assets/images/artigos-artigos-publicacoes-02.jpg)
+![Picture](/assets/images/artigos-artigos-publicacoes-01.jpg)
