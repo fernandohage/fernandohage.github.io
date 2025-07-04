@@ -5,6 +5,7 @@ date: 2007-05-17 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/lancamento-verao-assembleia-paraense.html
 ---
 
 # Lançamento Verão Assembléia Paraense

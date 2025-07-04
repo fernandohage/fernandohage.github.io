@@ -5,6 +5,7 @@ date: 2011-06-29 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/caixa-de-criadores-verao-2011.html
 ---
 
 # Caixa de Criadores - Verão 2011

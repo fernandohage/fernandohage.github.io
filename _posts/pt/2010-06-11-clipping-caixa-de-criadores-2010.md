@@ -5,6 +5,7 @@ date: 2010-06-11 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/clipping-caixa-de-criadores-2010.html
 ---
 
 # Clipping - Caixa de Criadores 2010

@@ -5,6 +5,7 @@ date: 2018-06-02 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/programa-e-do-para-tv-liberal-curiosidades-sobre-a-chita.html
 ---
 
 # Programa É do Pará - Tv Liberal "curiosidades sobre a Chita"

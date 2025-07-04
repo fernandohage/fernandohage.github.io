@@ -5,6 +5,7 @@ date: 2016-02-02 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/resultados-de-consultoria-criativa-em-exposicao-no-polo-joalheiro.html
 ---
 
 # Resultados de Consultoria Criativa em Exposição no Pólo Joalheiro

@@ -5,6 +5,7 @@ date: 2017-10-08 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/transmissao-do-cirio-de-nazare-2017.html
 ---
 
 # Transmissão do Círio de Nazaré 2017

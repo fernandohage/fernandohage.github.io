@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<div class="home">
+  {{ content }}
+  
+  <div class="home-columns">
+    <div class="column recent-posts">
+      <h3>Últimos Posts</h3>
+      <ul class="recent-posts-list">
+        {% assign current_lang = site.active_lang | default: site.default_lang %}
+        {% assign posts_count = 0 %}
+        {% for post in site.posts %}
+          {% if posts_count < 5 %}
+            {% if post.lang == current_lang or post.language == current_lang %}
+              <li class="recent-post-item">
+                <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
+                <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+                {% if post.excerpt %}
+                  <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 100 }}</p>
+                {% endif %}
+              </li>
+              {% assign posts_count = posts_count | plus: 1 %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <a href="/blog" class="view-all-link">Ver todos os posts →</a>
+    </div>
+    
+    <div class="column recent-pages">
+      <h3>Páginas Principais</h3>
+      <ul class="recent-pages-list">
+        {% assign current_lang = site.active_lang | default: site.default_lang %}
+        {% assign pages_count = 0 %}
+        {% for page in site.pages %}
+          {% if pages_count < 5 %}
+            {% if page.path contains '_pages' %}
+              {% assign show_page = false %}
+              
+              {% comment %} Check if page has languages array and contains current language {% endcomment %}
+              {% if page.languages contains current_lang %}
+                {% assign show_page = true %}
+              {% comment %} Check if page has language property {% endcomment %}
+              {% elsif page.language == current_lang %}
+                {% assign show_page = true %}
+              {% comment %} Check if page has lang property {% endcomment %}
+              {% elsif page.lang == current_lang %}
+                {% assign show_page = true %}
+              {% comment %} Default to showing Portuguese pages if no language specified {% endcomment %}
+              {% elsif current_lang == 'pt' and page.languages == nil and page.language == nil and page.lang == nil %}
+                {% assign show_page = true %}
+              {% endif %}
+              
+              {% if show_page %}
+                <li class="recent-page-item">
+                  <h4><a href="{{ page.url | relative_url }}">
+                    {% if page.title %}
+                      {{ page.title }}
+                    {% else %}
+                      {{ page.path | split: '/' | last | split: '.' | first | replace: '-', ' ' | capitalize }}
+                    {% endif %}
+                  </a></h4>
+                  {% if page.excerpt %}
+                    <p class="page-excerpt">{{ page.excerpt | strip_html | truncate: 100 }}</p>
+                  {% elsif page.description %}
+                    <p class="page-excerpt">{{ page.description | strip_html | truncate: 100 }}</p>
+                  {% endif %}
+                </li>
+                {% assign pages_count = pages_count | plus: 1 %}
+              {% endif %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <a href="/sitemap" class="view-all-link">Ver todas as páginas →</a>
+    </div>
+  </div>
+</div>

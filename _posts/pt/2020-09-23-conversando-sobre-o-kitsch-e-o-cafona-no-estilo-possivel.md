@@ -5,6 +5,7 @@ date: 2020-09-23 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/conversando-sobre-o-kitsch-e-o-cafona-no-estilo-possivel.html
 ---
 
 # Conversando sobre o Kitsch e o Cafona no Estilo Possível

@@ -5,6 +5,7 @@ date: 2016-09-27 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/seminario-internacional-de-estudos-de-indumentaria-e-moda-no-brasil-tributo-a-sophia-jobim.html
 ---
 
 # Seminário Internacional de Estudos de Indumentária e Moda no Brasil: Tributo à Sophia Jobim

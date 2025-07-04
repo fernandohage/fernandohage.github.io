@@ -5,6 +5,7 @@ date: 2006-09-13 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/desfile-fazendo-moda-iguatemi-fashion-days.html
 ---
 
 # Desfile Criando Moda Iguatemi Fashion Days

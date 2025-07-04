@@ -5,6 +5,7 @@ date: 2014-05-30 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/desfile-colecao-de-acessorios-2014.html
 ---
 
 # Produção de Desfile de Lançamento da Coleção de Acessórios Igama 2014

@@ -5,6 +5,7 @@ date: 2006-12-12 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/colecao-para-a-caixa-de-criadores-primeira-edicao.html
 ---
 
 # Coleção Lançada no 1º Caixa de Criadores

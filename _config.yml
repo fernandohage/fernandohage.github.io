@@ -23,6 +23,10 @@ exclude_from_localization: ["javascript", "images", "css", "assets"]
 default_locale_in_subfolder: true
 lang_from_path: true
 
+
+feed:
+  path: /feed.atom
+
 # Exclude from processing
 exclude:
   - .sass-cache/

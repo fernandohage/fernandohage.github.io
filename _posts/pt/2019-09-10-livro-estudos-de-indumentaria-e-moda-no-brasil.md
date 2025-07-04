@@ -5,6 +5,7 @@ date: 2019-09-10 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/livro-estudos-de-indumentaria-e-moda-no-brasil.html
 ---
 
 # Livro Estudos de Indumentária e Moda no Brasil

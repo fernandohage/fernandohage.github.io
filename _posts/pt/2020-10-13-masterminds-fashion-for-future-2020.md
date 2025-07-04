@@ -5,6 +5,7 @@ date: 2020-10-13 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/masterminds-fashion-for-future-2020.html
 ---
 
 # Masterminds Fashion for Future 2020

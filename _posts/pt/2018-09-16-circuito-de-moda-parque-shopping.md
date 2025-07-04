@@ -5,6 +5,7 @@ date: 2018-09-16 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/circuito-de-moda-parque-shopping.html
 ---
 
 # Circuito de Moda Parque Shopping

@@ -5,6 +5,7 @@ date: 2021-08-07 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/temas-atuais-na-folha-de-sao-paulo.html
 ---
 
 # Temas Atuais na Folha de São Paulo

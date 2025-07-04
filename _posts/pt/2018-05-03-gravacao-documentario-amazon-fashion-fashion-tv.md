@@ -5,6 +5,7 @@ date: 2018-05-03 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/gravacao-documentario-amazon-fashion-fashion-tv.html
 ---
 
 # Gravação Documentário Amazon Fashion - Fashion Tv

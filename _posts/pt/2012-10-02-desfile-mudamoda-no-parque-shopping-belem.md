@@ -5,6 +5,7 @@ date: 2012-10-02 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/desfile-mudamoda-no-parque-shopping-belem.html
 ---
 
 # Desfile Mudamoda no Parque Shopping Belém

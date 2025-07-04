@@ -5,6 +5,7 @@ date: 2020-10-07 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/inspiracao-copia-e-plagio-qual-a-diferenca.html
 ---
 
 # Inspiração, Cópia e Plágio: Qual a Diferença?

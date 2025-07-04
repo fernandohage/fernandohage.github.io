@@ -5,6 +5,7 @@ date: 2021-06-15 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/palestra-resistencia-na-historia-da-moda-umi-digital-unifor.html
 ---
 
 # Palestra "resistência na História da Moda"- Umi Digital

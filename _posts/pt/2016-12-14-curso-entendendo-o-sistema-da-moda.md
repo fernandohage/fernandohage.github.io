@@ -5,6 +5,7 @@ date: 2016-12-14 15:00:00 +0200
 categories: projetos moda
 lang: pt
 author: Fernando Hage
+original_file: fernandohage.weebly.com/Migrated/curso-entendendo-o-sistema-da-moda.html
 ---
 
 # Curso "entendendo o Sistema da Moda"
