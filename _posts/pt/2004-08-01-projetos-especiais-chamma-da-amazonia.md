@@ -8,7 +8,7 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/projetos-especiais-chamma-da-amazonia.html
 ---
 
-## Sobre o Projeto Chama da Amazonia
+## Sobre o Projeto
 
 Projetos realizados durante estágio na área de Design na empresa de perfumaria Chamma da Amazônia. O trabalho consistiu na criação de produtos de confecção para as datas especiais do Dia das Mães e Dia dos Namorados, que foram comercializados ou distribuídos em compra casada nas lojas da cidade de Belém.
 

@@ -8,7 +8,7 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/editorial-anjos-de-asteroides.html
 ---
 
-# Editorial Anjos de Asteróides - Revista Latitude Hangar
+Produção de moda para editorial publicado na Revista Latitude Hangar #10, com roupas da curadoria de Ana Coeli Feijó na loja Euforia (Belém/PA).
 
 ## Galeria de Imagens
 
@@ -30,7 +30,8 @@ original_file: fernandohage.weebly.com/Migrated/editorial-anjos-de-asteroides.ht
 
 ![Editorial Anjos de Asteróides - Revista Latitude Hangar](/assets/images/editorial-anjos-de-asteroides-revista-latitude-hangar-09.jpg)
 
-Produção de Moda para editorial publicado na Revista Latitude Hangar #10, com roupas da curadoria de Ana Coeli Feijó na loja Euforia (Belém/PA). Direção: Gil Yonezawa. Modelos: Allana Pingray e Marcela Lima.
+**Direção:** Gil Yonezawa  
+**Modelos:** Allana Pingray e Marcela Lima
 
 ---
 

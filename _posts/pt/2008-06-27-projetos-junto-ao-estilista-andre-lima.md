@@ -8,29 +8,65 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/projetos-andre-lima.html
 ---
 
-# Projetos Junto ao Estilista André Lima
+## Colaboração Profissional no Ateliê André Lima
 
-## Galeria de Imagens
+Durante minha experiência como assistente junto ao ateliê do estilista André Lima, tive a oportunidade de participar de projetos significativos que marcaram minha trajetória profissional na área de moda e design.
 
-![Projetos Junto ao Estilista André Lima](/assets/images/projetos-junto-ao-estilista-andre-lima-01.jpg)
+### Principais Atividades Desenvolvidas
 
-![Projetos Junto ao Estilista André Lima](/assets/images/projetos-junto-ao-estilista-andre-lima-02.jpg)
+#### São Paulo Fashion Week - Verão 2009
 
-![Projetos Junto ao Estilista André Lima](/assets/images/projetos-junto-ao-estilista-andre-lima-03.jpg)
+- Atuação na produção e backstage do desfile
+- Acompanhamento da produção dos acessórios
+- Suporte técnico durante todas as etapas de preparação
 
-![Projetos Junto ao Estilista André Lima](/assets/images/projetos-junto-ao-estilista-andre-lima-04.jpg)
+#### Parceria com a Firma Casa
 
-![Projetos Junto ao Estilista André Lima](/assets/images/projetos-junto-ao-estilista-andre-lima-05.jpg)
+- Acompanhamento dos processos de estruturação da linha de móveis
+- Desenvolvimento de desenhos exclusivos para móveis, luminárias e tapetes
+- Participação no lançamento oficial da coleção em 2009
 
-![Projetos Junto ao Estilista André Lima](/assets/images/projetos-junto-ao-estilista-andre-lima-06.jpg)
+### Galeria de Imagens
 
-![Projetos Junto ao Estilista André Lima](/assets/images/projetos-junto-ao-estilista-andre-lima-07.jpg)
+![Bastidores do ateliê André Lima - Preparação da coleção](/assets/images/projetos-junto-ao-estilista-andre-lima-01.jpg)
+*Momentos dos bastidores durante a preparação da coleção Verão 2009*
 
-![Projetos Junto ao Estilista André Lima](/assets/images/projetos-junto-ao-estilista-andre-lima-08.jpg)
+![Detalhes da produção - Processo criativo](/assets/images/projetos-junto-ao-estilista-andre-lima-02.jpg)
+*Detalhes do processo criativo e desenvolvimento das peças*
 
-![Projetos Junto ao Estilista André Lima](/assets/images/projetos-junto-ao-estilista-andre-lima-09.jpg)
+![Desenvolvimento de acessórios - Ateliê André Lima](/assets/images/projetos-junto-ao-estilista-andre-lima-03.jpg)
+*Acompanhamento da produção dos acessórios para a coleção*
 
-Durante minha experiência como assistente junto ao ateliê do estilista André Lima, atuei na produção e backstage do desfile de Verão 2009 apresentado no São Paulo Fashion Week, além de acompanhar a produção dos acessórios. Entre outros projetos, atuei no acompanhamento dos processos de estruturação da linha criada em parceria com a Firma Casa, contendo desenhos exclusivos compondo móveis, luminárias e tapetes, que foi lançada em 2009.Fotos: Charles Naseh/Divulgação
+![Preparação para o desfile - São Paulo Fashion Week](/assets/images/projetos-junto-ao-estilista-andre-lima-04.jpg)
+*Preparação intensiva para o desfile no São Paulo Fashion Week*
+
+![Backstage do desfile - Verão 2009](/assets/images/projetos-junto-ao-estilista-andre-lima-05.jpg)
+*Momentos do backstage durante o desfile de Verão 2009*
+
+![Parceria Firma Casa - Linha de móveis](/assets/images/projetos-junto-ao-estilista-andre-lima-06.jpg)
+*Desenvolvimento da linha de móveis em parceria com a Firma Casa*
+
+![Desenhos exclusivos - Móveis e luminárias](/assets/images/projetos-junto-ao-estilista-andre-lima-07.jpg)
+*Criação de desenhos exclusivos para móveis e luminárias*
+
+![Linha de tapetes - Parceria Firma Casa](/assets/images/projetos-junto-ao-estilista-andre-lima-08.jpg)
+*Desenvolvimento da linha de tapetes com desenhos exclusivos*
+
+![Lançamento oficial - Coleção 2009](/assets/images/projetos-junto-ao-estilista-andre-lima-09.jpg)
+*Lançamento oficial da coleção desenvolvida em parceria com a Firma Casa*
+
+### Impacto e Aprendizado
+
+Esta experiência no ateliê do estilista André Lima foi fundamental para meu desenvolvimento profissional, proporcionando:
+
+- **Experiência prática** em grandes eventos de moda
+- **Conhecimento técnico** em produção de acessórios
+- **Visão estratégica** sobre parcerias comerciais
+- **Habilidades de gestão** em projetos multidisciplinares
+
+A parceria com a Firma Casa representou um marco importante, unindo design de moda com design de interiores, criando uma linha inovadora que foi bem recebida pelo mercado em 2009.
+
+**Créditos das fotos:** Charles Naseh/Divulgação
 
 ---
 
