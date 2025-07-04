@@ -14,19 +14,19 @@ Abaixo estão alguns destaques da playlist com assuntos relacionados ao mundo da
 
 ### Lançamento "Território da Moda" e Palestra "Do Global ao Local"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Território da Moda 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KcCGJw8hOuc" title="Território da Moda 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Lançamento do Livro "Entre Palavras, Desenhos e Modas" no Colóquio de Moda 2020
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Lançamento do livro no Colóquio de Moda" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S1LLhXdFUgw" title="Lançamento do livro no Colóquio de Moda" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Palestra sobre a Biblioteca João Affonso no Encontro dos GTs do Colóquio de Moda
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Biblioteca João Affonso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D0tXjpnU9KI" title="Biblioteca João Affonso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Especial "O Pará e a Moda"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="O Pará e a Moda" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4lJhXhXoHjc" title="O Pará e a Moda" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Moda a Par - Como Olhar as Tendências para Captar Soluções para o Futuro
 
@@ -38,21 +38,31 @@ Abaixo estão alguns destaques da playlist com assuntos relacionados ao mundo da
 
 ### 1º Fashion Revolution Belém no Espaço da Marca Da Tribu
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KiPYWRXxrNQ" title="Fashion Revolution Belém" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Conversa sobre sustentabilidade na moda e o movimento Fashion Revolution em Belém.
 
 ### Conversa sobre as Roupas e as Tradições no Círio de Nazaré
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OE2hNhqBsGg" title="Círio de Nazaré - Tradições" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Análise das vestimentas tradicionais durante a maior festa religiosa da Amazônia.
 
 ### A Chita: Tecido com História e Aplicações na Cultura Popular
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L3v93OOvN0U" title="A Chita - Cultura Popular" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Documentário sobre a importância da chita na cultura brasileira e amazônica.
 
 ### Programa Close Certo - Rasteiras
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0yTdyVCPQ8M" title="Close Certo - Rasteiras" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Participação em programa de TV falando sobre calçados e moda regional.
 
 ### Mercado do Consultor de Moda e a Formação Acadêmica em Moda
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eKZvJVHnWQg" title="Mercado do Consultor de Moda" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Palestra sobre o mercado de trabalho e formação profissional na área de moda.
 
@@ -62,19 +72,19 @@ Palestra sobre o mercado de trabalho e formação profissional na área de moda.
 
 ### Meus Envios
 
-[![Canal YouTube Fernando Hage](https://img.youtube.com/vi/CHANNEL_ID/maxresdefault.jpg)](https://www.youtube.com/user/fernandohage/videos)
+[![Canal YouTube Fernando Hage](https://img.youtube.com/vi/QXLLUr0jIII/maxresdefault.jpg)](https://www.youtube.com/user/fernandohage/videos)
 
 [Acesse todos os vídeos do canal](https://www.youtube.com/user/fernandohage/videos)
 
 ### "Eu no YouTube"
 
-[![Playlist Eu no YouTube](https://img.youtube.com/vi/PLAYLIST_ID/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLfepRFP0lt1ugQzAw0EiBD5Q88yGmHpna)
+[![Playlist Eu no YouTube](https://img.youtube.com/vi/QXLLUr0jIII/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLfepRFP0lt1ugQzAw0EiBD5Q88yGmHpna)
 
 [Acesse a playlist "Eu no YouTube"](https://www.youtube.com/playlist?list=PLfepRFP0lt1ugQzAw0EiBD5Q88yGmHpna)
 
 ### Caixa de Criadores
 
-[![Playlist Caixa de Criadores](https://img.youtube.com/vi/PLAYLIST_ID/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLfepRFP0lt1sVrAbZjqjf7O6muBQ6HqEG)
+[![Playlist Caixa de Criadores](https://img.youtube.com/vi/QXLLUr0jIII/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLfepRFP0lt1sVrAbZjqjf7O6muBQ6HqEG)
 
 [Acesse a playlist Caixa de Criadores](https://www.youtube.com/playlist?list=PLfepRFP0lt1sVrAbZjqjf7O6muBQ6HqEG)
 
@@ -131,4 +141,4 @@ Palestra sobre o mercado de trabalho e formação profissional na área de moda.
 - Encontro das Universidades - Denim City
 - UMI Digital - Unifor
 
-[Veja mais na seção Podcasts](podcasts.html)
+[Veja mais na seção Podcasts](/podcasts/)
