@@ -8,7 +8,7 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/caixa-de-criadores-verao-2011.html
 ---
 
-# Caixa de Criadores - Verão 2011
+Concepção e organização geral do evento junto com os produtores Diogo Carneiro e Junior Oliveira. Desfile de 16 marcas para 1.000 convidados realizado no dia 29 de junho na Estação das Docas. Na ocasião, foi lançado o Mapa da Moda Paraense e o selo Nossa Moda. Material de Comunicação: Avisi / Fotos: Rogério Uchôa.
 
 ## Galeria de Imagens
 
@@ -27,8 +27,6 @@ original_file: fernandohage.weebly.com/Migrated/caixa-de-criadores-verao-2011.ht
 ![Caixa de Criadores - Verão 2011](/assets/images/caixa-de-criadores-verao-2011-07.jpg)
 
 ![Caixa de Criadores - Verão 2011](/assets/images/caixa-de-criadores-verao-2011-08.jpg)
-
-Concepção e organização geral do evento junto com os produtores Diogo Carneiro e Junior Oliveira. Desfile de 16 marcas para 1.000 convidados realizado no dia 29 de junho na Estação das Docas. Na ocasião, foi lançado o Mapa da Moda Paraense e o selo Nossa Moda. Material de Comunicação: Avisi / Fotos: Rogério Uchôa.
 
 ---
 
