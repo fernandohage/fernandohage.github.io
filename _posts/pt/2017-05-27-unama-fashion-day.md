@@ -8,7 +8,56 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/unama-fashion-day.html
 ---
 
-# Unama Fashion Day
+## Coordenação e Produção
+
+Coordenei a produção do evento junto aos alunos da disciplina **Produção de Moda** do curso de **Bacharelado em Moda da UNAMA**. O projeto foi planejado ao longo do semestre com o objetivo de realizar, em um único dia, os dois eventos mais importantes do curso de Moda.
+
+## Estrutura do Evento
+
+O **Unama Fashion Day** reuniu duas atividades complementares que destacam diferentes aspectos da formação em moda:
+
+### Café com Moda - Mesa-redonda "A Imagem da Moda"
+
+Mesa-redonda com tema **"A Imagem da Moda"**, reunindo profissionais renomados:
+
+- **Diogo Carneiro** - Produtor de moda
+- **Layse Sinatra** - Influenciadora digital
+- **Laura Navarrete** - Jornalista de moda (El Salvador)
+
+### Desfile Mostra Moda
+
+Apresentação dos looks dos alunos concluintes do curso que obtiveram **notas excelentes**. O desfile teve como destaque especial a abertura com a coleção **"Diabolus"**, que havia desfilado em 2016 no **Concurso dos Novos - Dragão Fashion Brasil**, mas ainda não havia sido apresentada em Belém.
+
+## Organização Estudantil
+
+Os alunos foram divididos em equipes de produção de evento, trabalhando em diferentes setores especializados:
+
+### Equipes de Produção
+
+- **Comunicação**: Divulgação e assessoria de imprensa
+- **Coffee-break**: Organização do espaço gastronômico e networking
+- **Cenografia**: Criação e montagem do ambiente visual do evento
+- **Organização de Backstage**: Coordenação dos bastidores e logística dos desfiles
+- **Cabelo e Maquiagem**: Produção de beleza dos modelos
+
+## Objetivos Pedagógicos
+
+O evento teve múltiplos objetivos educacionais:
+
+- **Experiência prática** em produção de eventos de moda
+- **Networking profissional** com especialistas da área
+- **Valorização** dos trabalhos acadêmicos de excelência
+- **Integração** entre teoria e prática na formação
+- **Desenvolvimento** de competências organizacionais
+
+## Importância Acadêmica
+
+O Unama Fashion Day representa um marco na formação dos estudantes, proporcionando:
+
+- **Aplicação prática** dos conhecimentos teóricos
+- **Contato direto** com profissionais do mercado
+- **Experiência** em gestão de eventos
+- **Reconhecimento** da produção acadêmica de qualidade
 
 ## Galeria de Imagens
 
@@ -42,7 +91,9 @@ original_file: fernandohage.weebly.com/Migrated/unama-fashion-day.html
 
 ![Unama Fashion Day](/assets/images/unama-fashion-day-15.jpg)
 
-Coordenação da produção do evento junto aos alunos da disciplina Produção de Moda do curso de Bacharelado em Moda da Unama. Foram planejados ao longo do semestre a realização em um único dia dos dois eventos mais importantes do curso de Moda: o  Café com Moda, mesa-redonda nesta edição com o tema "A Imagem da Moda" e formada pelos profissionais de moda Diogo Carneiro (produtor), Layse Sinatra (influenciadora digital), Laura Navarrete (jornalista de moda - El Salvador); e o desfile Mostra Moda, com a apresentação dos looks dos alunos concluintes do curso que obtiveram notas excelentes, tendo como abertura a coleção Diabolus, que desfilou em 2016 no Concurso dos Novos - Dragão Fashion Brasil, e ainda não havia desfilado em Belém.Os alunos foram divididos em equipes produção de evento trabalhando em setores como: comunicação, coffe-break, cenografia, organização de backstage e cabelo e maquiagem.Fotos: Ana Paula Henrique
+## Créditos
+
+**Fotos:** Ana Paula Henrique
 
 ---
 
