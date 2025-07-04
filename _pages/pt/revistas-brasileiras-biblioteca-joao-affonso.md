@@ -22,7 +22,7 @@ O acervo possui 568 edições.
 
 ## Illustração Brasileira [1901-1958]
 
-![Capa da revista Illustração Brasileira](/assets/images/revistasbrasileiras-biblioteca-joao-affonso-01.jpg)
+![Capa da revista Illustração Brasileira](/assets/images/revistas-brasileiras-biblioteca-joao-affonso-01.jpg)
 
 João Affonso especificou o ano de 1914.  
 O acervo possui 514 edições (estimado).
@@ -74,7 +74,7 @@ Este projeto faz parte do lançamento do meu livro "Entre palavras, desenhos, co
 
 ## Três Séculos de Modas
 
-![Capa do livro Três Séculos de Modas](/assets/images/revistasbrasileiras-biblioteca-joao-affonso-02.jpg)
+![Capa do livro Três Séculos de Modas](/assets/images/revistas-brasileiras-biblioteca-joao-affonso-02.jpg)
 
 [Acesse o livro](tresseculosdemodas.html)
 

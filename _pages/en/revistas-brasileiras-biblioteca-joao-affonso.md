@@ -23,7 +23,7 @@ The collection has 568 issues.
 ## Illustração Brasileira [1901-1958]
 
 
-![Cover of the magazine Illustração Brasileira](/assets/images/revistasbrasileiras-biblioteca-joao-affonso-01.jpg)
+![Cover of the magazine Illustração Brasileira](/assets/images/revistas-brasileiras-biblioteca-joao-affonso-01.jpg)
 
 
 João Affonso specified the year 1914.  
@@ -77,7 +77,7 @@ This project is part of the launch of my book "Entre palavras, desenhos, costume
 ## Três Séculos de Modas
 
 
-![Cover of the book Três Séculos de Modas](/assets/images/revistasbrasileiras-biblioteca-joao-affonso-02.jpg)
+![Cover of the book Três Séculos de Modas](/assets/images/revistas-brasileiras-biblioteca-joao-affonso-02.jpg)
 
 
 [Access the book](tresseculosdemodas.html)

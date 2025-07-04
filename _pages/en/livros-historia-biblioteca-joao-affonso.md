@@ -15,7 +15,7 @@ original_file: fernandohage.weebly.com/livroshistoria.html
 A memoir by the 18th-century French painter, renowned for her portraits of Marie Antoinette, as well as other members of the European court, considered an expressive artist in the Rococo and Neoclassical styles. Originally published in 1835.
 
 
-![Cover of the book Souvenirs de Madame Vigée Le Brun](/assets/images/livroshistoria-biblioteca-joao-affonso-01.png)
+![Cover of the book Souvenirs de Madame Vigée Le Brun](/assets/images/livros-historia-biblioteca-joao-affonso-01.png)
 
 
 [Access the Book (French)](https://archive.org/details/souvenirsdemada00viggoog/)  
@@ -30,7 +30,7 @@ A memoir by the 18th-century French painter, renowned for her portraits of Marie
 A memoir written during the period of Napoleon III's rise to power and the establishment of the imperial residence at the Tuileries Palace. Amélie Carette was a lady-in-waiting and reader to the Empress between 1864-1866.
 
 
-![Cover of the book Souvenirs Intimes de la Cour de Tuileries](/assets/images/livroshistoria-biblioteca-joao-affonso-02.png)
+![Cover of the book Souvenirs Intimes de la Cour de Tuileries](/assets/images/livros-historia-biblioteca-joao-affonso-02.png)
 
 
 [Access the Book (French)](https://archive.org/details/souvenirsintimes00care/)  
@@ -45,7 +45,7 @@ A memoir written during the period of Napoleon III's rise to power and the estab
 A biographical book about women and their philosophies along four lines (Fontenelle, Voltaire, Rousseau, and Sanson), portraying eighteenth-century society.
 
 
-![Cover of the book Les Femmes Philosophes](/assets/images/livroshistoria-biblioteca-joao-affonso-03.png)
+![Cover of the book Les Femmes Philosophes](/assets/images/livros-historia-biblioteca-joao-affonso-03.png)
 
 
 [Access the Book](https://archive.org/details/lesfemmesphiloso00lesc/)
@@ -59,7 +59,7 @@ A biographical book about women and their philosophies along four lines (Fontene
 A book by the French historian and librarian that discusses the connection between Queen Marie Antoinette's death and the affair of the diamond necklace, based on documents from the period. It features 8 internal engravings.
 
 
-![Cover of the book La Mort de la Reine](/assets/images/livroshistoria-biblioteca-joao-affonso-04.png)
+![Cover of the book La Mort de la Reine](/assets/images/livros-historia-biblioteca-joao-affonso-04.png)
 
 
 [Access the Book (French)](https://archive.org/details/lamortdelareine00bggoog/)  
@@ -74,7 +74,7 @@ A book by the French historian and librarian that discusses the connection betwe
 A book that covers the indictments by prosecutor Antoine Quentin Fouquier de Tinville during the French Revolution, based on the original documents, the accuser's memoirs, and introductory texts, notes, and commentary by the author.
 
 
-![Cover of the book Réquisitoires de Fouquier-Tinville](/assets/images/livroshistoria-biblioteca-joao-affonso-05.png)
+![Cover of the book Réquisitoires de Fouquier-Tinville](/assets/images/livros-historia-biblioteca-joao-affonso-05.png)
 
 
 [Access the Book](https://archive.org/details/requisitoiresdef00fouq)
@@ -107,7 +107,7 @@ This project is part of the launch of my book "Entre palavras, desenhos, costume
 ## Três Séculos de Modas
 
 
-![Cover of the book Três Séculos de Modas](/assets/images/livroshistoria-biblioteca-joao-affonso-06.jpg)
+![Cover of the book Três Séculos de Modas](/assets/images/livros-historia-biblioteca-joao-affonso-06.jpg)
 
 
 [Access the book](tresseculosdemodas.html)

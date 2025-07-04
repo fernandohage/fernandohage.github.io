@@ -14,7 +14,7 @@ original_file: fernandohage.weebly.com/livroshistoria.html
 
 Livro de memórias da pintora francesa do século XVIII de reconhecida fama por retratar Maria Antonieta, assim como outros membros da corte europeia, considerada expressiva nos estilos rococó e neoclássico. Publicado originalmente em 1835.
 
-![Capa do livro Souvenirs de Madame Vigée Le Brun](/assets/images/livroshistoria-biblioteca-joao-affonso-01.png)
+![Capa do livro Souvenirs de Madame Vigée Le Brun](/assets/images/livros-historia-biblioteca-joao-affonso-01.png)
 
 [Acesse o Livro (Francês)](https://archive.org/details/souvenirsdemada00viggoog/)  
 [Acesse o Livro (Inglês)](https://archive.org/details/souvenirsmadame00tylegoog/)
@@ -27,7 +27,7 @@ Livro de memórias da pintora francesa do século XVIII de reconhecida fama por 
 
 Livro de memórias escrito durante o período da ascensão de Napoleão III e a instalação da residência imperial no Palácio de Tulherias. Amélie Carette era dama de companhia e leitora da Imperatriz entre 1864-1866.
 
-![Capa do livro Souvenirs Intimes de la Cour de Tuileries](/assets/images/livroshistoria-biblioteca-joao-affonso-02.png)
+![Capa do livro Souvenirs Intimes de la Cour de Tuileries](/assets/images/livros-historia-biblioteca-joao-affonso-02.png)
 
 [Acesse o Livro (Francês)](https://archive.org/details/souvenirsintimes00care/)  
 [Acesse o Livro (Inglês)](https://archive.org/details/recollectionsofc01care/)
@@ -40,7 +40,7 @@ Livro de memórias escrito durante o período da ascensão de Napoleão III e a 
 
 Livro biográfico sobre mulheres e suas filosofias dentro de quatro linhas (Fontenelle, Voltaire, Rousseau e Sanson) retratando a sociedade do século dezoito.
 
-![Capa do livro Les Femmes Philosophes](/assets/images/livroshistoria-biblioteca-joao-affonso-03.png)
+![Capa do livro Les Femmes Philosophes](/assets/images/livros-historia-biblioteca-joao-affonso-03.png)
 
 [Acesse o Livro](https://archive.org/details/lesfemmesphiloso00lesc/)
 
@@ -52,7 +52,7 @@ Livro biográfico sobre mulheres e suas filosofias dentro de quatro linhas (Font
 
 Livro do historiador e bibliotecário francês que aborda a relação da morte da rainha Maria Antonieta com o caso relacionado a um colar, a partir de documentos da época. São apresentadas 8 gravuras internas.
 
-![Capa do livro La Mort de la Reine](/assets/images/livroshistoria-biblioteca-joao-affonso-04.png)
+![Capa do livro La Mort de la Reine](/assets/images/livros-historia-biblioteca-joao-affonso-04.png)
 
 [Acesse o Livro (Francês)](https://archive.org/details/lamortdelareine00bggoog/)  
 [Acesse o Livro (Inglês)](https://archive.org/details/cagliostrocompan00funcrich/)
@@ -65,7 +65,7 @@ Livro do historiador e bibliotecário francês que aborda a relação da morte d
 
 Livro que aborda as acusações do promotor Antoine Quentin Fouquier de Tinville durante o período da Revolução Francesa, de acordo com os originais, memórias do acusador e textos do autor de introdução, notas e comentários.
 
-![Capa do livro Réquisitoires de Fouquier-Tinville](/assets/images/livroshistoria-biblioteca-joao-affonso-05.png)
+![Capa do livro Réquisitoires de Fouquier-Tinville](/assets/images/livros-historia-biblioteca-joao-affonso-05.png)
 
 [Acesse o Livro](https://archive.org/details/requisitoiresdef00fouq)
 
@@ -96,7 +96,7 @@ Este projeto faz parte do lançamento do meu livro "Entre palavras, desenhos, co
 
 ## Três Séculos de Modas
 
-![Capa do livro Três Séculos de Modas](/assets/images/livroshistoria-biblioteca-joao-affonso-06.jpg)
+![Capa do livro Três Séculos de Modas](/assets/images/livros-historia-biblioteca-joao-affonso-06.jpg)
 
 [Acesse o livro](tresseculosdemodas.html)
 

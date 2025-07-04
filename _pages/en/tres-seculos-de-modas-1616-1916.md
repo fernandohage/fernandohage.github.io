@@ -6,7 +6,7 @@ lang: en
 original_file: fernandohage.weebly.com/tresseculosdemodas.html
 ---
 
-![Book cover of Três Séculos de Modas](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-01.jpg)
+![Book cover of Três Séculos de Modas](/assets/images/tres-seculos-de-modas-1616-1916-01.jpg)
 
 Published in 1923 in the city of Belém (PA) by João Affonso do Nascimento (1855-1924), it is considered a pioneering book on the history of fashion in the country. It was conceived as a commemoration of the tricentenary of the founding of the city of Belém, and before becoming a book, its drawings and texts were exhibited as an artistic exhibition in 1917.
 
@@ -24,117 +24,117 @@ On this page you will find a complete gallery with all the illustrations of the 
 
 Also get to know the [João Affonso Library](biblioteca-joao-affonso.html), which presents works that make up the book's bibliography.
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-02.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-02.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-03.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-03.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-04.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-04.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-05.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-05.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-06.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-06.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-07.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-07.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-08.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-08.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-09.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-09.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-10.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-10.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-11.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-11.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-12.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-12.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-13.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-13.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-14.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-14.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-15.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-15.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-16.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-16.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-17.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-17.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-18.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-18.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-19.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-19.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-20.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-20.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-21.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-21.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-22.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-22.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-23.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-23.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-24.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-24.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-25.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-25.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-26.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-26.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-27.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-27.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-28.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-28.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-29.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-29.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-30.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-30.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-31.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-31.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-32.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-32.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-33.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-33.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-34.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-34.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-35.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-35.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-36.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-36.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-37.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-37.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-38.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-38.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-39.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-39.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-40.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-40.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-41.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-41.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-42.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-42.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-43.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-43.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-44.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-44.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-45.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-45.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-46.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-46.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-47.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-47.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-48.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-48.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-49.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-49.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-50.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-50.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-51.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-51.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-52.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-52.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-53.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-53.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-54.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-54.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-55.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-55.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-56.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-56.jpg)
 
-![](/assets/images/tresseculosdemodas-tres-seculos-de-modas-1616-1916-57.jpg)
+![](/assets/images/tres-seculos-de-modas-1616-1916-57.jpg)
 
 Source: Acervo Biblioteca Brasiliana Guita e José Mindlin/USP.
 

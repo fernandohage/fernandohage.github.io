@@ -27,7 +27,7 @@ Antologia poética do autor com origem em São Paulo, que pertence à segunda ge
 
 Livro extenso sobre a história do país, dividido em capítulos que abordam o descobrimento, organização e lutas históricas, formação do Brasil, definição territorial do país, e aspectos políticos.
 
-![Capa do livro Histórias do Brasil](/assets/images/livrosbrasileirosja-biblioteca-joao-affonso-01.png)
+![Capa do livro Histórias do Brasil](/assets/images/livros-brasileiros-biblioteca-joao-affonso-01.png)
 
 [Acesso (Archive.org)](https://archive.org/details/historiadobrasil00ribeuoft/)
 
@@ -39,7 +39,7 @@ Livro extenso sobre a história do país, dividido em capítulos que abordam o d
 
 Trata-se de um conjunto de "estudos de documentos para a execução da grande tela pintada pelo autor e encomendada pelo benemérito intendente municipal de Belém [...]". Para a tela, foram necessários estudos sobre o traje dos exploradores de 1600 e são citados livros de moda. Este quadro é descrito logo ao início do percurso de "Três Séculos de Modas".
 
-![Capa do livro A Fundação da Cidade de Nossa Senhora de Belém do Pará](/assets/images/livrosbrasileirosja-biblioteca-joao-affonso-02.png)
+![Capa do livro A Fundação da Cidade de Nossa Senhora de Belém do Pará](/assets/images/livros-brasileiros-biblioteca-joao-affonso-02.png)
 
 [Acesso (FCP Pará)](http://www.fcp.pa.gov.br/obrasraras/publicacao/a-fundacao-da-cidade-de-nossa-senhora-de-belem-do-para/)  
 [Acesso (Google Livros)](https://books.google.com.br/books?id=JQsOAQAAMAAJ&dq=inauthor%3A%22Theodoro%20Braga%22&hl=pt-BR&source=gbs_similarbooks)
@@ -73,7 +73,7 @@ Este projeto faz parte do lançamento do meu livro "Entre palavras, desenhos, co
 
 ## Três Séculos de Modas
 
-![Capa do livro Três Séculos de Modas](/assets/images/livrosbrasileirosja-biblioteca-joao-affonso-03.jpg)
+![Capa do livro Três Séculos de Modas](/assets/images/livros-brasileiros-biblioteca-joao-affonso-03.jpg)
 
 [Acesse o livro](tresseculosdemodas.html)
 

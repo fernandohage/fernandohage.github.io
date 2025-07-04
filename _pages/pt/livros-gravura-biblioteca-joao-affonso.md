@@ -14,7 +14,7 @@ original_file: fernandohage.weebly.com/livrosgravura.html
 
 Com o tema "falsidade das mulheres em matéria de sentimento", essa obra contém um conjunto de caricaturas criadas por Gavarni, e faz parte de uma seleção de obras em quatro livros com diversos temas. Neste livro também estão os temas "clichê" e "Paris à noite".
 
-![Capa do livro Œuvres Choisies de Gavarni](/assets/images/livrosgravura-biblioteca-joao-affonso-01.png)
+![Capa do livro Œuvres Choisies de Gavarni](/assets/images/livros-gravura-biblioteca-joao-affonso-01.png)
 
 [Acesse o Livro (Francês)](https://archive.org/details/oeuvreschoisiesd02gava_0/page/n9/mode/2up)
 
@@ -26,7 +26,7 @@ Com o tema "falsidade das mulheres em matéria de sentimento", essa obra contém
 
 Romance do escritor francês, que se passa no século dezessete, aborda a história do barão de Sigognac durante o reinado de Luís XIII da França (1610-1643). O livro possui ilustrações de Gustave Doré.
 
-![Capa do livro Le Capitaine Fracasse](/assets/images/livrosgravura-biblioteca-joao-affonso-02.png)
+![Capa do livro Le Capitaine Fracasse](/assets/images/livros-gravura-biblioteca-joao-affonso-02.png)
 
 [Acesse o Livro](https://archive.org/details/lecapitainefraca00gaut/page/n7/mode/2up)
 
@@ -38,7 +38,7 @@ Romance do escritor francês, que se passa no século dezessete, aborda a histó
 
 Livro do cientista e escritor francês que aborda inovações científicas como fotografia, estereoscópio, pólvora, artilharia antiga e moderna, armas portáteis, drenagem, estruturas navais e piscicultura. O livro possui ilustrações em todas as seções.
 
-![Capa do livro Les Merveilles de la Science](/assets/images/livrosgravura-biblioteca-joao-affonso-03.png)
+![Capa do livro Les Merveilles de la Science](/assets/images/livros-gravura-biblioteca-joao-affonso-03.png)
 
 [Acesse o Livro](https://archive.org/details/bub_gb_gjjS7klqLPUC/)
 
@@ -50,7 +50,7 @@ Livro do cientista e escritor francês que aborda inovações científicas como 
 
 Novela do escritor francês com nome original de "Histoire du Chevalier des Grieux et de Manon Lescaut", publicada em Amsterdã em 1731, que se tornará ópera em quatro atos de Giacomo Puccini. Esta edição possui ilustrações de Conconi, Marold e Rossi.
 
-![Capa do livro Manon Lescaut](/assets/images/livrosgravura-biblioteca-joao-affonso-04.png)
+![Capa do livro Manon Lescaut](/assets/images/livros-gravura-biblioteca-joao-affonso-04.png)
 
 [Acesse o Livro](https://archive.org/details/manonlescautparl00pruoft/)
 
@@ -72,7 +72,7 @@ Obra ricamente ilustrada que apresenta 21 capitais do mundo, começando por Pari
 
 Conjunto de obras completas do escritor realista francês. Com um total de 6 volumes, ele possui revisão textual de Marcel Bouteron e Henri Longnon e ilustrações de Charles Huard.
 
-![Capa das Œuvres Complètes de Honoré de Balzac](/assets/images/livrosgravura-biblioteca-joao-affonso-05.png)
+![Capa das Œuvres Complètes de Honoré de Balzac](/assets/images/livros-gravura-biblioteca-joao-affonso-05.png)
 
 [Volume 1](https://archive.org/details/oeuvrescomplt01balz/) | [Volume 2](https://archive.org/details/oeuvrescompl02balz) | [Volume 3](https://archive.org/details/oeuvrescomplt03balz) | [Volume 4](https://archive.org/details/oeuvrescomplt04balz/) | [Volume 5](https://archive.org/details/oeuvrescomplt05balz) | [Volume 6](https://archive.org/details/oeuvrescomplt06balz)
 
@@ -84,7 +84,7 @@ Conjunto de obras completas do escritor realista francês. Com um total de 6 vol
 
 Intitulado "dicionário universal enciclopédico", esta obra possui oito volumes, sendo sete tomos e um suplemento, todos ilustrados.
 
-![Capa do Nouveau Larousse Illustré](/assets/images/livrosgravura-biblioteca-joao-affonso-06.png)
+![Capa do Nouveau Larousse Illustré](/assets/images/livros-gravura-biblioteca-joao-affonso-06.png)
 
 [Volume 1](https://archive.org/details/nouveaularoussei01laro/) | [Volume 2](https://archive.org/details/nouveaularoussei02laro/) | [Volume 3](https://archive.org/details/nouveaularoussei03laro/) | [Volume 4](https://archive.org/details/nouveaularoussei04laro) | [Volume 5](https://archive.org/details/nouveaularoussei05laro/) | [Volume 6](https://archive.org/details/nouveaularoussei06laro/) | [Volume 7](https://archive.org/details/nouveaularoussei07laro/) | [Suplemento](https://archive.org/details/nouveaularoussei00laro/)
 
@@ -117,7 +117,7 @@ Este projeto faz parte do lançamento do meu livro "Entre palavras, desenhos, co
 
 ## O Livro "Três Séculos de Modas"
 
-![Capa do livro Três Séculos de Modas](/assets/images/livrosgravura-biblioteca-joao-affonso-07.jpg)
+![Capa do livro Três Séculos de Modas](/assets/images/livros-gravura-biblioteca-joao-affonso-07.jpg)
 
 Escrito em comemoração ao tricentenário de Belém, o livro faz um passeio pelas modas masculinas e femininas de 1616 a 1916, e pode ser considerado o primeiro livro de história da moda brasileiro.
 

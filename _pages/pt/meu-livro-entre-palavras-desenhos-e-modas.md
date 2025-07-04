@@ -8,7 +8,7 @@ original_file: fernandohage.weebly.com/meulivro.html
 
 O livro _Entre palavras, desenhos e modas: um percurso com João Affonso_ (Appris Editora, 2020) lança um olhar sobre a obra e a trajetória de João Affonso do Nascimento (1855-1924), autor do livro _Três séculos de modas_, publicado em 1923, em Belém, e com expressiva atuação na imprensa e crítica de arte como desenhista e cronista nas cidades de São Luís, Belém e Manaus entre os anos de 1872 e 1917.
 
-![Capa do livro Entre Palavras, Desenhos e Modas](/assets/images/meulivro-entre-palavrasdesenhos-e-modas-01.jpg)
+![Capa do livro Entre Palavras, Desenhos e Modas](/assets/images/meu-livro-entre-palavras-desenhos-e-modas-01.jpg)
 
 Nele você poderá encontrar um passeio pelos caminhos de uma figura que iniciou sua carreira ao lado dos expoentes irmãos Arthur e Aluísio Azevedo, no circuito dos jovens maranhenses, que participou do movimento cultural efervescente da Belle Époque na Amazônia e Paris, e deixou como legado o primeiro livro de história da moda escrito por um brasileiro de que se tem notícia, que também foi apresentado como exposição artística em Belém, estimulada pelo pintor Theodoro Braga.
 

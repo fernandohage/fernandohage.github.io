@@ -15,7 +15,7 @@ original_file: fernandohage.weebly.com/livrosmoda.html
 A richly illustrated book that addresses formal aspects and elements such as color in the field of hair, accessories, and clothing. The book also has an English version.
 
 
-![Book cover of L'Art dans la Parure et dans le Vêtement](/assets/images/livrosmoda-biblioteca-joao-affonso-01.png)
+![Book cover of L'Art dans la Parure et dans le Vêtement](/assets/images/livros-moda-biblioteca-joao-affonso-01.png)
 
 
 [Access the Book (French)](https://archive.org/details/LArtDansLaParureEtDansLeVetement/)  
@@ -30,7 +30,7 @@ A richly illustrated book that addresses formal aspects and elements such as col
 A work considered part of the movement to redefine the history of clothing, influenced by Jules Quicherat. It proposes a journey from ancient peoples and uses many different sources such as paintings, sculptures, and engravings in its composition.
 
 
-![Book cover of Le Costume en France](/assets/images/livrosmoda-biblioteca-joao-affonso-02.png)
+![Book cover of Le Costume en France](/assets/images/livros-moda-biblioteca-joao-affonso-02.png)
 
 
 [Access the Book](https://archive.org/details/lecostumeenfranc00renauoft)
@@ -44,7 +44,7 @@ A work considered part of the movement to redefine the history of clothing, infl
 The publication is a compilation of 400 full-color illustrations demonstrating fashion between 1794-1894 through original engravings from each era compiled by the editors in this extremely rich material.
 
 
-![Book cover of Un Siècle de Modes Féminines](/assets/images/livrosmoda-biblioteca-joao-affonso-03.png)
+![Book cover of Un Siècle de Modes Féminines](/assets/images/livros-moda-biblioteca-joao-affonso-03.png)
 
 
 [Access the Book](https://archive.org/details/BookUnSiecleDeModesFeminines/)
@@ -58,7 +58,7 @@ The publication is a compilation of 400 full-color illustrations demonstrating f
 With the theme of presenting styles, which is part of a series of books, this work addresses the Louis XIV style in architecture, decoration, furniture, and clothing, among others, with engravings and photographic reproductions.
 
 
-![Book cover of L'Art de Reconnaître les Styles - Le Style Louis XIV](/assets/images/livrosmoda-biblioteca-joao-affonso-04.png)
+![Book cover of L'Art de Reconnaître les Styles - Le Style Louis XIV](/assets/images/livros-moda-biblioteca-joao-affonso-04.png)
 
 
 [Access the Book](https://archive.org/details/lartreconnaitre00baya/)
@@ -72,7 +72,7 @@ With the theme of presenting styles, which is part of a series of books, this wo
 Considered the first book to address Cubism as an artistic style. The work has several versions that contained engravings by important artists and are now considered collector's items. This edition features the reproduction of 13 paintings and 4 sculptures, with artists such as Juan Gris, Pablo Picasso, and the authors themselves.
 
 
-![Book cover of Du Cubisme et des Moyens de le Comprendre](/assets/images/livrosmoda-biblioteca-joao-affonso-05.png)
+![Book cover of Du Cubisme et des Moyens de le Comprendre](/assets/images/livros-moda-biblioteca-joao-affonso-05.png)
 
 
 [Access the Book](https://archive.org/details/ducubismeetdesmo00glei/)
@@ -107,7 +107,7 @@ This project is part of the launch of my book "Entre palavras, desenhos, costume
 ## The Book "Três Séculos de Modas"
 
 
-![Book cover of Três Séculos de Modas](/assets/images/livrosmoda-biblioteca-joao-affonso-06.jpg)
+![Book cover of Três Séculos de Modas](/assets/images/livros-moda-biblioteca-joao-affonso-06.jpg)
 
 
 Written in celebration of the tercentenary of Belém, the book takes a tour through men's and women's fashions from 1616 to 1916, and can be considered the first Brazilian book on the history of fashion.

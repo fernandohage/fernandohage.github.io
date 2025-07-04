@@ -16,7 +16,7 @@ Essas obras versam sobre aspectos da história e sociedade francesa com destaque
 
 **Edmond e Jules de Goncourt**
 
-![Capa do livro La Femme au Dix-Huitième-Siècle](/assets/images/livosgouncourt-biblioteca-joao-affonso-01.png)
+![Capa do livro La Femme au Dix-Huitième-Siècle](/assets/images/livros-goncourt-biblioteca-joao-affonso-01.png)
 
 [ACESSE O LIVRO](https://archive.org/details/lafemmeaudixhui00gonc/)
 
@@ -26,7 +26,7 @@ Essas obras versam sobre aspectos da história e sociedade francesa com destaque
 
 **Edmond e Jules de Goncourt**
 
-![Capa do livro Histoire de Marie-Antoinette](/assets/images/livosgouncourt-biblioteca-joao-affonso-02.png)
+![Capa do livro Histoire de Marie-Antoinette](/assets/images/livros-goncourt-biblioteca-joao-affonso-02.png)
 
 [ACESSE O LIVRO](https://archive.org/details/eetjdegoncourth00goncgoog)
 
@@ -36,7 +36,7 @@ Essas obras versam sobre aspectos da história e sociedade francesa com destaque
 
 **Edmond e Jules de Goncourt**
 
-![Capa do livro Madame de Pompadour](/assets/images/livosgouncourt-biblioteca-joao-affonso-03.png)
+![Capa do livro Madame de Pompadour](/assets/images/livros-goncourt-biblioteca-joao-affonso-03.png)
 
 [ACESSE O LIVRO](https://archive.org/details/madamedepompadou00gonc/)
 
@@ -46,7 +46,7 @@ Essas obras versam sobre aspectos da história e sociedade francesa com destaque
 
 **Edmond e Jules de Goncourt**
 
-![Capa do livro Histoire de la Société Française Pendant la Révolution](/assets/images/livosgouncourt-biblioteca-joao-affonso-04.png)
+![Capa do livro Histoire de la Société Française Pendant la Révolution](/assets/images/livros-goncourt-biblioteca-joao-affonso-04.png)
 
 [ACESSE O LIVRO](https://archive.org/details/lasocietefrancais00gonc/)
 
@@ -56,7 +56,7 @@ Essas obras versam sobre aspectos da história e sociedade francesa com destaque
 
 **Edmond de Goncourt**
 
-![Capa do livro La Maison d'un Artiste au XIXe Siècle](/assets/images/livosgouncourt-biblioteca-joao-affonso-05.png)
+![Capa do livro La Maison d'un Artiste au XIXe Siècle](/assets/images/livros-goncourt-biblioteca-joao-affonso-05.png)
 
 [ACESSE O LIVRO - TOMO I](https://archive.org/details/lamaisondunarti01goncgoog/)  
 [ACESSE O LIVRO - TOMO II](https://archive.org/details/lamaisondunarti02goncgoog/)
@@ -67,7 +67,7 @@ Essas obras versam sobre aspectos da história e sociedade francesa com destaque
 
 **Edmond e Jules de Goncourt**
 
-![Capa do livro La Duchesse de Chateauroux et ses Sœurs](/assets/images/livosgouncourt-biblioteca-joao-affonso-06.png)
+![Capa do livro La Duchesse de Chateauroux et ses Sœurs](/assets/images/livros-goncourt-biblioteca-joao-affonso-06.png)
 
 [ACESSE O LIVRO](https://archive.org/details/laduchessedechat00gonc_0)
 
@@ -77,7 +77,7 @@ Essas obras versam sobre aspectos da história e sociedade francesa com destaque
 
 **Edmond e Jules de Goncourt**
 
-![Capa do livro La Du Barry](/assets/images/livosgouncourt-biblioteca-joao-affonso-07.png)
+![Capa do livro La Du Barry](/assets/images/livros-goncourt-biblioteca-joao-affonso-07.png)
 
 [ACESSE O LIVRO](https://archive.org/details/ladubarry00goncuoft/)
 
@@ -87,7 +87,7 @@ Essas obras versam sobre aspectos da história e sociedade francesa com destaque
 
 **Edmond e Jules de Goncourt**
 
-![Capa do livro Portraits Intimes du Dix-Huitième Siècle](/assets/images/livosgouncourt-biblioteca-joao-affonso-08.png)
+![Capa do livro Portraits Intimes du Dix-Huitième Siècle](/assets/images/livros-goncourt-biblioteca-joao-affonso-08.png)
 
 [ACESSE O LIVRO](https://archive.org/details/portraitsintimes00gonc_1/)
 
@@ -119,7 +119,7 @@ Este projeto faz parte do lançamento do meu livro "Entre palavras, desenhos, co
 
 ## Três Séculos de Modas
 
-![Capa do livro Três Séculos de Modas](/assets/images/livosgouncourt-biblioteca-joao-affonso-09.jpg)
+![Capa do livro Três Séculos de Modas](/assets/images/livros-goncourt-biblioteca-joao-affonso-09.jpg)
 
 [Acesse o livro](tresseculosdemodas.html)
 

@@ -14,7 +14,7 @@ original_file: fernandohage.weebly.com/livrosteatro.html
 
 Ópera cômica em três atos com música de Charles Lecocq, apresentada em Bruxelas pela primeira vez em 1872, contando a história de Clairette, uma florista parisiense.
 
-![Capa do livro La Fille de Madame Angot](/assets/images/livrosteatro-biblioteca-joao-affonso-01.png)
+![Capa do livro La Fille de Madame Angot](/assets/images/livros-teatro-biblioteca-joao-affonso-01.png)
 
 [Acesse o Livro (Francês)](https://archive.org/details/lafilledemadamea00leco2/)  
 [Acesse o Livro (Inglês)](https://archive.org/details/lafilledemadamea00leco)
@@ -27,7 +27,7 @@ original_file: fernandohage.weebly.com/livrosteatro.html
 
 Peça de teatro escrita em 1897, baseada na vida de Hector Savinien de Cyrano de Bergerac, escritor francês. Edição ilustrada por Émile Faguet, com estilos de vestuário semelhantes aos apresentados por João Affonso.
 
-![Capa do livro Cyrano de Bergerac](/assets/images/livrosteatro-biblioteca-joao-affonso-02.png)
+![Capa do livro Cyrano de Bergerac](/assets/images/livros-teatro-biblioteca-joao-affonso-02.png)
 
 [Acesse o Livro](https://archive.org/details/oeuvrescomplte02rost/)
 
@@ -39,7 +39,7 @@ Peça de teatro escrita em 1897, baseada na vida de Hector Savinien de Cyrano de
 
 Obra completa do importante dramaturgo francês em edição dividida em 7 volumes. Sua obra satírica é conhecida por retratar os costumes de sua época.
 
-![Capa do Théâtre Complet de Molière](/assets/images/livrosteatro-biblioteca-joao-affonso-03.png)
+![Capa do Théâtre Complet de Molière](/assets/images/livros-teatro-biblioteca-joao-affonso-03.png)
 
 **Volumes disponíveis:**
 
@@ -74,7 +74,7 @@ Este projeto faz parte do lançamento do meu livro "Entre palavras, desenhos, co
 
 ## Três Séculos de Modas
 
-![Capa do livro Três Séculos de Modas](/assets/images/livrosteatro-biblioteca-joao-affonso-04.jpg)
+![Capa do livro Três Séculos de Modas](/assets/images/livros-teatro-biblioteca-joao-affonso-04.jpg)
 
 [Acesse o livro](tresseculosdemodas.html)
 
