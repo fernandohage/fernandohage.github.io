@@ -8,7 +8,7 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/caixa-de-criadores-edicao-10.html
 ---
 
-# Caixa de Criadores - Edição 10
+Concepção e organização da 10ª edição do evento Caixa de Criadores.
 
 ## Galeria de Imagens
 
@@ -35,8 +35,6 @@ original_file: fernandohage.weebly.com/Migrated/caixa-de-criadores-edicao-10.htm
 ![Caixa de Criadores - Edição 10](/assets/images/caixa-de-criadores-edicao-10-11.jpg)
 
 ![Caixa de Criadores - Edição 10](/assets/images/caixa-de-criadores-edicao-10-12.jpg)
-
-Concepção e organização da 10a edição do evento Caixa de Criadores.
 
 ---
 

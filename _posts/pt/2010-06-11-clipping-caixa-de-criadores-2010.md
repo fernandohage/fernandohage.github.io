@@ -8,17 +8,23 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/clipping-caixa-de-criadores-2010.html
 ---
 
-# Clipping - Caixa de Criadores 2010
-
 ## Galeria de Imagens
 
-![Clipping - Caixa de Criadores 2010](/assets/images/clipping-caixa-de-criadores-2010-01.jpg)
+![07 de Dezembro de 2010](/assets/images/clipping-caixa-de-criadores-2010-01.jpg)
+*07 de Dezembro de 2010*
 
-![Clipping - Caixa de Criadores 2010](/assets/images/clipping-caixa-de-criadores-2010-02.jpg)
+![Junho de 2010](/assets/images/clipping-caixa-de-criadores-2010-02.jpg)
+*Junho de 2010*
 
-Matérias publicadas em Junho e Dezembro de 2010.
+Matérias publicadas em junho e dezembro de 2010.
 
-Reportagem veiculada no Jornal RBA/BAND (Junho/2010).
+## Reportagem Televisiva
+
+<div style="text-align: center; margin: 20px 0;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/si79qUB4Y_M" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Reportagem veiculada no Jornal RBA/BAND (junho/2010).
 
 ---
 

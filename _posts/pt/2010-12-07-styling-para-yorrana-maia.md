@@ -8,7 +8,7 @@ author: Fernando Hage
 original_file: fernandohage.weebly.com/Migrated/styling-para-yorrana-maia.html
 ---
 
-# Styling para Yorrana Maia
+Styling da coleção da estilista Yorrana Maia apresentada na 10ª edição do Caixa de Criadores, na Estação das Docas.
 
 ## Galeria de Imagens
 
@@ -17,8 +17,6 @@ original_file: fernandohage.weebly.com/Migrated/styling-para-yorrana-maia.html
 ![Styling para Yorrana Maia](/assets/images/styling-para-yorrana-maia-02.jpg)
 
 ![Styling para Yorrana Maia](/assets/images/styling-para-yorrana-maia-03.jpg)
-
-Styling da coleção da estilista Yorrana Maia apresentada na 10a edição do Caixa de Criadores, na Estação das Docas.
 
 ---
 
