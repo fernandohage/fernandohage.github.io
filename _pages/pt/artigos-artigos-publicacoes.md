@@ -134,10 +134,10 @@ Caroline Serrão. Colóquio de Moda, 2013, Fortaleza
 
 ## Fontes Externas
 
-![Academia](https://faap.academia.edu/fernandohage/)
+[Academia](https://faap.academia.edu/fernandohage/)
 
-![ORCID](https://orcid.org/0000-0002-9535-8878)
+[ORCID](https://orcid.org/0000-0002-9535-8878)
 
-![Lattes](http://lattes.cnpq.br/2320739710304133)
+[Lattes](http://lattes.cnpq.br/2320739710304133)
 
 ![Picture](/assets/images/artigos-artigos-publicacoes-01.jpg)
