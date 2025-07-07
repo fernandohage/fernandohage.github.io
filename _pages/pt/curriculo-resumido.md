@@ -6,9 +6,6 @@ lang: pt
 original_file: fernandohage.weebly.com/curriculo.html
 ---
 
-## Acesse por Meio das Abas Abaixo
-Na seção de atuação você pode conferir links para diário de bordo com postagens relacionadas
-
 ## Formação
 
 **Doutor em Artes**  
