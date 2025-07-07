@@ -2,101 +2,52 @@
   <div class="header-wrapper">
     <div class="site-branding">
       <h1 class="site-title">
-        <a href="{{ '/' | relative_url }}">{% if page.lang == 'en' %}{{ site.en.title }}{% else %}{{ site.pt.title }}{% endif %}</a>
+        <a href="{{ '/' | relative_url }}">
+          {{ site.data[site.active_lang].strings.site.title }}
+        </a>
       </h1>
-      <p class="site-tagline">{% if page.lang == 'en' %}{{ site.en.tagline }}{% else %}{{ site.pt.tagline }}{% endif %}</p>
+      <p class="site-tagline">
+        {{site.data[site.active_lang].strings.site.tagline}}
+      </p>
     </div>
 
     <nav class="main-navigation">
       <ul class="nav-menu">
         
         <li class="menu-item has-dropdown">
-          <a href="#" onclick="return false;">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.research }}{% else %}{{ site.data.pt.strings.navigation.research }}{% endif %}</a>
+          <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.research }}</a>
           <ul class="dropdown-menu">
-            <li class="submenu-item">
-              <a href="{{ '/artigos-publicacoes' | relative_url }}">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.publications }}{% else %}{{ site.data.pt.strings.navigation.publications }}{% endif %}</a>
-            </li>
-            <li class="submenu-item">
-              <a href="{{ '/meulivro' | relative_url }}">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.book }}{% else %}{{ site.data.pt.strings.navigation.book }}{% endif %}</a>
-            </li>
-            <li class="submenu-item">
-              <a href="{{ '/tese-de-doutorado' | relative_url }}">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.phd }}{% else %}{{ site.data.pt.strings.navigation.phd }}{% endif %}</a>
-            </li>
-            <li class="submenu-item has-dropdown">
-              <a href="#" onclick="return false;">{% if page.lang == 'en' %}{{ site.data.en.strings.navigation.specials }}{% else %}{{ site.data.pt.strings.navigation.specials }}{% endif %}</a>
-              <ul class="dropdown-menu level-2">
-                <li class="submenu-item">
-                  <a href="{{ '/tresseculosdemodas' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.three_centuries }}</a>
-                </li>
-                <li class="submenu-item has-dropdown">
-                  <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.library }}</a>
-                  <ul class="dropdown-menu level-3">
-                    <li class="submenu-item">
-                      <a href="{{ '/livros-historia-moda-arte' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.fashion_art }}</a>
-                    </li>
-                    <li class="submenu-item">
-                      <a href="{{ '/livros-caricatura-ilustrados' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.engravings }}</a>
-                    </li>
-                    <li class="submenu-item">
-                      <a href="{{ '/revistas-francesas' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.french_magazines }}</a>
-                    </li>
-                    <li class="submenu-item">
-                      <a href="{{ '/revistas-brasileiras' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.brazilian_magazines }}</a>
-                    </li>
-                    <li class="submenu-item">
-                      <a href="{{ '/livros-brasileiros' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.brazilian_books }}</a>
-                    </li>
-                    <li class="submenu-item">
-                      <a href="{{ '/livros-textos-teatrais' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.theatrical_texts }}</a>
-                    </li>
-                    <li class="submenu-item">
-                      <a href="{{ '/livros-historia-francesa' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.french_history }}</a>
-                    </li>
-                    <li class="submenu-item">
-                      <a href="{{ '/livros-goncourt' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.goncourt_books }}</a>
-                    </li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
+            <li class="submenu-item"><a href="{{ '/artigos-publicacoes' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.publications }}</a></li>
+            <li class="submenu-item"><a href="{{ '/meulivro' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.book }}</a></li>
+            <li class="submenu-item"><a href="{{ '/tese-de-doutorado' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.phd }}</a></li>
+            <li class="submenu-item"><a href="{{ '/tresseculosdemodas' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.three_centuries }}</a></li>
+            <li class="submenu-item"><a href="{{ '/livros-historia-moda-arte' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.fashion_art }}</a></li>
+            <li class="submenu-item"><a href="{{ '/livros-caricatura-ilustrados' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.engravings }}</a></li>
+            <li class="submenu-item"><a href="{{ '/revistas-francesas' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.french_magazines }}</a></li>
+            <li class="submenu-item"><a href="{{ '/revistas-brasileiras' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.brazilian_magazines }}</a></li>
+            <li class="submenu-item"><a href="{{ '/livros-brasileiros' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.brazilian_books }}</a></li>
+            <li class="submenu-item"><a href="{{ '/livros-textos-teatrais' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.theatrical_texts }}</a></li>
+            <li class="submenu-item"><a href="{{ '/livros-historia-francesa' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.french_history }}</a></li>
+            <li class="submenu-item"><a href="{{ '/livros-goncourt' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.goncourt_books }}</a></li>
           </ul>
         </li>
         
         <li class="menu-item has-dropdown">
           <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.projects }}</a>
           <ul class="dropdown-menu">
-            <li class="submenu-item">
-              <a href="{{ '/diario-de-bordo' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.diary }}</a>
-            </li>
-            <li class="submenu-item has-dropdown">
-              <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.media }}</a>
-              <ul class="dropdown-menu level-2">
-                <li class="submenu-item">
-                  <a href="{{ '/podcasts' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.podcasts }}</a>
-                </li>
-                <li class="submenu-item">
-                  <a href="{{ '/videos' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.videos }}</a>
-                </li>
-              </ul>
-            </li>
-            <li class="submenu-item">
-              <a href="{{ '/territorio-da-moda' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.territory }}</a>
-            </li>
-            <li class="submenu-item">
-              <a href="{{ '/caixa-de-criadores' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.creators_box }}</a>
-            </li>
+            <li class="submenu-item"><a href="{{ '/diario-de-bordo' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.diary }}</a></li>
+            <li class="submenu-item"><a href="{{ '/podcasts' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.podcasts }}</a></li>
+            <li class="submenu-item"><a href="{{ '/videos' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.videos }}</a></li>
+            <li class="submenu-item"><a href="{{ '/territorio-da-moda' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.territory }}</a></li>
+            <li class="submenu-item"><a href="{{ '/caixa-de-criadores' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.creators_box }}</a></li>
           </ul>
         </li>
         
         <li class="menu-item has-dropdown">
           <a href="#" onclick="return false;">{{ site.data[site.active_lang].strings.navigation.info }}</a>
           <ul class="dropdown-menu">
-            <li class="submenu-item">
-              <a href="{{ '/curriculo-resumido' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.curriculum }}</a>
-            </li>
-            <li class="submenu-item">
-              <a href="{{ '/contato' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.contact }}</a>
-            </li>
+            <li class="submenu-item"><a href="{{ '/curriculo-resumido' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.curriculum }}</a></li>
+            <li class="submenu-item"><a href="{{ '/contato' | relative_url }}">{{ site.data[site.active_lang].strings.navigation.contact }}</a></li>
           </ul>
         </li>
       </ul>
@@ -133,19 +84,117 @@ document.addEventListener('DOMContentLoaded', function() {
   const navMenu = document.querySelector('.nav-menu');
   const dropdownItems = document.querySelectorAll('.menu-item.has-dropdown');
   
-  if (mobileToggle) {
-    mobileToggle.addEventListener('click', function() {
-      navMenu.classList.toggle('mobile-active');
-    });
+    let isOpen = false;
+  
+  function applyMobileStyles() {
+    if (window.innerWidth <= 768) {
+      // Apply mobile styles
+             navMenu.style.position = 'fixed';
+       navMenu.style.top = '70px';
+       navMenu.style.left = '0';
+       navMenu.style.width = '100vw';
+       navMenu.style.margin = '0';
+       navMenu.style.padding = '0';
+       navMenu.style.boxSizing = 'border-box';
+       navMenu.style.overflowX = 'hidden';
+       // Temporarily hide page scrollbar to prevent double scrollbars
+       document.body.style.overflowX = 'hidden';
+      navMenu.style.background = '#fff';
+      navMenu.style.borderTop = '1px solid #ddd';
+      navMenu.style.boxShadow = '0 4px 8px rgba(0,0,0,0.1)';
+      navMenu.style.zIndex = '9999';
+      navMenu.style.flexDirection = 'column';
+      navMenu.style.maxHeight = 'calc(100vh - 70px)';
+      navMenu.style.overflowY = 'auto';
+      navMenu.style.display = isOpen ? 'flex' : 'none';
+    } else {
+      // Clear mobile styles for desktop
+                    navMenu.style.position = '';
+       navMenu.style.top = '';
+       navMenu.style.left = '';
+       navMenu.style.right = '';
+       navMenu.style.width = '';
+       navMenu.style.margin = '';
+       navMenu.style.padding = '';
+       navMenu.style.boxSizing = '';
+       navMenu.style.overflowX = '';
+       navMenu.style.background = '';
+       navMenu.style.borderTop = '';
+       navMenu.style.boxShadow = '';
+       navMenu.style.zIndex = '';
+       navMenu.style.flexDirection = '';
+       navMenu.style.maxHeight = '';
+       navMenu.style.overflowY = '';
+       navMenu.style.display = '';
+       document.body.style.overflowX = '';
+       isOpen = false;
+       mobileToggle.classList.remove('active');
+    }
   }
   
-  dropdownItems.forEach(item => {
+  if (mobileToggle && navMenu) {
+    // Initial setup
+    applyMobileStyles();
+    
+    mobileToggle.addEventListener('click', function(e) {
+      e.preventDefault();
+      
+      if (window.innerWidth <= 768) {
+        if (isOpen) {
+          navMenu.style.display = 'none';
+          mobileToggle.classList.remove('active');
+          document.body.style.overflowX = '';
+          isOpen = false;
+        } else {
+          navMenu.style.display = 'flex';
+          mobileToggle.classList.add('active');
+          isOpen = true;
+        }
+      }
+    });
+    
+    // Handle window resize
+    window.addEventListener('resize', function() {
+      applyMobileStyles();
+    });
+  } else {
+    console.log('ERROR: Mobile toggle or nav menu not found!');
+  }
+  
+    dropdownItems.forEach(item => {
     const link = item.querySelector('a');
-    if (link && link.getAttribute('href') === '#') {
+    const dropdown = item.querySelector('.dropdown-menu');
+    if (link && link.getAttribute('href') === '#' && dropdown) {
       link.addEventListener('click', function(e) {
         e.preventDefault();
         if (window.innerWidth <= 768) {
-          item.classList.toggle('mobile-dropdown-open');
+          // Mobile: Toggle the dropdown visibility with inline styles
+          if (dropdown.style.display === 'block') {
+            dropdown.style.display = 'none';
+          } else {
+            // Hide all other dropdowns first
+            dropdownItems.forEach(otherItem => {
+              const otherDropdown = otherItem.querySelector('.dropdown-menu');
+              if (otherDropdown) {
+                otherDropdown.style.display = 'none';
+              }
+            });
+            // Show this dropdown
+            dropdown.style.display = 'block';
+          }
+        }
+        // Desktop: Let CSS handle hover effects (don't preventDefault)
+      });
+    }
+  });
+  
+  // Clear mobile dropdown styles on resize
+  window.addEventListener('resize', function() {
+    if (window.innerWidth > 768) {
+      dropdownItems.forEach(item => {
+        const dropdown = item.querySelector('.dropdown-menu');
+        if (dropdown) {
+          dropdown.style.display = '';
         }
       });
     }
@@ -153,7 +202,20 @@ document.addEventListener('DOMContentLoaded', function() {
   
   document.addEventListener('click', function(e) {
     if (!e.target.closest('.main-navigation')) {
-      navMenu.classList.remove('mobile-active');
+      if (window.innerWidth <= 768) {
+        navMenu.style.display = 'none';
+        mobileToggle.classList.remove('active');
+        document.body.style.overflowX = '';
+        isOpen = false;
+        
+        // Close any open dropdowns
+        dropdownItems.forEach(item => {
+          const dropdown = item.querySelector('.dropdown-menu');
+          if (dropdown) {
+            dropdown.style.display = 'none';
+          }
+        });
+      }
     }
   });
 });

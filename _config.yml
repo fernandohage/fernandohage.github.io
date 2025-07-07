@@ -51,4 +51,5 @@ exclude:
   - fernandohage.weebly.com
   - .venv
   - .vscode/
+  - scripts/
 
