@@ -6,9 +6,6 @@ lang: en
 original_file: fernandohage.weebly.com/curriculo.html
 ---
 
-## Access Through the Tabs Below
-In the professional experience section you can find links to a logbook with related posts
-
 ## Education
 
 **PhD in Arts**  
