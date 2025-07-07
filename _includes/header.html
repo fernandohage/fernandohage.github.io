@@ -85,11 +85,16 @@ document.addEventListener('DOMContentLoaded', function() {
   function applyMobileStyles() {
     if (window.innerWidth <= 768) {
       // Apply mobile styles
-      navMenu.style.position = 'fixed';
-      navMenu.style.top = '70px';
-      navMenu.style.left = '0';
-      navMenu.style.right = '0';
-      navMenu.style.width = '100vw';
+             navMenu.style.position = 'fixed';
+       navMenu.style.top = '70px';
+       navMenu.style.left = '0';
+       navMenu.style.width = '100vw';
+       navMenu.style.margin = '0';
+       navMenu.style.padding = '0';
+       navMenu.style.boxSizing = 'border-box';
+       navMenu.style.overflowX = 'hidden';
+       // Temporarily hide page scrollbar to prevent double scrollbars
+       document.body.style.overflowX = 'hidden';
       navMenu.style.background = '#fff';
       navMenu.style.borderTop = '1px solid #ddd';
       navMenu.style.boxShadow = '0 4px 8px rgba(0,0,0,0.1)';
@@ -100,21 +105,26 @@ document.addEventListener('DOMContentLoaded', function() {
       navMenu.style.display = isOpen ? 'flex' : 'none';
     } else {
       // Clear mobile styles for desktop
-      navMenu.style.position = '';
-      navMenu.style.top = '';
-      navMenu.style.left = '';
-      navMenu.style.right = '';
-      navMenu.style.width = '';
-      navMenu.style.background = '';
-      navMenu.style.borderTop = '';
-      navMenu.style.boxShadow = '';
-      navMenu.style.zIndex = '';
-      navMenu.style.flexDirection = '';
-      navMenu.style.maxHeight = '';
-      navMenu.style.overflowY = '';
-      navMenu.style.display = '';
-      isOpen = false;
-      mobileToggle.classList.remove('active');
+                    navMenu.style.position = '';
+       navMenu.style.top = '';
+       navMenu.style.left = '';
+       navMenu.style.right = '';
+       navMenu.style.width = '';
+       navMenu.style.margin = '';
+       navMenu.style.padding = '';
+       navMenu.style.boxSizing = '';
+       navMenu.style.overflowX = '';
+       navMenu.style.background = '';
+       navMenu.style.borderTop = '';
+       navMenu.style.boxShadow = '';
+       navMenu.style.zIndex = '';
+       navMenu.style.flexDirection = '';
+       navMenu.style.maxHeight = '';
+       navMenu.style.overflowY = '';
+       navMenu.style.display = '';
+       document.body.style.overflowX = '';
+       isOpen = false;
+       mobileToggle.classList.remove('active');
     }
   }
   
@@ -129,6 +139,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (isOpen) {
           navMenu.style.display = 'none';
           mobileToggle.classList.remove('active');
+          document.body.style.overflowX = '';
           isOpen = false;
         } else {
           navMenu.style.display = 'flex';
@@ -190,6 +201,7 @@ document.addEventListener('DOMContentLoaded', function() {
       if (window.innerWidth <= 768) {
         navMenu.style.display = 'none';
         mobileToggle.classList.remove('active');
+        document.body.style.overflowX = '';
         isOpen = false;
         
         // Close any open dropdowns
